@@ -6,15 +6,17 @@ using UnityEngine.UI;
 public class InsanityBar : MonoBehaviour
 {
     public bool isInHallucination;
-    [SerializeField] Image insanityBar;
+    public Image insanityBar;
+    [SerializeField] GameOver gameManager;
     [SerializeField] float drainSpeed = 1;
-    [SerializeField] GameObject gameOverScreen;
+    private GameOver gameOverScreen;
 
     // Start is called before the first frame update
     void Start()
     {
         isInHallucination = false;
-        gameOverScreen.SetActive(false);
+        gameOverScreen = gameManager.GetComponent<GameOver>();
+       // gameOverScreen.SetActive(false);
     }
 
     // Update is called once per frame
@@ -22,7 +24,8 @@ public class InsanityBar : MonoBehaviour
     {
         if(insanityBar.fillAmount <= 0)
         {
-            gameOverScreen.SetActive(true);
+            // gameOverScreen.SetActive(true);
+            gameOverScreen.EndGame();
         }
 
         UpdateInsanityBar();
