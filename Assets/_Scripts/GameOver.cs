@@ -8,20 +8,25 @@ public class GameOver : MonoBehaviour
     [SerializeField] GameObject player;
     [SerializeField] GameObject gameOverScreen;
     [SerializeField] AnimationClip deathAnim;
+    private Animator animator;
+
+    private void Start()
+    {
+        animator = player.GetComponent<Animator>();
+    }
 
     public void EndGame()
     {
-        StartCoroutine(PlayDeathAnim());
-        
+        StartCoroutine(playDeathAnim());
         player.GetComponent<PlayerMovement>().enabled = false;
     }
 
-    /*private IEnumerator PlayDeathAnim()
+    private IEnumerator playDeathAnim()
     {
         deathAnim.wrapMode = WrapMode.Once;
-        Animation.Play(deathAnim.);
-        player.GetComponent<PlayerMovement>().PlayerDeath();
-        yield return new WaitForSecondsRealtime(deathAnim.length+5f);
-        gameOverScreen.SetActive(true);*/
-    //}
+        animator.Play(deathAnim.name);
+        yield return new WaitForSecondsRealtime(deathAnim.length-0.5f);
+        animator.enabled = false;
+        gameOverScreen.SetActive(true);
+    }
 }
