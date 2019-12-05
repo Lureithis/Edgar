@@ -1,0 +1,1735 @@
+fileFormatVersion: 2
+guid: 0c86dd4bae0f6404da72554e63949474
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7788208375416660866
+    second: Poe_dying_0
+  - first:
+      213: 2977400163560978182
+    second: Poe_dying_1
+  - first:
+      213: 596597539670427834
+    second: Poe_dying_2
+  - first:
+      213: -3139137224527052189
+    second: Poe_dying_3
+  - first:
+      213: -708262516573936676
+    second: Poe_dying_4
+  - first:
+      213: 917206015568818901
+    second: Poe_dying_5
+  - first:
+      213: -7776605790649470825
+    second: Poe_dying_6
+  - first:
+      213: 7840924583083086169
+    second: Poe_dying_7
+  - first:
+      213: 6569508455324923870
+    second: Poe_dying_8
+  - first:
+      213: -4684240574626787128
+    second: Poe_dying_9
+  - first:
+      213: 3293210967635535476
+    second: Poe_dying_10
+  - first:
+      213: 6438265192624098493
+    second: Poe_dying_11
+  - first:
+      213: -3204527765558641609
+    second: Poe_dying_12
+  - first:
+      213: 2911069938586766324
+    second: Poe_dying_13
+  - first:
+      213: 4614848622741273563
+    second: Poe_dying_14
+  - first:
+      213: 4403196719105083009
+    second: Poe_dying_15
+  - first:
+      213: -2633527482996808077
+    second: Poe_dying_16
+  - first:
+      213: -8037918796894362196
+    second: Poe_dying_17
+  - first:
+      213: 6192523021542181733
+    second: Poe_dying_18
+  - first:
+      213: -5397142061747988409
+    second: Poe_dying_19
+  - first:
+      213: 3044791088089337413
+    second: Poe_dying_20
+  - first:
+      213: -6766528699496461654
+    second: Poe_dying_21
+  - first:
+      213: -788192129138179305
+    second: Poe_dying_22
+  - first:
+      213: 1075441531130456805
+    second: Poe_dying_23
+  - first:
+      213: 6528352945482793332
+    second: Poe_dying_24
+  - first:
+      213: -1588713894695415326
+    second: Poe_dying_25
+  - first:
+      213: -7500302755725453035
+    second: Poe_dying_26
+  - first:
+      213: 6394983846948084012
+    second: Poe_dying_27
+  - first:
+      213: 1251404330337816585
+    second: Poe_dying_28
+  - first:
+      213: 689653750024176940
+    second: Poe_dying_29
+  - first:
+      213: -8675121530592067514
+    second: Poe_dying_30
+  - first:
+      213: -158262449334939053
+    second: Poe_dying_31
+  - first:
+      213: 5579902138369169711
+    second: Poe_dying_32
+  - first:
+      213: 7932756411736505179
+    second: Poe_dying_33
+  - first:
+      213: 6537216846348539369
+    second: Poe_dying_34
+  - first:
+      213: -5382291696430395201
+    second: Poe_dying_35
+  - first:
+      213: -6301838455377735512
+    second: Poe_dying_36
+  - first:
+      213: 7820190050958905567
+    second: Poe_dying_37
+  - first:
+      213: -7358140755640282907
+    second: Poe_dying_38
+  - first:
+      213: -8786101852891768726
+    second: Poe_dying_39
+  - first:
+      213: 2893129422816384523
+    second: Poe_dying_40
+  - first:
+      213: 7441385233054156586
+    second: Poe_dying_41
+  - first:
+      213: -8393526811717133935
+    second: Poe_dying_42
+  - first:
+      213: 7725421005465061743
+    second: Poe_dying_43
+  - first:
+      213: 4656493489521245719
+    second: Poe_dying_44
+  - first:
+      213: -7794083315000525194
+    second: Poe_dying_45
+  - first:
+      213: -1981393026322986747
+    second: Poe_dying_46
+  - first:
+      213: -2207667365539863252
+    second: Poe_dying_47
+  - first:
+      213: 4772748371300356247
+    second: Poe_dying_48
+  - first:
+      213: 3176886430461656552
+    second: Poe_dying_49
+  - first:
+      213: -9095595515497987599
+    second: Poe_dying_50
+  - first:
+      213: 6467981763372809227
+    second: Poe_dying_51
+  - first:
+      213: 825490045845991860
+    second: Poe_dying_52
+  - first:
+      213: -1306460571179304838
+    second: Poe_dying_53
+  - first:
+      213: -7914400445623413113
+    second: Poe_dying_54
+  - first:
+      213: -3715473438264056808
+    second: Poe_dying_55
+  - first:
+      213: -6790780796335996637
+    second: Poe_dying_56
+  - first:
+      213: 1780105432974334934
+    second: Poe_dying_57
+  - first:
+      213: -8410252959870862387
+    second: Poe_dying_58
+  - first:
+      213: 7221808353201263159
+    second: Poe_dying_59
+  - first:
+      213: -2995507987301878112
+    second: Poe_dying_60
+  - first:
+      213: 4486709838355513728
+    second: Poe_dying_61
+  - first:
+      213: 7116697869226131678
+    second: Poe_dying_62
+  - first:
+      213: 253119107145333046
+    second: Poe_dying_63
+  - first:
+      213: 5734640705202619425
+    second: Poe_dying_64
+  - first:
+      213: 4370794725858184441
+    second: Poe_dying_65
+  - first:
+      213: 216257345758146111
+    second: Poe_dying_66
+  - first:
+      213: 688677213152949003
+    second: Poe_dying_67
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poe_dying_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d10bea8eb288f438e54cf85971f356
+      internalID: 7788208375416660866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f653f0fed79cb409363d40f80ae176
+      internalID: 2977400163560978182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c4f7712ca7b8d47b8c974474bc876b
+      internalID: 596597539670427834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4994045b89651184a906b1f9f0f32436
+      internalID: -3139137224527052189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff00cb27b8a0c84e8483a913fe71b52
+      internalID: -708262516573936676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646fcd837f2d1341a8f62bb85912bd2
+      internalID: 917206015568818901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38035d3f28a2bb74bbf281ece3fc6926
+      internalID: -7776605790649470825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_7
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede799562418bfb4bba6a7c7b3bc6599
+      internalID: 7840924583083086169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65e573286a411c42b44cf70bea71ce9
+      internalID: 6569508455324923870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ceb6039b1cf6b4cba5fe6aba4414a5
+      internalID: -4684240574626787128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_10
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bf6eafe7c1b264bab33298a8d01250
+      internalID: 3293210967635535476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_11
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a952fac64cb6104495f30084128b45b
+      internalID: 6438265192624098493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_12
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba4a3e403a0f1c49ade83aa8e0bdb6e
+      internalID: -3204527765558641609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_13
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26615f83a1278aa4f899eff80f3924cf
+      internalID: 2911069938586766324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_14
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e57e51a5ea3cf40ad3c13faa1c3fda
+      internalID: 4614848622741273563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_15
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5072644ea435e6b488bbd13d0f93c501
+      internalID: 4403196719105083009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15341125f6a1146b123a442b45b1c7
+      internalID: -2633527482996808077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d9f2d91a6a2a542b65f67fbb09dba2
+      internalID: -8037918796894362196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c208c23cf28b49499a307851a97daf3
+      internalID: 6192523021542181733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_19
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e43fc9c912f3ae4b948bff6a0159a26
+      internalID: -5397142061747988409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_20
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99894f30206d6414a9152a19be7c1db9
+      internalID: 3044791088089337413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_21
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81bb478085e0864c81b7c0e7e1c90cf
+      internalID: -6766528699496461654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_22
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13be421c483dacb4abdd715bc0fc3b5c
+      internalID: -788192129138179305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_23
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433d20b6cc12ef42b67c498cb1f684c
+      internalID: 1075441531130456805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1ca6899d7aec49b7882c0af5f4270
+      internalID: 6528352945482793332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_25
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72fd2b78273ed4448339340cc7b4561
+      internalID: -1588713894695415326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_26
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1690a96d306a2d4aa2f925df83da336
+      internalID: -7500302755725453035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_27
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab997d285faea24a9e720af5d1af9a0
+      internalID: 6394983846948084012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_28
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd85b9c83d90d104bab27626b1c0a149
+      internalID: 1251404330337816585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda3b21a67c5d5442a5bc5a106b82a1a
+      internalID: 689653750024176940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_30
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659a3615496e3814eae88df962cde4fa
+      internalID: -8675121530592067514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_31
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d33fdb70d48f4d994bbd68e0af2cc
+      internalID: -158262449334939053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5303e04411d24c44a75f72b80a01b19
+      internalID: 5579902138369169711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_33
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc375a511fa68e49a8f19f31b708680
+      internalID: 7932756411736505179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_34
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54007902492e0884ab25af3e86ecdaa1
+      internalID: 6537216846348539369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_35
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61eeaae2d16e0c4cbadbd8865df502e
+      internalID: -5382291696430395201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_36
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37992afab14a9aa4c8bf7546c0a4bd3b
+      internalID: -6301838455377735512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_37
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d3203c76a4d284d8fbdd1db6feb371
+      internalID: 7820190050958905567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_38
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ff098c8abe884ab903a834a0686c7
+      internalID: -7358140755640282907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_39
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040f17f7ebd26ac49acc95fa3ff559df
+      internalID: -8786101852891768726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363123454a982d3418980e8693ee831c
+      internalID: 2893129422816384523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_41
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220d06b15a450784587855b014e23e07
+      internalID: 7441385233054156586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_42
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619886c324cb8104ab0b861081cf0bf8
+      internalID: -8393526811717133935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_43
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e49586ed088f148b1077487afd7e9b
+      internalID: 7725421005465061743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_44
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de53047c12a2b5b4b91cfe29ef1f71b4
+      internalID: 4656493489521245719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_45
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581ac4bf2ee18a64fafc91e49a8c1059
+      internalID: -7794083315000525194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_46
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568dd3302eafdec4ea399e155054add5
+      internalID: -1981393026322986747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_47
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8686cfe966539f4480decd95bb92c2c
+      internalID: -2207667365539863252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e135dd709586d4887710ba9dea1274
+      internalID: 4772748371300356247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_49
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47929a57d54554d849cd25109baa75
+      internalID: 3176886430461656552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_50
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6aed49f1ab2f246871c65141a4827c
+      internalID: -9095595515497987599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_51
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bebcfbc6f062984d8c4bd5f67516488
+      internalID: 6467981763372809227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_52
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0106afc569bc45a8f89fd0e93b361
+      internalID: 825490045845991860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_53
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93762d9ad91a7bb41841140bb170d3de
+      internalID: -1306460571179304838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_54
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3bb95e09bc164f8fa86351bc165a8
+      internalID: -7914400445623413113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_55
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2689b8a55e3d5a24797dcac0f0866e67
+      internalID: -3715473438264056808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6c125a73e8ef4199b80baa00ae7a9
+      internalID: -6790780796335996637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1ead4ed84ca9248a78fa92f5a7a47d
+      internalID: 1780105432974334934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_58
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c35e9d067ee6d4189fc74b08a5d9af
+      internalID: -8410252959870862387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191d6db383a5ba3409d8425ef64a6513
+      internalID: 7221808353201263159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_60
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0271ac56b5e7134ebc16dc59fc19599
+      internalID: -2995507987301878112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_61
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90882e299279af44380f556f021eabaf
+      internalID: 4486709838355513728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_62
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eaae09772cc724faba43e03cb12f20
+      internalID: 7116697869226131678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_63
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae2a6f8ac7e074097f02961903b250
+      internalID: 253119107145333046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00ddfcf70d2f045a9b1ad081dd36c5
+      internalID: 5734640705202619425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_65
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e248972cdc0efe45b98fe7b94a74100
+      internalID: 4370794725858184441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_66
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e6a32a7f88b44689179ef46815520
+      internalID: 216257345758146111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_dying_67
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d73499a3db8acd4ab19f31afac665f5
+      internalID: 688677213152949003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

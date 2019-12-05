@@ -1,0 +1,3103 @@
+fileFormatVersion: 2
+guid: 989601a22bd1e164b8d7a25f4b3bcbaf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6446186022173112126
+    second: Poe_jumping_0
+  - first:
+      213: -7491481941624590849
+    second: Poe_jumping_1
+  - first:
+      213: 2821606308658719009
+    second: Poe_jumping_2
+  - first:
+      213: 467514408244885342
+    second: Poe_jumping_3
+  - first:
+      213: -2772394566079091883
+    second: Poe_jumping_4
+  - first:
+      213: -5035522006328215408
+    second: Poe_jumping_5
+  - first:
+      213: -5049314759181851335
+    second: Poe_jumping_6
+  - first:
+      213: 3646442103937904797
+    second: Poe_jumping_7
+  - first:
+      213: -3453388223168321810
+    second: Poe_jumping_8
+  - first:
+      213: 3207256893926616044
+    second: Poe_jumping_9
+  - first:
+      213: -733038917706112068
+    second: Poe_jumping_10
+  - first:
+      213: -3966432185858870759
+    second: Poe_jumping_11
+  - first:
+      213: -8297469551221744469
+    second: Poe_jumping_12
+  - first:
+      213: -4620740345109306005
+    second: Poe_jumping_13
+  - first:
+      213: 9052474026193530690
+    second: Poe_jumping_14
+  - first:
+      213: 3176885372373725770
+    second: Poe_jumping_15
+  - first:
+      213: 748253696210707414
+    second: Poe_jumping_16
+  - first:
+      213: 5477552135814766369
+    second: Poe_jumping_17
+  - first:
+      213: -7333313308374566804
+    second: Poe_jumping_18
+  - first:
+      213: 8989500763902800215
+    second: Poe_jumping_19
+  - first:
+      213: 8582037695619581204
+    second: Poe_jumping_20
+  - first:
+      213: -8833038709447930800
+    second: Poe_jumping_21
+  - first:
+      213: 7198667483498756702
+    second: Poe_jumping_22
+  - first:
+      213: 8703499843286341278
+    second: Poe_jumping_23
+  - first:
+      213: -3636797269790436711
+    second: Poe_jumping_24
+  - first:
+      213: 1437542500345772739
+    second: Poe_jumping_25
+  - first:
+      213: -1201450100733608150
+    second: Poe_jumping_26
+  - first:
+      213: 6122277637578928364
+    second: Poe_jumping_27
+  - first:
+      213: 5006342850357490844
+    second: Poe_jumping_28
+  - first:
+      213: 3911236097525947939
+    second: Poe_jumping_29
+  - first:
+      213: -2985192526662501144
+    second: Poe_jumping_30
+  - first:
+      213: 1119531686410084041
+    second: Poe_jumping_31
+  - first:
+      213: 6621908789307662307
+    second: Poe_jumping_32
+  - first:
+      213: 6178354151217393963
+    second: Poe_jumping_33
+  - first:
+      213: -2901123726210096706
+    second: Poe_jumping_34
+  - first:
+      213: 768940732287936389
+    second: Poe_jumping_35
+  - first:
+      213: -4423515201868717066
+    second: Poe_jumping_36
+  - first:
+      213: 8224862537362940873
+    second: Poe_jumping_37
+  - first:
+      213: -8863331262148846276
+    second: Poe_jumping_38
+  - first:
+      213: 1827512843144890537
+    second: Poe_jumping_39
+  - first:
+      213: -1522304117965078704
+    second: Poe_jumping_40
+  - first:
+      213: -8350756707840313835
+    second: Poe_jumping_41
+  - first:
+      213: -4000060517215282834
+    second: Poe_jumping_42
+  - first:
+      213: 8618831894337646717
+    second: Poe_jumping_43
+  - first:
+      213: 9178625312608056352
+    second: Poe_jumping_44
+  - first:
+      213: -79973377860861116
+    second: Poe_jumping_45
+  - first:
+      213: 1369099095909660745
+    second: Poe_jumping_46
+  - first:
+      213: 4325638789652422738
+    second: Poe_jumping_47
+  - first:
+      213: -4513385113178238849
+    second: Poe_jumping_48
+  - first:
+      213: -2621744979890282418
+    second: Poe_jumping_49
+  - first:
+      213: -3328428144844174539
+    second: Poe_jumping_50
+  - first:
+      213: -6207951511491379134
+    second: Poe_jumping_51
+  - first:
+      213: -3710629552406830536
+    second: Poe_jumping_52
+  - first:
+      213: 7733293733854056274
+    second: Poe_jumping_53
+  - first:
+      213: 6046812095010989449
+    second: Poe_jumping_54
+  - first:
+      213: -2736206423609450051
+    second: Poe_jumping_55
+  - first:
+      213: 576351179187336597
+    second: Poe_jumping_56
+  - first:
+      213: 5868697484485383378
+    second: Poe_jumping_57
+  - first:
+      213: -3472642169431115368
+    second: Poe_jumping_58
+  - first:
+      213: -5021202831872438686
+    second: Poe_jumping_59
+  - first:
+      213: 3354091570405048828
+    second: Poe_jumping_60
+  - first:
+      213: 4460175933378108366
+    second: Poe_jumping_61
+  - first:
+      213: -7668930842032109834
+    second: Poe_jumping_62
+  - first:
+      213: 5568598165572299890
+    second: Poe_jumping_63
+  - first:
+      213: 4842032758664688343
+    second: Poe_jumping_64
+  - first:
+      213: 7872325558721815047
+    second: Poe_jumping_65
+  - first:
+      213: -5555330487114868267
+    second: Poe_jumping_66
+  - first:
+      213: 8848269326463799908
+    second: Poe_jumping_67
+  - first:
+      213: 4554966950651050418
+    second: Poe_jumping_68
+  - first:
+      213: 4854152007853981582
+    second: Poe_jumping_69
+  - first:
+      213: -5940421781620755388
+    second: Poe_jumping_70
+  - first:
+      213: 5224071406559375246
+    second: Poe_jumping_71
+  - first:
+      213: 7906120187345621366
+    second: Poe_jumping_72
+  - first:
+      213: 4087614676787544459
+    second: Poe_jumping_73
+  - first:
+      213: 4737062955207512865
+    second: Poe_jumping_74
+  - first:
+      213: -2606551294654306688
+    second: Poe_jumping_75
+  - first:
+      213: -4494772319814031279
+    second: Poe_jumping_76
+  - first:
+      213: -3647277502297792392
+    second: Poe_jumping_77
+  - first:
+      213: -5772801287349177563
+    second: Poe_jumping_78
+  - first:
+      213: 4410407908198717447
+    second: Poe_jumping_79
+  - first:
+      213: -7217389748903306856
+    second: Poe_jumping_80
+  - first:
+      213: -7173633850920170587
+    second: Poe_jumping_81
+  - first:
+      213: 6077147197362111065
+    second: Poe_jumping_82
+  - first:
+      213: 4800404485564514990
+    second: Poe_jumping_83
+  - first:
+      213: 5770300606409505498
+    second: Poe_jumping_84
+  - first:
+      213: -8259765441814985529
+    second: Poe_jumping_85
+  - first:
+      213: 6598925553533161997
+    second: Poe_jumping_86
+  - first:
+      213: -2521321488384933238
+    second: Poe_jumping_87
+  - first:
+      213: 4144585919798168950
+    second: Poe_jumping_88
+  - first:
+      213: 1426239801354036262
+    second: Poe_jumping_89
+  - first:
+      213: 7313229105207295093
+    second: Poe_jumping_90
+  - first:
+      213: -7637992138065365015
+    second: Poe_jumping_91
+  - first:
+      213: 3269285700756636066
+    second: Poe_jumping_92
+  - first:
+      213: -9192951794137930082
+    second: Poe_jumping_93
+  - first:
+      213: 4427996248523128252
+    second: Poe_jumping_94
+  - first:
+      213: -2185571322643840549
+    second: Poe_jumping_95
+  - first:
+      213: 4555039108341159057
+    second: Poe_jumping_96
+  - first:
+      213: 2444856709449730775
+    second: Poe_jumping_97
+  - first:
+      213: -3724518749580213096
+    second: Poe_jumping_98
+  - first:
+      213: -1563583702780087126
+    second: Poe_jumping_99
+  - first:
+      213: 4602331768588054348
+    second: Poe_jumping_100
+  - first:
+      213: -204067233154177015
+    second: Poe_jumping_101
+  - first:
+      213: 8304682885908025389
+    second: Poe_jumping_102
+  - first:
+      213: 206890866269375260
+    second: Poe_jumping_103
+  - first:
+      213: 7245765552689530652
+    second: Poe_jumping_104
+  - first:
+      213: -3712956051523664030
+    second: Poe_jumping_105
+  - first:
+      213: -1815985712563062292
+    second: Poe_jumping_106
+  - first:
+      213: -8259150943752223444
+    second: Poe_jumping_107
+  - first:
+      213: 7766861682774020670
+    second: Poe_jumping_108
+  - first:
+      213: -7929813331318753404
+    second: Poe_jumping_109
+  - first:
+      213: 2797230954735491486
+    second: Poe_jumping_110
+  - first:
+      213: 2761525158017995626
+    second: Poe_jumping_111
+  - first:
+      213: -1036914691552845685
+    second: Poe_jumping_112
+  - first:
+      213: 9003997658876139605
+    second: Poe_jumping_113
+  - first:
+      213: 4026068097416129713
+    second: Poe_jumping_114
+  - first:
+      213: -1009214732048337693
+    second: Poe_jumping_115
+  - first:
+      213: -4966219695409004856
+    second: Poe_jumping_116
+  - first:
+      213: -90365009092644141
+    second: Poe_jumping_117
+  - first:
+      213: 8341963875899232548
+    second: Poe_jumping_118
+  - first:
+      213: 5901400641277206907
+    second: Poe_jumping_119
+  - first:
+      213: -4741067261493827578
+    second: Poe_jumping_120
+  - first:
+      213: 7030048997682252907
+    second: Poe_jumping_121
+  - first:
+      213: 5971622735489411316
+    second: Poe_jumping_122
+  - first:
+      213: 1664025646173450995
+    second: Poe_jumping_123
+  - first:
+      213: -1571376709090950196
+    second: Poe_jumping_124
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poe_jumping_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d39c9e18e241c4a91aecd878bd4729
+      internalID: 6446186022173112126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cdb597b4f67a14ebaeea05bd95e206
+      internalID: -7491481941624590849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c72a5c4e8eded4daf0f5c3fcf2e130
+      internalID: 2821606308658719009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4048d4912a1be234eb35a45081fe7da0
+      internalID: 467514408244885342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b475ccf94c136924cb859c75117313db
+      internalID: -2772394566079091883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4b843ec7cba540b026deb518cf57b
+      internalID: -5035522006328215408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a01f90822cd445934fa383041c791
+      internalID: -5049314759181851335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adcb4960f74ff47bfc19e845d7125e
+      internalID: 3646442103937904797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22f378d4da66374680ed2389ac0e2ec
+      internalID: -3453388223168321810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a6f3b946a26f429ccb76675ffc810
+      internalID: 3207256893926616044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fa76afb2010864890493bbf8777570
+      internalID: -733038917706112068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d25389f6f9bc8047bc76e6c532ef2c0
+      internalID: -3966432185858870759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0dca0d0fb3f9b4887bad941558870c
+      internalID: -8297469551221744469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e247e0c38cf0f4a85b81a252d4ab45
+      internalID: -4620740345109306005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ab4113080d270499c62784acc00705
+      internalID: 9052474026193530690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_15
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b2be2a44782764f8846f026587f82a
+      internalID: 3176885372373725770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_16
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fd2781a4b3ec14ca1ee13c6cb25517
+      internalID: 748253696210707414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa84c02243e7cef499f52ca04e96aa3d
+      internalID: 5477552135814766369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_18
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe95080fc03b50428669bb041e26ca6
+      internalID: -7333313308374566804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05d252bc957fb34ca29316295f49996
+      internalID: 8989500763902800215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_20
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129cb9430501914fb34179f47722344
+      internalID: 8582037695619581204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d441c21b44de41844884dba34008e192
+      internalID: -8833038709447930800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a938a2dd2bdd41c458f8188cbe346fd7
+      internalID: 7198667483498756702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db81ac5caacf3fe4eafe8017e95d71f6
+      internalID: 8703499843286341278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6234aff095c1b6e4ebe5a6c6a1970e93
+      internalID: -3636797269790436711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a0bda5a5ee35498341a3072a3891b
+      internalID: 1437542500345772739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aaed08ff971e3148a76b701f7ccef2e
+      internalID: -1201450100733608150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_27
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b2901e5b8f66745b3c5934ca82667b
+      internalID: 6122277637578928364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687d8579cb775324785348c4bf6f19c2
+      internalID: 5006342850357490844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c50cc1c82a6cb94988c5c5f0c4840dd
+      internalID: 3911236097525947939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_30
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3d3bef369cf04eb3d6aeaca8fc4df
+      internalID: -2985192526662501144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_31
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7235b472ebb5842ad19557ec8e2a70
+      internalID: 1119531686410084041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_32
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3291c1dbe54fe2d4cb859b3f70b8e0b1
+      internalID: 6621908789307662307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef00ef1ea930834898a31cdbaa4a1b3
+      internalID: 6178354151217393963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7e183c32aa6747aa00ede54d6fd99
+      internalID: -2901123726210096706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc38ff8432214243aa6210840685dce
+      internalID: 768940732287936389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2925116b7fd97c42b3039b049af9e12
+      internalID: -4423515201868717066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_37
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f41eddc4842a429d5499bc73fbe0e
+      internalID: 8224862537362940873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_38
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d73ddb751d26f49bd0850d416af837
+      internalID: -8863331262148846276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_39
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a78e08d4e4d8f459b0c22d82a04f88
+      internalID: 1827512843144890537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df104bdf3e70a004dab810b094c7f41c
+      internalID: -1522304117965078704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_41
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a70f01d7316604cb64ad134fe44875
+      internalID: -8350756707840313835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_42
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c872f3bd25e17ed4a8dc5eed84369fb5
+      internalID: -4000060517215282834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_43
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80856c58c6c7b6d41932794d1c01004e
+      internalID: 8618831894337646717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dab15d06b5934e4cb72d18e36f5450a
+      internalID: 9178625312608056352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d4d8953c2cc94cabc11e7f4da8b24
+      internalID: -79973377860861116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffee796ae792f1479ddcc129c429eb7
+      internalID: 1369099095909660745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_47
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a18788ef298bfb4c90a91e20c9493f5
+      internalID: 4325638789652422738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1fa0fafc91d8b40be033e7df3e0126
+      internalID: -4513385113178238849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_49
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e3fb74c5e89d44bc52c530401db04
+      internalID: -2621744979890282418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_50
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d736c6367c554ef4e908fcec3a5d913d
+      internalID: -3328428144844174539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_51
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0951e60193eac4da7c662b51080a12
+      internalID: -6207951511491379134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd2e33c57623d45b0b35d3164254ea
+      internalID: -3710629552406830536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f764a7011e2a66a4ea63acf142fcec11
+      internalID: 7733293733854056274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_54
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46708d89c55d0e24089482692681e7a1
+      internalID: 6046812095010989449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea74fa8600f06d4e9f174da14a51e34
+      internalID: -2736206423609450051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac891e193372f74ea3eb4c6013f0596
+      internalID: 576351179187336597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0985152d45d4549a8c1b361305e0dd
+      internalID: 5868697484485383378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0d7bdbb048b154390f8248236a19e2
+      internalID: -3472642169431115368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_59
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67a2ec7c3e94e54ebfc8821f6a3bcd0
+      internalID: -5021202831872438686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_60
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ae83d5d67f3b64d8ed075932379b03
+      internalID: 3354091570405048828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_61
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1102edaf3d2943878616a6bd77b5d
+      internalID: 4460175933378108366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_62
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0b725fb62c6a74b9d25cee7ea0d09a
+      internalID: -7668930842032109834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_63
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e913a61e0c80940b91c44e2b805b19
+      internalID: 5568598165572299890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_64
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437445ff5569ef24d93541cc93861b26
+      internalID: 4842032758664688343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_65
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376f04e9020fc749be20b3087a71f7c
+      internalID: 7872325558721815047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862b18c0621e2ea4bb0dc56a6d3ce74a
+      internalID: -5555330487114868267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a992791d70f1649b75eae175401128
+      internalID: 8848269326463799908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288fe330bd1706e459cd6527f8d2e7c5
+      internalID: 4554966950651050418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_69
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0740a3724b901549899b7c24fd33e3f
+      internalID: 4854152007853981582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_70
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e662773be46544086c55df9938cb2c
+      internalID: -5940421781620755388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_71
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b82f6cd69fb24488c1fd10c5abf1bb
+      internalID: 5224071406559375246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73db5fe841f343843b7ecc3d9907da0b
+      internalID: 7906120187345621366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_73
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded7a7c179502e48809cbceee09b141
+      internalID: 4087614676787544459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_74
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3970e7d2c3b66724a88aeef33247a2a5
+      internalID: 4737062955207512865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_75
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd45e4628a17ac45b7e0db57ae91001
+      internalID: -2606551294654306688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_76
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2436a04be39a24fa4a9a247457ca40
+      internalID: -4494772319814031279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8806a5c1381ec48bfcbf1eef2b6b02
+      internalID: -3647277502297792392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16aea2c88cf19b4eb7b9a1472bdc929
+      internalID: -5772801287349177563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_79
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b346d5c0cbd2418270ef98a262067
+      internalID: 4410407908198717447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_80
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867b354e48403442b719b1c08916689
+      internalID: -7217389748903306856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_81
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3e68df92994d4ca8cac926713858b
+      internalID: -7173633850920170587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_82
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a968550f0aea4e91149b0cd1bc5e2
+      internalID: 6077147197362111065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_83
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64883da6bba4c4f8d3035a7d546710
+      internalID: 4800404485564514990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_84
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d743c4bd0f0fdb04b96330a6da76cd03
+      internalID: 5770300606409505498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_85
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfad9edd3cb5ccf49b108c42c49ac012
+      internalID: -8259765441814985529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_86
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8741c9685de40d4a8baebf3a069f326
+      internalID: 6598925553533161997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_87
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359137dd40f37bf47accf756ac1d75cd
+      internalID: -2521321488384933238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cf7d8bbbec80547a7f73345b3e7ea7
+      internalID: 4144585919798168950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470a5cf425de72468cf3873f786c1ea
+      internalID: 1426239801354036262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63f13a3a1a85b942af17b9c176b61b3
+      internalID: 7313229105207295093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0bee38de1f5724a813db1368e8b667
+      internalID: -7637992138065365015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_92
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0ed278be4ae8a448fb00f5eccea4eb
+      internalID: 3269285700756636066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_93
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc62ea3c54d87428c278cfb82ab8a6
+      internalID: -9192951794137930082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_94
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714d353f001d5824388fbdf0773f4ea6
+      internalID: 4427996248523128252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_95
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0076337c3a51ee543934762357ab1520
+      internalID: -2185571322643840549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_96
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7711ace02759e348b5cfb3b0dd1dfec
+      internalID: 4555039108341159057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_97
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c1b7634e814524c88c173cd3aba069
+      internalID: 2444856709449730775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_98
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921831e1291f274cba0978bc2033f3b
+      internalID: -3724518749580213096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca34ed782a9f354c815d79dd8adb985
+      internalID: -1563583702780087126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d0beeb8abf8a459cf5ecc10da4a08
+      internalID: 4602331768588054348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_101
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe76c41c138cea45947470b13e30215
+      internalID: -204067233154177015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_102
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918745d69333a9c4d980a34606b2409a
+      internalID: 8304682885908025389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_103
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed624064539fd46bd2340821363b78
+      internalID: 206890866269375260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_104
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26b408d1afb2db4c9af3cfe0d7677f5
+      internalID: 7245765552689530652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_105
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80e45d733e5b544aae7b8e081dcb67
+      internalID: -3712956051523664030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_106
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ffb0a760d937544b8a3fccf0b9a31f
+      internalID: -1815985712563062292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_107
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d0e1cab9c07db4880098010ae161f2
+      internalID: -8259150943752223444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_108
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352c594fe8ac38f4ea11ff8d09c2ca7e
+      internalID: 7766861682774020670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_109
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226f83b855a0fca4faeac4653cd34d11
+      internalID: -7929813331318753404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c013b4e0be1e6a4c8742fd2c3c86240
+      internalID: 2797230954735491486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88fb1a3ac1ecb2469de27d6bb53fd57
+      internalID: 2761525158017995626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_112
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63edc9c6a5645504585921414e152112
+      internalID: -1036914691552845685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_113
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d74c7dab9a82e44a307c0645a4938f
+      internalID: 9003997658876139605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_114
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532b6ed8f150284680bf3c760967efc
+      internalID: 4026068097416129713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_115
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6355cfadb2eb84fac31f559c514387
+      internalID: -1009214732048337693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_116
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d5773f6b9814d449d7e831d9227631
+      internalID: -4966219695409004856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_117
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d70e100c8da87e4cbcf68a59a808043
+      internalID: -90365009092644141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_118
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d235b3228a3c6014396ad8b4049e9518
+      internalID: 8341963875899232548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_119
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4c027ffa1cdbe4e98c9717ef589b8d
+      internalID: 5901400641277206907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_120
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af4b3c0064aa140b0af2acfc5700bd
+      internalID: -4741067261493827578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b034e555c96702428cb0fcfd43087a6
+      internalID: 7030048997682252907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_122
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55e5c634473374d979ec35312d9367
+      internalID: 5971622735489411316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_123
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddb2e09c23c9364c886ee7e0246d74d
+      internalID: 1664025646173450995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_jumping_124
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5879e86fdbf34faad5cd7ef9cd207
+      internalID: -1571376709090950196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -78,7 +78,11 @@ public class Stones : Obstacle
         yield return new WaitUntil(() => insanityBarScript.isInHallucination == false);
         foreach (GameObject item in stonesArray)
         {
-            item.GetComponent<Rigidbody2D>().velocity = originalVelocity;
+            if(item)
+            {
+                item.GetComponent<Rigidbody2D>().velocity = originalVelocity;
+            }
+            
         }
         isSpawning = false;
     }

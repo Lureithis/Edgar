@@ -1,0 +1,3103 @@
+fileFormatVersion: 2
+guid: 54c8b505ec082c24daff07bdee0ca89b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6442080895383337911
+    second: Poe_Swimming_0
+  - first:
+      213: 7624619556814078313
+    second: Poe_Swimming_1
+  - first:
+      213: 6782654100943554760
+    second: Poe_Swimming_2
+  - first:
+      213: 4519657234798203610
+    second: Poe_Swimming_3
+  - first:
+      213: -1305438132266269719
+    second: Poe_Swimming_4
+  - first:
+      213: -1264157215935802598
+    second: Poe_Swimming_5
+  - first:
+      213: 3482479747220432976
+    second: Poe_Swimming_6
+  - first:
+      213: -3612487307268007000
+    second: Poe_Swimming_7
+  - first:
+      213: -523293275028661705
+    second: Poe_Swimming_8
+  - first:
+      213: -8333782276283817992
+    second: Poe_Swimming_9
+  - first:
+      213: 1055830701091914644
+    second: Poe_Swimming_10
+  - first:
+      213: 2456863069203087923
+    second: Poe_Swimming_11
+  - first:
+      213: 4834328339190313104
+    second: Poe_Swimming_12
+  - first:
+      213: 3557024162756781073
+    second: Poe_Swimming_13
+  - first:
+      213: -2547058624939345905
+    second: Poe_Swimming_14
+  - first:
+      213: -4388588295463200314
+    second: Poe_Swimming_15
+  - first:
+      213: 4701795344697602716
+    second: Poe_Swimming_16
+  - first:
+      213: -7563611426359503723
+    second: Poe_Swimming_17
+  - first:
+      213: -8307746914686648382
+    second: Poe_Swimming_18
+  - first:
+      213: -6699180204246184734
+    second: Poe_Swimming_19
+  - first:
+      213: -8003600401832776720
+    second: Poe_Swimming_20
+  - first:
+      213: 5063876916107045651
+    second: Poe_Swimming_21
+  - first:
+      213: -8642248385539458846
+    second: Poe_Swimming_22
+  - first:
+      213: 1700857958852154758
+    second: Poe_Swimming_23
+  - first:
+      213: -3017423561784052385
+    second: Poe_Swimming_24
+  - first:
+      213: 8346718106996645766
+    second: Poe_Swimming_25
+  - first:
+      213: 7506238605397907510
+    second: Poe_Swimming_26
+  - first:
+      213: -3515618067561692432
+    second: Poe_Swimming_27
+  - first:
+      213: 3006548853086035959
+    second: Poe_Swimming_28
+  - first:
+      213: 4345782479453545699
+    second: Poe_Swimming_29
+  - first:
+      213: -7283509020582298847
+    second: Poe_Swimming_30
+  - first:
+      213: 2302881680533037090
+    second: Poe_Swimming_31
+  - first:
+      213: 8035620236981053007
+    second: Poe_Swimming_32
+  - first:
+      213: 8227023343695623752
+    second: Poe_Swimming_33
+  - first:
+      213: -2172299490011527296
+    second: Poe_Swimming_34
+  - first:
+      213: -7503967448301321752
+    second: Poe_Swimming_35
+  - first:
+      213: -4193542079243284546
+    second: Poe_Swimming_36
+  - first:
+      213: 5304691626647753735
+    second: Poe_Swimming_37
+  - first:
+      213: -2789664824777663078
+    second: Poe_Swimming_38
+  - first:
+      213: 8000478802721059286
+    second: Poe_Swimming_39
+  - first:
+      213: -4527767119594440969
+    second: Poe_Swimming_40
+  - first:
+      213: 4466347995845703407
+    second: Poe_Swimming_41
+  - first:
+      213: -125050378115679507
+    second: Poe_Swimming_42
+  - first:
+      213: -807655278859508799
+    second: Poe_Swimming_43
+  - first:
+      213: 7812865194648098229
+    second: Poe_Swimming_44
+  - first:
+      213: -5834106235377612139
+    second: Poe_Swimming_45
+  - first:
+      213: -7959468519645395525
+    second: Poe_Swimming_46
+  - first:
+      213: 2755482636899744161
+    second: Poe_Swimming_47
+  - first:
+      213: -5041040718668606558
+    second: Poe_Swimming_48
+  - first:
+      213: 7380941280414528596
+    second: Poe_Swimming_49
+  - first:
+      213: 5184041174792056790
+    second: Poe_Swimming_50
+  - first:
+      213: 1537245581977239445
+    second: Poe_Swimming_51
+  - first:
+      213: -2694935441527488321
+    second: Poe_Swimming_52
+  - first:
+      213: -5743389314222651152
+    second: Poe_Swimming_53
+  - first:
+      213: 2003671996832535252
+    second: Poe_Swimming_54
+  - first:
+      213: -4358331857880497243
+    second: Poe_Swimming_55
+  - first:
+      213: -9001988188953741365
+    second: Poe_Swimming_56
+  - first:
+      213: -4870039168409636069
+    second: Poe_Swimming_57
+  - first:
+      213: -5831861972451595426
+    second: Poe_Swimming_58
+  - first:
+      213: 6905136183204701224
+    second: Poe_Swimming_59
+  - first:
+      213: -6006907618324979325
+    second: Poe_Swimming_60
+  - first:
+      213: 9223301876412130929
+    second: Poe_Swimming_61
+  - first:
+      213: 6766517741065201902
+    second: Poe_Swimming_62
+  - first:
+      213: -5042773585789543715
+    second: Poe_Swimming_63
+  - first:
+      213: 3845642779351607823
+    second: Poe_Swimming_64
+  - first:
+      213: -3022723813939286480
+    second: Poe_Swimming_65
+  - first:
+      213: 3078731938046031420
+    second: Poe_Swimming_66
+  - first:
+      213: 2258144578205216226
+    second: Poe_Swimming_67
+  - first:
+      213: -8816491912394263501
+    second: Poe_Swimming_68
+  - first:
+      213: -3493961240200584739
+    second: Poe_Swimming_69
+  - first:
+      213: 6789908373912950812
+    second: Poe_Swimming_70
+  - first:
+      213: 3749604582512123671
+    second: Poe_Swimming_71
+  - first:
+      213: -4391941278782617257
+    second: Poe_Swimming_72
+  - first:
+      213: 2696921722586354880
+    second: Poe_Swimming_73
+  - first:
+      213: -1343294374922686706
+    second: Poe_Swimming_74
+  - first:
+      213: -2792372527847568452
+    second: Poe_Swimming_75
+  - first:
+      213: -5321636358866948036
+    second: Poe_Swimming_76
+  - first:
+      213: -458878654684052532
+    second: Poe_Swimming_77
+  - first:
+      213: 3570484316920550513
+    second: Poe_Swimming_78
+  - first:
+      213: 7446624345048737790
+    second: Poe_Swimming_79
+  - first:
+      213: -6907418616297195803
+    second: Poe_Swimming_80
+  - first:
+      213: -2423729865443479163
+    second: Poe_Swimming_81
+  - first:
+      213: 227720379712010742
+    second: Poe_Swimming_82
+  - first:
+      213: 1466351649527024049
+    second: Poe_Swimming_83
+  - first:
+      213: -6456316053634979026
+    second: Poe_Swimming_84
+  - first:
+      213: 4048653924087731143
+    second: Poe_Swimming_85
+  - first:
+      213: 4571789125391441137
+    second: Poe_Swimming_86
+  - first:
+      213: 5090307248699720620
+    second: Poe_Swimming_87
+  - first:
+      213: -1543443695190912372
+    second: Poe_Swimming_88
+  - first:
+      213: -8253516105678957668
+    second: Poe_Swimming_89
+  - first:
+      213: -1017394551595168013
+    second: Poe_Swimming_90
+  - first:
+      213: 2424960941694662017
+    second: Poe_Swimming_91
+  - first:
+      213: 1509692620828256458
+    second: Poe_Swimming_92
+  - first:
+      213: 3068146254351455433
+    second: Poe_Swimming_93
+  - first:
+      213: 8733867150783808597
+    second: Poe_Swimming_94
+  - first:
+      213: -5650687896777711902
+    second: Poe_Swimming_95
+  - first:
+      213: -4839607477148224771
+    second: Poe_Swimming_96
+  - first:
+      213: -6109163327486986633
+    second: Poe_Swimming_97
+  - first:
+      213: -7295416937448047131
+    second: Poe_Swimming_98
+  - first:
+      213: -4628423556552804870
+    second: Poe_Swimming_99
+  - first:
+      213: -1915019537991791998
+    second: Poe_Swimming_100
+  - first:
+      213: 5068592941269185823
+    second: Poe_Swimming_101
+  - first:
+      213: -8765044142366642195
+    second: Poe_Swimming_102
+  - first:
+      213: -7756509550969860995
+    second: Poe_Swimming_103
+  - first:
+      213: 7610649567542396545
+    second: Poe_Swimming_104
+  - first:
+      213: 5810244206873639717
+    second: Poe_Swimming_105
+  - first:
+      213: 4614156141680184110
+    second: Poe_Swimming_106
+  - first:
+      213: -8905038558143588941
+    second: Poe_Swimming_107
+  - first:
+      213: -1573356291302129081
+    second: Poe_Swimming_108
+  - first:
+      213: 33098092343473347
+    second: Poe_Swimming_109
+  - first:
+      213: -7251150517488831451
+    second: Poe_Swimming_110
+  - first:
+      213: 5754993051090050141
+    second: Poe_Swimming_111
+  - first:
+      213: 4553325739403449096
+    second: Poe_Swimming_112
+  - first:
+      213: -7692200666941928988
+    second: Poe_Swimming_113
+  - first:
+      213: -118358107082219321
+    second: Poe_Swimming_114
+  - first:
+      213: -3101648332994232609
+    second: Poe_Swimming_115
+  - first:
+      213: -1549620894014183233
+    second: Poe_Swimming_116
+  - first:
+      213: -3363056950579268530
+    second: Poe_Swimming_117
+  - first:
+      213: -7219007016571682721
+    second: Poe_Swimming_118
+  - first:
+      213: -7333552689773396661
+    second: Poe_Swimming_119
+  - first:
+      213: 2630152188646887102
+    second: Poe_Swimming_120
+  - first:
+      213: 2322872554840702497
+    second: Poe_Swimming_121
+  - first:
+      213: -4378046014985169538
+    second: Poe_Swimming_122
+  - first:
+      213: 8022342761954294130
+    second: Poe_Swimming_123
+  - first:
+      213: 2629637774444489703
+    second: Poe_Swimming_124
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poe_Swimming_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675ac253d2ec574082f076357e4b02b
+      internalID: -6442080895383337911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad67a3c17a5a0294fa8d149a1ca17d20
+      internalID: 7624619556814078313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b56a98da621349904a51b0dfa3ade
+      internalID: 6782654100943554760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727de986147f834197cb763ee2b0803
+      internalID: 4519657234798203610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd6a45053dbbff439a5b1f63575f937
+      internalID: -1305438132266269719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e340fc68375f4eb69db5bb69180e6
+      internalID: -1264157215935802598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c8a7566f537954597602280b6ad229
+      internalID: 3482479747220432976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494c02b9cddd79247afb63159672c133
+      internalID: -3612487307268007000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c258f4ce3a7284fb69f2101bd54312
+      internalID: -523293275028661705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f0fa84ed8a2348b6c658133f98dd3
+      internalID: -8333782276283817992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b7e0fe3cd55645801ff2effcb9366
+      internalID: 1055830701091914644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb688614d0d8114fa242567f19a24d3
+      internalID: 2456863069203087923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d0980b85540dd468cc9cf91b1585a1
+      internalID: 4834328339190313104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f3e64a59772a418c92ae1c7607513
+      internalID: 3557024162756781073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eef95ec908b4974e9feb230abd40922
+      internalID: -2547058624939345905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_15
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030987876f9f1f54babde7ebdd9e3172
+      internalID: -4388588295463200314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_16
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d0d9b4196429409b42790e36aa421
+      internalID: 4701795344697602716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e21917ed23621499129317721f937c
+      internalID: -7563611426359503723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_18
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f59c3474f876c409c8af53c8ca1901
+      internalID: -8307746914686648382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694abb34772688e48b5d1911f2e5fa33
+      internalID: -6699180204246184734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_20
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49c231c6566784791341d7211e2390
+      internalID: -8003600401832776720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232bec34284ccb40988f5ab6de80953
+      internalID: 5063876916107045651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f664660a66e27245b4fe0d5a2b0f73e
+      internalID: -8642248385539458846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141c0ad1c7681a441920de7717729b9f
+      internalID: 1700857958852154758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503aac8891b25cf42b142403f25a74f9
+      internalID: -3017423561784052385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bb0d1746cc0f439c8afcb1e860b4e
+      internalID: 8346718106996645766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c388b58de4a0429607d0e1f917c73
+      internalID: 7506238605397907510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_27
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3df43cde98e40a4e9d56728979ebce9
+      internalID: -3515618067561692432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6ba2d5cd5af674ebcb57d27d1ba374
+      internalID: 3006548853086035959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6927a90a810fd4da334cde1546f6ef
+      internalID: 4345782479453545699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_30
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecc7a007840ef34488098891fd19400
+      internalID: -7283509020582298847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_31
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cda6d98d5810d34ab453c3298208322
+      internalID: 2302881680533037090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_32
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e557df76729e544954d331f9384742
+      internalID: 8035620236981053007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b704b349a5984cb70e052c277559f
+      internalID: 8227023343695623752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cc6cf5eb8f9d408d6f461d057765b
+      internalID: -2172299490011527296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78633ecfa417ef4d8e30d9f6ee5dd4f
+      internalID: -7503967448301321752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982af45af7432b46b983274a4307683
+      internalID: -4193542079243284546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_37
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df86d0f03cd4140af2ecbbf13ce591
+      internalID: 5304691626647753735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_38
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ed96ba36aa3ec4dabbbb6ef092abf5
+      internalID: -2789664824777663078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_39
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ac7fd223aec940a313cd31b1599fd
+      internalID: 8000478802721059286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33129eecda3b1d46ad7bf34ba1147e0
+      internalID: -4527767119594440969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_41
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6377bd9a83ab64e8a67dce20d3f5c1
+      internalID: 4466347995845703407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_42
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55231866d37d0474e8d0538ed4ed4eb5
+      internalID: -125050378115679507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_43
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bf08ac964da8245bc7e1e9db1a686d
+      internalID: -807655278859508799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c9cbdd99092c439dbe004a78a19ed
+      internalID: 7812865194648098229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f460e5941b7e0f498ba8bcb908d7477
+      internalID: -5834106235377612139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf4df56bffb9e741964400a583a0a39
+      internalID: -7959468519645395525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_47
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538f27ab6a515084d9c191ac1239e4bf
+      internalID: 2755482636899744161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec2a88145e4dfb4ab70eaa850fccc35
+      internalID: -5041040718668606558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_49
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75425a439393c8e46b6f7da22b07b986
+      internalID: 7380941280414528596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_50
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5813d20dd780f2b4c80eaaef00ae36ee
+      internalID: 5184041174792056790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_51
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cb2147ba6e7c41b36c0b13f049a52
+      internalID: 1537245581977239445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619c1ba665eddc142a8802af4cfbb32f
+      internalID: -2694935441527488321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4109dca2569dd664b83df0a2ab895a85
+      internalID: -5743389314222651152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_54
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dcd864c5e40d40a7d2c844bd3ad84
+      internalID: 2003671996832535252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362760021d3618444b60fe7dad52ee2f
+      internalID: -4358331857880497243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42735e0994c6c5044bad0acae5275b3c
+      internalID: -9001988188953741365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb05797c2c6a8c44882679bc160d974a
+      internalID: -4870039168409636069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377f18ee50eb48468e0730d72bbf8b4
+      internalID: -5831861972451595426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_59
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3978a997a50494eae7ed4ac3ca5c03
+      internalID: 6905136183204701224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_60
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c3267948514043907ab7b7914c50e
+      internalID: -6006907618324979325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_61
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21d7bc6056bc6a449ec0bdc1fd20138
+      internalID: 9223301876412130929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_62
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e552ec53e757ba4ab0119a16b5be986
+      internalID: 6766517741065201902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_63
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae89cd1b3b5910642bfe6112ff64aaa4
+      internalID: -5042773585789543715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_64
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e01a3e5ea954749be03b639780bf18
+      internalID: 3845642779351607823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_65
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7c2fef5efd8b440b5d3e189d5bb338
+      internalID: -3022723813939286480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee477f8ed4a14a44cad15ba3f2eae690
+      internalID: 3078731938046031420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a07a0ca1a1c082439f98bffe52e86d1
+      internalID: 2258144578205216226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbacc8b2dd72a0240ac7cab498d2b4bf
+      internalID: -8816491912394263501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_69
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da73865ff33bd40ab7070b2b1f639b
+      internalID: -3493961240200584739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_70
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10a8e68fcd28d44faddea7c1467d6a6
+      internalID: 6789908373912950812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_71
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203d1aeb8070e854482f3f6dba20724a
+      internalID: 3749604582512123671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d311398a4326f246bb32c84b55ff8a6
+      internalID: -4391941278782617257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_73
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c050b5a4b9257247bf5a08c8c91c096
+      internalID: 2696921722586354880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_74
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33298ea3c77287479a1225a8107f997
+      internalID: -1343294374922686706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_75
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae9d020c165884e9f7e66b11014087
+      internalID: -2792372527847568452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_76
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef346aa63534e249a929fadb0955164
+      internalID: -5321636358866948036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7e08d472765f419ba315bfa897969
+      internalID: -458878654684052532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acedc82a9359984f871a51f8270b165
+      internalID: 3570484316920550513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_79
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02299a3141158ae4087f010f0657c5ed
+      internalID: 7446624345048737790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_80
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f51b5bd79b3f34449fe27c8c8d31d26
+      internalID: -6907418616297195803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_81
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f44f8f1cb03efd4cad04c0dc6774ad8
+      internalID: -2423729865443479163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_82
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5338cc9f529120344b0f50d2d4d0b425
+      internalID: 227720379712010742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_83
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a231c81bfe08b49b267bbef5c9f4a6
+      internalID: 1466351649527024049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_84
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54e38c0b1457f941bbb4dc92758c75e
+      internalID: -6456316053634979026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_85
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd262f0a56a4ee74cba2e0d6d93220cd
+      internalID: 4048653924087731143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_86
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16e9030cf0228c45a439af64498664d
+      internalID: 4571789125391441137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_87
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d67a040a2c3a042a768dc9cf0b8ada
+      internalID: 5090307248699720620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b414465c951b4882e9a2b8dc81897
+      internalID: -1543443695190912372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423311fdb9f7c194c8a9a8bc2a583cac
+      internalID: -8253516105678957668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17fee0b3924c9547bc8cde032bf4422
+      internalID: -1017394551595168013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfabd56e80d4f7e449c00e8ec8afc773
+      internalID: 2424960941694662017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_92
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91e841ea0f87e4fa1415a4eaadd268
+      internalID: 1509692620828256458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_93
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a95a632c859449a21300094d8fecf
+      internalID: 3068146254351455433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_94
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac710efa68ba9bf49b2755f2d4934dcc
+      internalID: 8733867150783808597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_95
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5416be06fc9c4a814eb6ea66ff9c5
+      internalID: -5650687896777711902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_96
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cde7da2b3c3bd469ba2369aa63ac61
+      internalID: -4839607477148224771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_97
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45a542cac5d2145bb8475f25cf8df0
+      internalID: -6109163327486986633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_98
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb50add49177f45a15d2a60f41e970
+      internalID: -7295416937448047131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92735b2ec1a26c48b71195d096482af
+      internalID: -4628423556552804870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11704977a5974746a9576c443a2699b
+      internalID: -1915019537991791998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_101
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63641ea41b465c418fb9a31b8512c6c
+      internalID: 5068592941269185823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_102
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfba885f634a1441b833c5cad3d411a
+      internalID: -8765044142366642195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_103
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d6a01dbc8b1ea418d63bbb3b782b2e
+      internalID: -7756509550969860995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_104
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e8f20cac36aa4c93e074aafc01912
+      internalID: 7610649567542396545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_105
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89838e32e11e5b41a6dac9968e71409
+      internalID: 5810244206873639717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_106
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f77a6f897eaf846a472da9bf083bbf
+      internalID: 4614156141680184110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_107
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0dee05007c5734b99bd38f3672c697
+      internalID: -8905038558143588941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_108
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f10dd9e3fb2fb46b53655dbcf87f3a
+      internalID: -1573356291302129081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_109
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce11944a594ad914285b2918313f0052
+      internalID: 33098092343473347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926d0ef93919bce48a89dadb6582df75
+      internalID: -7251150517488831451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e63ae5c3c8668141a663bb1b7361c91
+      internalID: 5754993051090050141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_112
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1edd711420d244fb8799580b851f79
+      internalID: 4553325739403449096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_113
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe743552b8cc194db27eca969b04c1c
+      internalID: -7692200666941928988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_114
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05375e95f053afd44a9fdb25c4a4847e
+      internalID: -118358107082219321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_115
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceaf6245c63774468f7f484b8513494
+      internalID: -3101648332994232609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_116
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea65bc8c62572b5409fc056d5b0e4654
+      internalID: -1549620894014183233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_117
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84341c1cf92455740a2116d51934ef6a
+      internalID: -3363056950579268530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_118
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28140a2d1e8b4f449bf198e83e6fd280
+      internalID: -7219007016571682721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_119
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77e3b5a826290142a7bbf18cf902959
+      internalID: -7333552689773396661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_120
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee43b8b1f3b434f8879a26d067ca19
+      internalID: 2630152188646887102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8bcd0d039b76043973cb9c46eaf332
+      internalID: 2322872554840702497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_122
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae3f268e38fe0c4cb9e606f304fe790
+      internalID: -4378046014985169538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_123
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e805b3fdc622d41b626fc3ae2015d8
+      internalID: 8022342761954294130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Swimming_124
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447bf764f775236408048e71b2bf453c
+      internalID: 2629637774444489703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

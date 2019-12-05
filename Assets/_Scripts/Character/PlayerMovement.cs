@@ -12,6 +12,7 @@ public class PlayerMovement : MonoBehaviour {
 	float horizontalMove = 0f;
 	bool jump = false;
 	bool crouch = false;
+    bool dead = false;
 
 	// Update is called once per frame
 	void Update () {
@@ -45,6 +46,13 @@ public class PlayerMovement : MonoBehaviour {
 	{
 		animator.SetBool("IsCrouching", isCrouching);
 	}
+
+  /*  public void PlayerDeath()
+    {
+        dead = true;
+        animator.SetBool("IsDead", dead);
+        this.enabled = false;
+    }*/
 
 	void FixedUpdate ()
 	{

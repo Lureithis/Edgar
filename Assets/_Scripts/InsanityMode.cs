@@ -1,15 +1,18 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.Video;
 
 public class InsanityMode : MonoBehaviour
 {
     [SerializeField] GameObject normalRoom;
     [SerializeField] GameObject insanityRoom;
     [SerializeField] GameObject pendulum;
-    private Renderer pendulumRend;
     [SerializeField] GameObject insanityBar;
+
     private InsanityBar insanityBarScript;
+    private Renderer pendulumRend;
 
     // Start is called before the first frame update
     void Start()

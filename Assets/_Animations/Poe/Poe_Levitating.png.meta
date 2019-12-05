@@ -1,0 +1,3535 @@
+fileFormatVersion: 2
+guid: 3314b6e382d9ce74b8e6334a554f73f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2714361145920355637
+    second: Poe_Levitating_0
+  - first:
+      213: 7501490160425007162
+    second: Poe_Levitating_1
+  - first:
+      213: 1639125325826479669
+    second: Poe_Levitating_2
+  - first:
+      213: 3577818743182885469
+    second: Poe_Levitating_3
+  - first:
+      213: -4111047419117277319
+    second: Poe_Levitating_4
+  - first:
+      213: -1307368477349924599
+    second: Poe_Levitating_5
+  - first:
+      213: -6120216458799799412
+    second: Poe_Levitating_6
+  - first:
+      213: 5284337300296749651
+    second: Poe_Levitating_7
+  - first:
+      213: -3961687992285231209
+    second: Poe_Levitating_8
+  - first:
+      213: -4410875644094633986
+    second: Poe_Levitating_9
+  - first:
+      213: 746851464235801728
+    second: Poe_Levitating_10
+  - first:
+      213: -5428280147048070111
+    second: Poe_Levitating_11
+  - first:
+      213: 5964290187449265977
+    second: Poe_Levitating_12
+  - first:
+      213: 7392579181082378050
+    second: Poe_Levitating_13
+  - first:
+      213: -8752556732000687558
+    second: Poe_Levitating_14
+  - first:
+      213: -7312406845138479238
+    second: Poe_Levitating_15
+  - first:
+      213: 7166335894837132406
+    second: Poe_Levitating_16
+  - first:
+      213: -5351524894240436526
+    second: Poe_Levitating_17
+  - first:
+      213: -8714396843423440995
+    second: Poe_Levitating_18
+  - first:
+      213: 8955875239027397118
+    second: Poe_Levitating_19
+  - first:
+      213: -6793276084665861772
+    second: Poe_Levitating_20
+  - first:
+      213: -1613484218049327534
+    second: Poe_Levitating_21
+  - first:
+      213: 6510114923907838565
+    second: Poe_Levitating_22
+  - first:
+      213: 220373513162922120
+    second: Poe_Levitating_23
+  - first:
+      213: -3916948610151417851
+    second: Poe_Levitating_24
+  - first:
+      213: -8282962823242748776
+    second: Poe_Levitating_25
+  - first:
+      213: -5744796578061097559
+    second: Poe_Levitating_26
+  - first:
+      213: 6562779232252192508
+    second: Poe_Levitating_27
+  - first:
+      213: 1115661874999093440
+    second: Poe_Levitating_28
+  - first:
+      213: 454865058916002865
+    second: Poe_Levitating_29
+  - first:
+      213: -2307322593054255189
+    second: Poe_Levitating_30
+  - first:
+      213: 4414799453753420756
+    second: Poe_Levitating_31
+  - first:
+      213: 8995556700280069624
+    second: Poe_Levitating_32
+  - first:
+      213: -4332381436821485358
+    second: Poe_Levitating_33
+  - first:
+      213: -1820687350423236781
+    second: Poe_Levitating_34
+  - first:
+      213: -9017864351115644459
+    second: Poe_Levitating_35
+  - first:
+      213: 605337757947748560
+    second: Poe_Levitating_36
+  - first:
+      213: -631675293734838733
+    second: Poe_Levitating_37
+  - first:
+      213: 5701392218947661364
+    second: Poe_Levitating_38
+  - first:
+      213: -7959849440379124069
+    second: Poe_Levitating_39
+  - first:
+      213: 8699680645754928609
+    second: Poe_Levitating_40
+  - first:
+      213: 8716523531254180874
+    second: Poe_Levitating_41
+  - first:
+      213: 7935469049442489494
+    second: Poe_Levitating_42
+  - first:
+      213: 8570279146517491357
+    second: Poe_Levitating_43
+  - first:
+      213: -8996433709012128232
+    second: Poe_Levitating_44
+  - first:
+      213: -5648249759436064881
+    second: Poe_Levitating_45
+  - first:
+      213: 1555359713573428705
+    second: Poe_Levitating_46
+  - first:
+      213: -90731539485827923
+    second: Poe_Levitating_47
+  - first:
+      213: 5072014056192733039
+    second: Poe_Levitating_48
+  - first:
+      213: 6225772401757454678
+    second: Poe_Levitating_49
+  - first:
+      213: -7637190266804995326
+    second: Poe_Levitating_50
+  - first:
+      213: -1597605096170310985
+    second: Poe_Levitating_51
+  - first:
+      213: 2062727869823572935
+    second: Poe_Levitating_52
+  - first:
+      213: 5269330265722958186
+    second: Poe_Levitating_53
+  - first:
+      213: -8308017223903305654
+    second: Poe_Levitating_54
+  - first:
+      213: -4184466948654686707
+    second: Poe_Levitating_55
+  - first:
+      213: -7031995967593239530
+    second: Poe_Levitating_56
+  - first:
+      213: -5659302965681779589
+    second: Poe_Levitating_57
+  - first:
+      213: 7915686041334890900
+    second: Poe_Levitating_58
+  - first:
+      213: 6295555986317406237
+    second: Poe_Levitating_59
+  - first:
+      213: -5787788977123205263
+    second: Poe_Levitating_60
+  - first:
+      213: 6916189017146183790
+    second: Poe_Levitating_61
+  - first:
+      213: -7994121832879256428
+    second: Poe_Levitating_62
+  - first:
+      213: 2918760727089587847
+    second: Poe_Levitating_63
+  - first:
+      213: -6082721155822086880
+    second: Poe_Levitating_64
+  - first:
+      213: 8883864535491594260
+    second: Poe_Levitating_65
+  - first:
+      213: -763454472313537945
+    second: Poe_Levitating_66
+  - first:
+      213: 6877116839935920575
+    second: Poe_Levitating_67
+  - first:
+      213: 6350785920899675179
+    second: Poe_Levitating_68
+  - first:
+      213: 568988675155344885
+    second: Poe_Levitating_69
+  - first:
+      213: 7942784715051603952
+    second: Poe_Levitating_70
+  - first:
+      213: -3878846066360159880
+    second: Poe_Levitating_71
+  - first:
+      213: -6233119648670253097
+    second: Poe_Levitating_72
+  - first:
+      213: -1985058170464148618
+    second: Poe_Levitating_73
+  - first:
+      213: -8938975161545083557
+    second: Poe_Levitating_74
+  - first:
+      213: -4200628948827902749
+    second: Poe_Levitating_75
+  - first:
+      213: -1037843296914426160
+    second: Poe_Levitating_76
+  - first:
+      213: -2727455255359664653
+    second: Poe_Levitating_77
+  - first:
+      213: -8460225005066496283
+    second: Poe_Levitating_78
+  - first:
+      213: -910019418105622811
+    second: Poe_Levitating_79
+  - first:
+      213: -3939261099291599970
+    second: Poe_Levitating_80
+  - first:
+      213: -4874035036722039761
+    second: Poe_Levitating_81
+  - first:
+      213: -5379111763023257820
+    second: Poe_Levitating_82
+  - first:
+      213: 8413879835451678103
+    second: Poe_Levitating_83
+  - first:
+      213: 9036764484336098446
+    second: Poe_Levitating_84
+  - first:
+      213: -7391074683514567035
+    second: Poe_Levitating_85
+  - first:
+      213: -4916147607261196090
+    second: Poe_Levitating_86
+  - first:
+      213: -3459492482878989770
+    second: Poe_Levitating_87
+  - first:
+      213: -8602306739368168059
+    second: Poe_Levitating_88
+  - first:
+      213: -6798381092292121485
+    second: Poe_Levitating_89
+  - first:
+      213: 7480567600785555626
+    second: Poe_Levitating_90
+  - first:
+      213: 3547089372988033186
+    second: Poe_Levitating_91
+  - first:
+      213: -7573039115126893604
+    second: Poe_Levitating_92
+  - first:
+      213: -5385572489588784624
+    second: Poe_Levitating_93
+  - first:
+      213: -8409519016909706736
+    second: Poe_Levitating_94
+  - first:
+      213: -2241731939875399388
+    second: Poe_Levitating_95
+  - first:
+      213: 4678194674982752966
+    second: Poe_Levitating_96
+  - first:
+      213: 4096158975183504252
+    second: Poe_Levitating_97
+  - first:
+      213: 6142145411385029940
+    second: Poe_Levitating_98
+  - first:
+      213: 4799903687796435032
+    second: Poe_Levitating_99
+  - first:
+      213: 6511917358145788091
+    second: Poe_Levitating_100
+  - first:
+      213: -2122816999035013015
+    second: Poe_Levitating_101
+  - first:
+      213: -5071459435613991292
+    second: Poe_Levitating_102
+  - first:
+      213: -9075653656328929889
+    second: Poe_Levitating_103
+  - first:
+      213: 1913714296580366024
+    second: Poe_Levitating_104
+  - first:
+      213: -6323328053167739919
+    second: Poe_Levitating_105
+  - first:
+      213: 7959119165644372903
+    second: Poe_Levitating_106
+  - first:
+      213: -2895748233158244736
+    second: Poe_Levitating_107
+  - first:
+      213: -6822054274716251733
+    second: Poe_Levitating_108
+  - first:
+      213: -5389840113944018826
+    second: Poe_Levitating_109
+  - first:
+      213: -5305224024103808941
+    second: Poe_Levitating_110
+  - first:
+      213: -3924296951067498324
+    second: Poe_Levitating_111
+  - first:
+      213: -4957671971124872554
+    second: Poe_Levitating_112
+  - first:
+      213: 2037487543189330412
+    second: Poe_Levitating_113
+  - first:
+      213: 3133745602921816953
+    second: Poe_Levitating_114
+  - first:
+      213: 2589510474721935035
+    second: Poe_Levitating_115
+  - first:
+      213: 222058389922699646
+    second: Poe_Levitating_116
+  - first:
+      213: -3025195528390682729
+    second: Poe_Levitating_117
+  - first:
+      213: 2306369578055034292
+    second: Poe_Levitating_118
+  - first:
+      213: -8626053062760904282
+    second: Poe_Levitating_119
+  - first:
+      213: -1715054356843021818
+    second: Poe_Levitating_120
+  - first:
+      213: -6805885441995606330
+    second: Poe_Levitating_121
+  - first:
+      213: 6188179068658667266
+    second: Poe_Levitating_122
+  - first:
+      213: 5782329149359480099
+    second: Poe_Levitating_123
+  - first:
+      213: -5254279957749114109
+    second: Poe_Levitating_124
+  - first:
+      213: -4412576626327130721
+    second: Poe_Levitating_125
+  - first:
+      213: 3579142509618529426
+    second: Poe_Levitating_126
+  - first:
+      213: -1270346103926729237
+    second: Poe_Levitating_127
+  - first:
+      213: 8931401991352690970
+    second: Poe_Levitating_128
+  - first:
+      213: 5212827009535064208
+    second: Poe_Levitating_129
+  - first:
+      213: -3070583853952590237
+    second: Poe_Levitating_130
+  - first:
+      213: 2864598780582764064
+    second: Poe_Levitating_131
+  - first:
+      213: 8651190222018268017
+    second: Poe_Levitating_132
+  - first:
+      213: -7613625746198289698
+    second: Poe_Levitating_133
+  - first:
+      213: 7455694360503024442
+    second: Poe_Levitating_134
+  - first:
+      213: -5575674640930235126
+    second: Poe_Levitating_135
+  - first:
+      213: -8924330496947815245
+    second: Poe_Levitating_136
+  - first:
+      213: -1251613144939440648
+    second: Poe_Levitating_137
+  - first:
+      213: 5099678463311374116
+    second: Poe_Levitating_138
+  - first:
+      213: 3998141399981632456
+    second: Poe_Levitating_139
+  - first:
+      213: 7163618026402308762
+    second: Poe_Levitating_140
+  - first:
+      213: -9037034937370681100
+    second: Poe_Levitating_141
+  - first:
+      213: 3392617997896506426
+    second: Poe_Levitating_142
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poe_Levitating_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86751357725134b4a838c32665ca569d
+      internalID: 2714361145920355637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0029f888278b1ab41ac4ac4e460e4183
+      internalID: 7501490160425007162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c6eabfad904304bb510a114bb91cca
+      internalID: 1639125325826479669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4a7488c436c9a40a22cb8b8803b6c7
+      internalID: 3577818743182885469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c85cb9be66d4b43b2f9d23be18862e
+      internalID: -4111047419117277319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3467ec1f54a23e4387db2960283484c
+      internalID: -1307368477349924599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9944e22141148543b51254072a6f242
+      internalID: -6120216458799799412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701952993e31954ba5bb34ead176c1f
+      internalID: 5284337300296749651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f56b40d332094fba0788194289afb
+      internalID: -3961687992285231209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dedd3a736e24141be0bb147d032e8c
+      internalID: -4410875644094633986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 9600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2f030532798594fbb76b747cb7f38b
+      internalID: 746851464235801728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bdaa4438937764584d5be0b3b9fdea
+      internalID: -5428280147048070111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_12
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19afb7dc2a579f644912af24a76539ab
+      internalID: 5964290187449265977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21d650610563b845ab71b9b14e12d2f
+      internalID: 7392579181082378050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7785b862e91fa43a32f1ec63c7b41c
+      internalID: -8752556732000687558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_15
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d47023f9fdc4f9439bbccdbaee56596
+      internalID: -7312406845138479238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_16
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8a7ac11e74bd14db57b92411bb073f
+      internalID: 7166335894837132406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_17
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0ac2f6e21c1b045a6de6ace179211b
+      internalID: -5351524894240436526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_18
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f12cce3b66e847b47c5e18ab9f248
+      internalID: -8714396843423440995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_19
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f319ead55b0069843843e4ed2a682403
+      internalID: 8955875239027397118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_20
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c98ce7ae1167454f83aeedecc7270d3
+      internalID: -6793276084665861772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_21
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6987497ef2d44045bf6db116013a824
+      internalID: -1613484218049327534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f101ee7f47cce4cb15f557da0b348f
+      internalID: 6510114923907838565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_23
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca948cc683931b4092a738a75eaef81
+      internalID: 220373513162922120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_24
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4a5898b26506447a4fc90bfff82ebb
+      internalID: -3916948610151417851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_25
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea92b6d58f82fb145b16f79a7f0fc786
+      internalID: -8282962823242748776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376e1d995272b04a82fab13dd7c90d1
+      internalID: -5744796578061097559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_27
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7777acda3680342bd9708f5773417c
+      internalID: 6562779232252192508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88fbf6e97dfb614cbc8154dea654c2e
+      internalID: 1115661874999093440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_29
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e772dad73c624695f9e7da05f477d
+      internalID: 454865058916002865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_30
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3155f621a9e34504c9479950d2da386b
+      internalID: -2307322593054255189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_31
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e9dc442634f7743a8ad479f3871837
+      internalID: 4414799453753420756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_32
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 8000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3b4ea641a8f6248b64d7daeb995274
+      internalID: 8995556700280069624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a5be773d86bc4b84b82ac3d824f87
+      internalID: -4332381436821485358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fddddb86e1ef984589757d5a74bed97
+      internalID: -1820687350423236781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c89ddadf0bc0c4f8992ae45ddd54c3
+      internalID: -9017864351115644459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_36
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbd3d5ec53cca4fb8f49d99e18e345
+      internalID: 605337757947748560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_37
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7393ac4f0663e64db4ff40a18a9d3c9
+      internalID: -631675293734838733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_38
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76a1e7843bc5144a8c66281eaec4207
+      internalID: 5701392218947661364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_39
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30693f36f64b1c8469db68f6c3f0d76e
+      internalID: -7959849440379124069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9460bb26b0efba4f8ae1c1872ed8420
+      internalID: 8699680645754928609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_41
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca89631ebf5a9574ca52d854ace0b80c
+      internalID: 8716523531254180874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_42
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958ea95d115b1e1428483a6a08ee42ad
+      internalID: 7935469049442489494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_43
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 7200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99560633d295bd44a4d66b586c11f01
+      internalID: 8570279146517491357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25af17bd82a09d4aadaec7e19b6a26f
+      internalID: -8996433709012128232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_45
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ad20fc5448c041b625071b8fa8546
+      internalID: -5648249759436064881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54838686d8942db4490a86c3a64dd08d
+      internalID: 1555359713573428705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_47
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95f8afeab5723041becb5689903045c
+      internalID: -90731539485827923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_48
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da6f2781f38ca459bf5daaa3283244
+      internalID: 5072014056192733039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_49
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147b4aefc3e9ea4aa0f968fb6cf92ff
+      internalID: 6225772401757454678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_50
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65751724c6c5bda49a4e3542188c8c54
+      internalID: -7637190266804995326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_51
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f296167f02bf7f49a0f5abf170b7dd0
+      internalID: -1597605096170310985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_52
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d042873f50c29b4bbaa4ce3b9233210
+      internalID: 2062727869823572935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_53
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fdd3e3a481fcb468d1db1ac41edd0a
+      internalID: 5269330265722958186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_54
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 6400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cf399f74a4e484fb245688433e3b35
+      internalID: -8308017223903305654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8a0a35fcceaa449708cc9ec25eb28
+      internalID: -4184466948654686707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4cba62d26b4d42ac3ede10a28b046
+      internalID: -7031995967593239530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_57
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c68292d1cec848b5d7cb3284bc8eb
+      internalID: -5659302965681779589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_58
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a66ea9352372c45b3cde5b8e7214ba
+      internalID: 7915686041334890900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_59
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e2642c56eb3be4eb3c1d430a1c5bea
+      internalID: 6295555986317406237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_60
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7cecfc183b5574eb378cb6754a0b58
+      internalID: -5787788977123205263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_61
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2488593bd1feb4e8674eecfcaf5b42
+      internalID: 6916189017146183790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_62
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a13a3aaee47f9439d13706ec1a50b1
+      internalID: -7994121832879256428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_63
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbefa62411565e647a4596eb3fd5b7da
+      internalID: 2918760727089587847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_64
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d88b030dcc0174e8dfb999c855ed08
+      internalID: -6082721155822086880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_65
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40069d2d884387e48abbafa9f2eed4d7
+      internalID: 8883864535491594260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed274ac24eb3b1c4c8b8a7b18198a9b3
+      internalID: -763454472313537945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_67
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f2643e28cc64047aa905bc63c86dc2
+      internalID: 6877116839935920575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_68
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4dbbe883075ab439d89f4b62f66f07
+      internalID: 6350785920899675179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_69
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7aa7ae8c31034e932ecc590f6d688
+      internalID: 568988675155344885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_70
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e416e17faad6114b91137deb529b4f5
+      internalID: 7942784715051603952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_71
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d84715a2ff1d4dac33693ff905079
+      internalID: -3878846066360159880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_72
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91939fcb596d314478f11df310af12e2
+      internalID: -6233119648670253097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_73
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9310207613aac84e8b1022f8d9db7e9
+      internalID: -1985058170464148618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_74
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d9ba0dd006bb4fae00c4ddc07b370
+      internalID: -8938975161545083557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_75
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a24c5ae75ad754fb162743f0c3d83a
+      internalID: -4200628948827902749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_76
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c3a139b95da55449db6298960d48c4
+      internalID: -1037843296914426160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d96b06b283cae14ca9fc3e2a7aaef0d
+      internalID: -2727455255359664653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_78
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29235ba7b7e311d4fadd3c0d53bb2f25
+      internalID: -8460225005066496283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_79
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1acd099af69c6478b05415e3b3654b
+      internalID: -910019418105622811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_80
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ada2840a37f1e4a89636c3a5e43371
+      internalID: -3939261099291599970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_81
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1bf7b1f1cf8b4bbcb202210535203
+      internalID: -4874035036722039761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_82
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e407daf65d242434b9940353bf86e3b1
+      internalID: -5379111763023257820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_83
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f3c062ed98ae24e9af2ddc406f2403
+      internalID: 8413879835451678103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_84
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295503711dccccf4c810d526486fa686
+      internalID: 9036764484336098446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_85
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3a706d98ba5e24ca97fefc83e53767
+      internalID: -7391074683514567035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_86
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6419b635500eaf2428783c3807c23108
+      internalID: -4916147607261196090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_87
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 4000
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df8cc395671c2c47b98ed51fe03a11f
+      internalID: -3459492482878989770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7268a854a700744a79444da9d52e1f
+      internalID: -8602306739368168059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_89
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e69659eb48fd4a82ffbec731869ec
+      internalID: -6798381092292121485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_90
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4312873daabc734ab347e9f2984fe7d
+      internalID: 7480567600785555626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a183faacd46d3e4399e755f67f48919
+      internalID: 3547089372988033186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_92
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f071f1f2ee6b6f54485920ef742b8a66
+      internalID: -7573039115126893604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_93
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457accea02a14f5449b501a02e233d0d
+      internalID: -5385572489588784624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_94
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc046b8b23abd247aa52e76b63536ca
+      internalID: -8409519016909706736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_95
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5888e16b67456e49bd41941dfc0eea9
+      internalID: -2241731939875399388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_96
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ac4b0a8827d1c418c0f3ab1506d42b
+      internalID: 4678194674982752966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_97
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8136879b8e0e08e4b9f0e16b546cd686
+      internalID: 4096158975183504252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_98
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3200
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a58c4567c920b4eb260f53c102c248
+      internalID: 6142145411385029940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f7d2047cd82a41841528c136fdce6
+      internalID: 4799903687796435032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b49b7e3cc672d4fbfb710b0baa70da
+      internalID: 6511917358145788091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_101
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced23cac5d93c04d88d060b8cf6bc43
+      internalID: -2122816999035013015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_102
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a90eac1487959a4c8b0f6e57157d318
+      internalID: -5071459435613991292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_103
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c84a6175899e545b3093bbbb9e32da
+      internalID: -9075653656328929889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_104
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb7ec3bc426a4488d144d876b18a2b
+      internalID: 1913714296580366024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_105
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c0bfd0f542934d9d0f9185b8712b9
+      internalID: -6323328053167739919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_106
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7eedb28f26471643bbd583f7b6a0d63
+      internalID: 7959119165644372903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_107
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee6146bb672ca04589a36eb78cb7a1a
+      internalID: -2895748233158244736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_108
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04264020045a5243ad0bf2cb8351120
+      internalID: -6822054274716251733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_109
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2400
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b280651aa8d20144868db292bf054d4
+      internalID: -5389840113944018826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b145941145c94aa8bdae6a25b9898
+      internalID: -5305224024103808941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_111
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022252121406ac84bb75118f79860eb9
+      internalID: -3924296951067498324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_112
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63918da7b99c2fb4cad0e101a5061196
+      internalID: -4957671971124872554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_113
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361c9e6df09c434083e7ae33f8e3199
+      internalID: 2037487543189330412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_114
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd1a7d980a10024086744c512b8f211
+      internalID: 3133745602921816953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_115
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8c651929a1cc444b3947630298b40c
+      internalID: 2589510474721935035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_116
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9c7f8fc4827154c8343c231664b215
+      internalID: 222058389922699646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_117
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece622ca1f6ea24eb0e8d778519a6a7
+      internalID: -3025195528390682729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_118
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db63b2d6fb6b26d40a214e0b9bfe1292
+      internalID: 2306369578055034292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_119
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f653e512f58c3004e85f320f824404f3
+      internalID: -8626053062760904282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_120
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1600
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9b6ef18e8a30144ab4d7cfe53d90b4
+      internalID: -1715054356843021818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8553f1e525bedc044ab64c943a80ef77
+      internalID: -6805885441995606330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_122
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b2fb642222e34abe0d71d3bf89830
+      internalID: 6188179068658667266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_123
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34d6a6f604f2345bafdd6d4b5c51e3
+      internalID: 5782329149359480099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_124
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67178187b8487ee4e99361f4d9870f4f
+      internalID: -5254279957749114109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_125
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00219905e3994c4fb4a3a558b8b81a6
+      internalID: -4412576626327130721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_126
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3d3b4eddd9cdc4d8427a416928f8fc
+      internalID: 3579142509618529426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_127
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58e73e837698d447831323e06adc21a
+      internalID: -1270346103926729237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_128
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4733f3276461054591c1845ad0000ad
+      internalID: 8931401991352690970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_129
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4ac7370fedd64fa03e4cc2d155d71
+      internalID: 5212827009535064208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_130
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1299547c536b60d4ca1511b43bbd8b6d
+      internalID: -3070583853952590237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_131
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 800
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9edc417547e9f469bd465e5db23a7f
+      internalID: 2864598780582764064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8b9e1ffaa4534d9cea9469fc00783
+      internalID: 8651190222018268017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_133
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72350981ae718da4cb9db0627cc2d749
+      internalID: -7613625746198289698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_134
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12c032290607146a7fe99d15eba83a
+      internalID: 7455694360503024442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_135
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e6ace40abc2ea45b797fa8bb8c45d0
+      internalID: -5575674640930235126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_136
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc8ebb3ca5fb946ba7c9044488fd9f
+      internalID: -8924330496947815245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_137
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da23df6f137f9c84b9f5e5de515e9ee0
+      internalID: -1251613144939440648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_138
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33692380e5e060744944637f40cf9b70
+      internalID: 5099678463311374116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_139
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c574067e59d3fa545bf6121c52219483
+      internalID: 3998141399981632456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_140
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a0d5dbb6de5f747a14a7bcb5af84c1
+      internalID: 7163618026402308762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_141
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18b366522e60004d9bc9be66a1da421
+      internalID: -9037034937370681100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Levitating_142
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 500
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206e056d326ff0041a2bad7f216955e4
+      internalID: 3392617997896506426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
