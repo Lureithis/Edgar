@@ -33,7 +33,7 @@ public class InsanityMode : MonoBehaviour
     {
         normalRoom.SetActive(false);
         insanityRoom.SetActive(true);
-        pendulumRend.enabled = true;
+        pendulumRend.enabled = true; 
     }
 
     public void InsanityModeDeactivated()
