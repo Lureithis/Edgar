@@ -30,8 +30,11 @@ public class CharacterController2D : MonoBehaviour
 	public BoolEvent OnCrouchEvent;
 	private bool m_wasCrouching = false;
 
+    public bool isFacingRight;
+
 	private void Awake()
 	{
+        isFacingRight = true;
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
 
 		if (OnLandEvent == null)
@@ -135,8 +138,10 @@ public class CharacterController2D : MonoBehaviour
 
 	private void Flip()
 	{
-		// Switch the way the player is labelled as facing.
-		m_FacingRight = !m_FacingRight;
+        isFacingRight = !isFacingRight;
+        
+        // Switch the way the player is labelled as facing.
+        m_FacingRight = !m_FacingRight;
 
 		// Multiply the player's x local scale by -1.
 		Vector3 theScale = transform.localScale;

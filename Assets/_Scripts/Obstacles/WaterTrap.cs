@@ -19,7 +19,8 @@ public class WaterTrap : Obstacle
     private InsanityBar insanityBarScript;
     private bool isInWater;
     private bool movementInWater;
-    private bool isFacingRight;
+    private CharacterController2D controllerChar;
+    private bool RightFacing;
     
     private float translation;
 
@@ -31,9 +32,10 @@ public class WaterTrap : Obstacle
         playerRB = player.GetComponent<Rigidbody2D>();
         insanityBarScript = insanityBar.GetComponent<InsanityBar>();
         breathingBarObject.SetActive(false);
-       
+        controllerChar = player.GetComponent<CharacterController2D>();
+
         movementInWater = false;
-        isFacingRight = true;
+        RightFacing = true;
     }
 
 
@@ -44,16 +46,34 @@ public class WaterTrap : Obstacle
             float x = Input.GetAxis("Horizontal");
             float y = Input.GetAxis("Vertical");
             playerRB.velocity = new Vector3(x * swimSpeed, y * swimSpeed, 0);
-            if(Input.GetKeyDown(KeyCode.A) && isFacingRight == true)
+            if(Input.GetKeyDown(KeyCode.A))
             {
-                player.GetComponent<SpriteRenderer>().flipX = true;
-                isFacingRight = false;
+                if(controllerChar.isFacingRight == true)
+                {
+                    player.GetComponent<SpriteRenderer>().flipX = true;
+                    RightFacing = !RightFacing;
+                }
+                else
+                {
+                    player.GetComponent<SpriteRenderer>().flipX = false;
+                    RightFacing = !RightFacing;
+                }
+                
+                
             }
 
-            if (Input.GetKeyDown(KeyCode.D) && isFacingRight == false)
+            if (Input.GetKeyDown(KeyCode.D))
             {
-                player.GetComponent<SpriteRenderer>().flipX = false;
-                isFacingRight = true;
+                if (controllerChar.isFacingRight == true)
+                {
+                    player.GetComponent<SpriteRenderer>().flipX = false;
+                    RightFacing = !RightFacing;
+                }
+                else 
+                {
+                    player.GetComponent<SpriteRenderer>().flipX = true;
+                    RightFacing = !RightFacing;
+                }
             }
         }
 
@@ -77,6 +97,7 @@ public class WaterTrap : Obstacle
             player.GetComponent<PlayerMovement>().enabled = false;
             player.GetComponent<CharacterController2D>().enabled = false;
             movementInWater = true;
+            RightFacing = controllerChar.isFacingRight;
         }
     }
 
@@ -88,6 +109,8 @@ public class WaterTrap : Obstacle
         player.GetComponent<PlayerMovement>().enabled = true;
         player.GetComponent<CharacterController2D>().enabled = true;
         movementInWater = false;
+        player.GetComponent<SpriteRenderer>().flipX = false;
+
         while (breathingBar.fillAmount < 1)
         {
             AddBreath();

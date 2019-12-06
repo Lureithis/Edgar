@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Pendulum_movement : MonoBehaviour
+public class PendulumMovement : MonoBehaviour
 {
      public float delta = 1.5f;  // Amount to move left and right from the start point
      public float speed = 1.0f;

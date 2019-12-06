@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bunch_of_stones : Obstacle
+public class PileOfStones : Obstacle
 {
     [SerializeField] GameObject insanityBar;
 
