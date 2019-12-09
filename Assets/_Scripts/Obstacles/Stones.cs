@@ -8,6 +8,7 @@ public class Stones : Obstacle
     [SerializeField] GameObject stone;
     [SerializeField] float spawnSpeed = 1f;
     [SerializeField] float destroySpeed = 5f;
+    [SerializeField] float rangeToSpawn = 2f;
 
     private InsanityBar insanityBarScript;
     private bool isSpawning;
@@ -61,7 +62,7 @@ public class Stones : Obstacle
             float random = Random.Range(0, 1f);
             yield return new WaitForSecondsRealtime(random);
             
-            Instantiate(stone, new Vector2(Random.Range((transform.position.x) / 2, (transform.position.x) * 2), transform.position.y), Quaternion.identity);
+            Instantiate(stone, new Vector2(Random.Range(transform.position.x - rangeToSpawn, transform.position.x + rangeToSpawn), transform.position.y), Quaternion.identity);
             yield return new WaitForSecondsRealtime(spawnSpeed);
             isSpawning = false;
         }
