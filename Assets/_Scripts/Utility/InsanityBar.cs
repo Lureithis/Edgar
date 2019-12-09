@@ -16,7 +16,6 @@ public class InsanityBar : MonoBehaviour
     {
         isInHallucination = false;
         gameOverScreen = gameManager.GetComponent<GameOver>();
-       // gameOverScreen.SetActive(false);
     }
 
     // Update is called once per frame
@@ -24,7 +23,6 @@ public class InsanityBar : MonoBehaviour
     {
         if(insanityBar.fillAmount <= 0)
         {
-            // gameOverScreen.SetActive(true);
             gameOverScreen.EndGame();
         }
 

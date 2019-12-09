@@ -32,5 +32,4 @@ public class PileOfStones : Obstacle
             transformCollider.isTrigger = false;
         }
     }
-
 }

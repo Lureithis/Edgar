@@ -6,6 +6,7 @@ public class Player : MonoBehaviour
 {
     [SerializeField] GameObject gameManager;
     [SerializeField] GameObject InsanityBar;
+
     private bool isInHallucination;
     private InsanityMode insanitymode;
     private InsanityBar insanitybar;
@@ -19,11 +20,15 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Q) && isInHallucination == false)
+        ChangeHallucination();
+    }
+
+    private void ChangeHallucination()
+    {
+        if (Input.GetKeyDown(KeyCode.Q) && isInHallucination == false)
         {
             isInHallucination = true;
             insanitymode.InsanityModeActivated();
-            // InsanityBar.GetComponent<InsanityBar>().isInHallucinationChange();
             insanitybar.isInHallucinationChange();
         }
         else if (Input.GetKeyDown(KeyCode.Q) && isInHallucination == true)
@@ -34,23 +39,12 @@ public class Player : MonoBehaviour
         }
     }
 
-    /* private void OnTriggerEnter2D(Collider2D collision)
-     {
-         if (collision.tag == "Obstacle")
-         {
-             Debug.Log("here");
-             gameManager.GetComponent<GameOver>().GameOverScreen();
-         }
-     }*/
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.collider.tag == "Obstacle" && collision.transform.GetComponent<Obstacle>().isDangerous == true)
         {
             gameManager.GetComponent<GameOver>().EndGame();
         }
-        /*if (collision.collider.tag == "Obstacle" && collision.transform.GetComponent<Obstacle>().isDangerous == false)
-        {
-        }*/
     }
 
 

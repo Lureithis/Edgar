@@ -14,22 +14,16 @@ public class Inquisitors : Obstacle
         endgame = GameManager.GetComponent<GameOver>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    public override void Use()
-    {
-        
-    }
-
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.collider.tag == "Player")
         {
             endgame.EndGame();
         }
+    }
+
+    public override void Use()
+    {
+
     }
 }
