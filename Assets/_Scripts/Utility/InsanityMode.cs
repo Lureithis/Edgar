@@ -12,10 +12,14 @@ public class InsanityMode : MonoBehaviour
     [SerializeField] GameObject insanityRoom03;
     [SerializeField] GameObject pendulum;
     [SerializeField] GameObject insanityBar;
+    [SerializeField] GameObject reaper;
+    [SerializeField] GameObject player;
 
     private InsanityBar insanityBarScript;
     private Renderer pendulumRend;
     private bool isActivated;
+    private bool reaperMovementActivation;
+    private Death_Movement movementDeath;
 
     // Start is called before the first frame update
     void Start()
@@ -23,9 +27,13 @@ public class InsanityMode : MonoBehaviour
         isActivated = false;
         normalRoom.SetActive(true);
         insanityRoom01.SetActive(false);
+        insanityRoom02.SetActive(false);
+        insanityRoom03.SetActive(false);
         pendulumRend = pendulum.GetComponent<SpriteRenderer>();
         insanityBarScript = insanityBar.GetComponent<InsanityBar>();
         pendulumRend.enabled = false;
+        reaperMovementActivation = false;
+        movementDeath = reaper.GetComponent<Death_Movement>();
     }
 
     private void Update()
@@ -49,6 +57,14 @@ public class InsanityMode : MonoBehaviour
                 insanityRoom03.SetActive(true);
                 insanityRoom01.SetActive(false);
                 insanityRoom02.SetActive(false);
+
+                if(reaperMovementActivation == false)
+                {
+                    movementDeath.isHallucinationOn = true;
+                    reaper.transform.position = new Vector3(player.transform.position.x - 10, player.transform.position.y, player.transform.position.z);
+                    reaperMovementActivation = true;
+                }
+                
             }
         }
     }
@@ -67,6 +83,8 @@ public class InsanityMode : MonoBehaviour
 
     public void InsanityModeDeactivated()
     {
+        movementDeath.isHallucinationOn = false;
+        reaperMovementActivation = false;
         isActivated = false;
         normalRoom.SetActive(true);
         insanityRoom01.SetActive(false);
