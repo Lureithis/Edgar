@@ -12,14 +12,12 @@ public class Stones : Obstacle
 
     private InsanityBar insanityBarScript;
     private bool isSpawning;
-    private bool isHallucinationOn;
     private List<GameObject> stones;
     private float randomWaitTime;
 
     // Start is called before the first frame update
     void Start()
     {
-        isHallucinationOn = false;
         isSpawning = false;
         stones = new List<GameObject>();
         insanityBarScript = insanityBar.GetComponent<InsanityBar>(); 
@@ -28,37 +26,23 @@ public class Stones : Obstacle
     // Update is called once per frame
     void FixedUpdate()
     {
-
         if (insanityBarScript.isInHallucination == true)
-        {
-            isHallucinationOn = true;
-        }
-        if (insanityBarScript.isInHallucination == false)
-        {
-            isHallucinationOn = false;
-        }
-        if (isHallucinationOn == true)
         {
             StartCoroutine(CheckForHallucination());
         }
 
         if (isSpawning == false)
         {
-            isSpawning = true;
-            Use();
+            StartCoroutine(SpawnStones());
         }
     }
 
-    public override void Use()
-    {
-        StartCoroutine(SpawnStones());
-    }
 
     IEnumerator SpawnStones()
     {
-        if (isHallucinationOn == false)
+        if (insanityBarScript.isInHallucination == false)
         {
-           
+            isSpawning = true;
             float random = Random.Range(0, 1f);
             yield return new WaitForSecondsRealtime(random);
             
@@ -82,9 +66,13 @@ public class Stones : Obstacle
             if(item)
             {
                 item.GetComponent<Rigidbody2D>().velocity = originalVelocity;
-            }
-            
+            }   
         }
-        isSpawning = false;
+    }
+
+
+    public override void Use()
+    {
+        throw new System.NotImplementedException();
     }
 }

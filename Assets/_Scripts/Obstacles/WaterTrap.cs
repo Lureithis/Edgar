@@ -12,7 +12,7 @@ public class WaterTrap : Obstacle
     [SerializeField] float drainSpeed = 10f;
     [SerializeField] float swimSpeed = 5f;
     [SerializeField] Image breathingBar;
- //   [SerializeField] AnimationClip swimmingAnim;
+    [SerializeField] float WaterPullDown = 10f;
 
     private Animator animator;
     private bool isSwimming;
@@ -108,7 +108,7 @@ public class WaterTrap : Obstacle
             animator.SetTrigger("Swimming");
             breathingBarObject.SetActive(true);
             isInWater = true;
-            playerRB.gravityScale = 0f;
+            playerRB.gravityScale = WaterPullDown;
             player.GetComponent<PlayerMovement>().enabled = false;
             player.GetComponent<CharacterController2D>().enabled = false;
             movementInWater = true;
