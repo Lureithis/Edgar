@@ -20,6 +20,7 @@ public class StoneGameObject : MonoBehaviour
     {
         if (collision.collider.tag == "Floor")
         {
+            transform.GetComponent<Collider2D>().enabled = false;
             Physics2D.IgnoreCollision(this.GetComponent<Collider2D>(), collision.transform.GetComponent<Collider2D>());
         }
         else if (collision.collider.tag == "Player")
