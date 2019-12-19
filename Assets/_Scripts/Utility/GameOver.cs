@@ -14,6 +14,7 @@ public class GameOver : MonoBehaviour
 
     private void Start()
     {
+        gameOverScreen.SetActive( false);
         animator = player.GetComponent<Animator>();
         isPlayerDead = false;
     }

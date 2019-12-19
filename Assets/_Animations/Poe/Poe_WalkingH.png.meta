@@ -1,0 +1,1279 @@
+fileFormatVersion: 2
+guid: f2674f895a03d41459f903835cfb7979
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8826059401121566550
+    second: Poe_WalkingH_0
+  - first:
+      213: 1209098040842272888
+    second: Poe_WalkingH_1
+  - first:
+      213: -207726461183895978
+    second: Poe_WalkingH_2
+  - first:
+      213: -3823956064550512526
+    second: Poe_WalkingH_3
+  - first:
+      213: 8746259394907919977
+    second: Poe_WalkingH_4
+  - first:
+      213: -9100130195758839091
+    second: Poe_WalkingH_5
+  - first:
+      213: 8241043414642712826
+    second: Poe_WalkingH_6
+  - first:
+      213: -3749906943421701594
+    second: Poe_WalkingH_7
+  - first:
+      213: 3548656069278605005
+    second: Poe_WalkingH_8
+  - first:
+      213: 4600003858499222742
+    second: Poe_WalkingH_9
+  - first:
+      213: 1019497809379493182
+    second: Poe_WalkingH_10
+  - first:
+      213: 3539258852782382965
+    second: Poe_WalkingH_11
+  - first:
+      213: 7949056811684104413
+    second: Poe_WalkingH_12
+  - first:
+      213: 2360189134650815526
+    second: Poe_WalkingH_13
+  - first:
+      213: -4357614992406878670
+    second: Poe_WalkingH_14
+  - first:
+      213: 313599873821213236
+    second: Poe_WalkingH_15
+  - first:
+      213: 4248335934996341877
+    second: Poe_WalkingH_16
+  - first:
+      213: -490461524611369651
+    second: Poe_WalkingH_17
+  - first:
+      213: -8753648960466442904
+    second: Poe_WalkingH_18
+  - first:
+      213: 8944575330094392013
+    second: Poe_WalkingH_19
+  - first:
+      213: -2398298922271974162
+    second: Poe_WalkingH_20
+  - first:
+      213: 8986136007670385611
+    second: Poe_WalkingH_21
+  - first:
+      213: -5736111484570783105
+    second: Poe_WalkingH_22
+  - first:
+      213: 4546257325566998034
+    second: Poe_WalkingH_23
+  - first:
+      213: -5538600434820596784
+    second: Poe_WalkingH_24
+  - first:
+      213: -3387505816415858760
+    second: Poe_WalkingH_25
+  - first:
+      213: 1164282610510943838
+    second: Poe_WalkingH_26
+  - first:
+      213: -5782616195279191780
+    second: Poe_WalkingH_27
+  - first:
+      213: 562352010808073189
+    second: Poe_WalkingH_28
+  - first:
+      213: 7654816331625712077
+    second: Poe_WalkingH_29
+  - first:
+      213: 2451343275334487195
+    second: Poe_WalkingH_30
+  - first:
+      213: 3668062893399321629
+    second: Poe_WalkingH_31
+  - first:
+      213: -2274132658786721840
+    second: Poe_WalkingH_32
+  - first:
+      213: -2068621649966325403
+    second: Poe_WalkingH_33
+  - first:
+      213: 979294813370295193
+    second: Poe_WalkingH_34
+  - first:
+      213: 4252657490436604386
+    second: Poe_WalkingH_35
+  - first:
+      213: -486602118663331923
+    second: Poe_WalkingH_36
+  - first:
+      213: -3282614544968318577
+    second: Poe_WalkingH_37
+  - first:
+      213: 5754283731466723138
+    second: Poe_WalkingH_38
+  - first:
+      213: 5538590270968583985
+    second: Poe_WalkingH_39
+  - first:
+      213: -1555819269896461463
+    second: Poe_WalkingH_40
+  - first:
+      213: -1428164522266750296
+    second: Poe_WalkingH_41
+  - first:
+      213: -1794455954659987359
+    second: Poe_WalkingH_42
+  - first:
+      213: -2802404368923431455
+    second: Poe_WalkingH_43
+  - first:
+      213: -3229506963736632194
+    second: Poe_WalkingH_44
+  - first:
+      213: -8403181033322490207
+    second: Poe_WalkingH_45
+  - first:
+      213: 4510939128054145931
+    second: Poe_WalkingH_46
+  - first:
+      213: 4889477515370241304
+    second: Poe_WalkingH_47
+  - first:
+      213: -8452774396742703733
+    second: Poe_WalkingH_48
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Poe_WalkingH_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48e4987bf6eacb4abb932cec2099990
+      internalID: 8826059401121566550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bf41c315f1e4443abadbcb71fbf90f
+      internalID: 1209098040842272888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2e5f72a83baab478595ded1dbcf0e2
+      internalID: -207726461183895978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae63dc6323f3504393a7a18f21e9b01
+      internalID: -3823956064550512526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2360f77851557944a30b079733dd660
+      internalID: 8746259394907919977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5f421ad8240a54fb61bef66344a00f
+      internalID: -9100130195758839091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af1721ac5ef654892079cfcc39b5f2
+      internalID: 8241043414642712826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b639b26ba34a79d4b91f94caf9da5b60
+      internalID: -3749906943421701594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443184c08f84f2e499ecb3abfa899cf4
+      internalID: 3548656069278605005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb73456b86087c4fb95da7f890f818f
+      internalID: 4600003858499222742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c1fa8fdd5dbfb47bfc41ffc33b1b8e
+      internalID: 1019497809379493182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_11
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ead608628e9db41a9644ff48aeb1c8
+      internalID: 3539258852782382965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_12
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dbd76c5686ef448bfe7005233360c1
+      internalID: 7949056811684104413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_13
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f9aa6fc63f21a48bd61f0a1ee59619
+      internalID: 2360189134650815526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77cc9cd66cad804f9c1f4f696518ec8
+      internalID: -4357614992406878670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9598e565117a5a44fb8bc6dbc0053366
+      internalID: 313599873821213236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57d13a20c6c48a4dbb99b7cabc2c754
+      internalID: 4248335934996341877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b09158c977d164f859a50bb8a0019b
+      internalID: -490461524611369651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_18
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50518a551a62104bae76f6673892095
+      internalID: -8753648960466442904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e4963781a785408057c1292f15647
+      internalID: 8944575330094392013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7d233bec52a74097707295b5d27aa
+      internalID: -2398298922271974162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c5d85eaf0c78429b97e57f679d5df
+      internalID: 8986136007670385611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5664a34bbba0c4d8f0ea2641c0786c
+      internalID: -5736111484570783105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f65b836960ed848b7bde85c35ddc0e
+      internalID: 4546257325566998034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_24
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b99fa657198e5418c5e5cf92a5ab95
+      internalID: -5538600434820596784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_25
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262c1e6368b254b40a600603782bdc67
+      internalID: -3387505816415858760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_26
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06fbf9bff2cfd3439b9bf3d68e5ea43
+      internalID: 1164282610510943838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_27
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e23c57ac8e714dbff99efd0f3ed55
+      internalID: -5782616195279191780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13df13c4fd16c4d922879e94f0d041
+      internalID: 562352010808073189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa954fb419a594d9729337be92d5f2
+      internalID: 7654816331625712077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43678e3b6e80dc4486f5da329aadc97
+      internalID: 2451343275334487195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac998a13c6d7b4fa9fe6a06d75c58a
+      internalID: 3668062893399321629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_32
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fba08bc42f59c341a688583c3da10d8
+      internalID: -2274132658786721840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_33
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b350d9c4dc56f4baba9649998685e9
+      internalID: -2068621649966325403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_34
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35983d7cfe179f147b39a25dbce128e9
+      internalID: 979294813370295193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c5353db029ed44c916f9a153c88738
+      internalID: 4252657490436604386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79e4545eed72464bbe853367db4fd96
+      internalID: -486602118663331923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef7edd4f6a008a4bba934a8def5822c
+      internalID: -3282614544968318577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1f6c845398b284d8d7d171133e4d08
+      internalID: 5754283731466723138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_39
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1735bf700220c2442ab0748d60d05690
+      internalID: 5538590270968583985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0983b9d8c1135843927c933233a35d0
+      internalID: -1555819269896461463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_41
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 600
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c6f9362992f314fa678ac9d2b1f629
+      internalID: -1428164522266750296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f91b1d66c74d4bb01764eadfaa088
+      internalID: -1794455954659987359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83219d36a5a033d40bd28f9d854440e2
+      internalID: -2802404368923431455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f7e0fe7e45994ba56583ab574767e
+      internalID: -3229506963736632194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cdcc5189a10ee4cb35a0ed2eba8d62
+      internalID: -8403181033322490207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_46
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4b0858dd291af489f999fb3fccc03a
+      internalID: 4510939128054145931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be89b758812de48997e3dac7a14c31
+      internalID: 4889477515370241304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_WalkingH_48
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.64, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95e116c3a778804a854dac7c92dce1c
+      internalID: -8452774396742703733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

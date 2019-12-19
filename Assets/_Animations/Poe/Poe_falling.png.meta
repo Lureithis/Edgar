@@ -1,493 +1,508 @@
 fileFormatVersion: 2
-guid: 164743513bf65634dbdbec19d7e6cc75
+guid: 4c462d03c1566ca438b7d9f20c7c1092
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1100806085738706989
-    second: Poe padani smaller_#[700,600]_0
+      213: 3519852796618764015
+    second: Poe_Falling_0
   - first:
-      213: 9184942115266307840
-    second: Poe padani smaller_#[700,600]_1
+      213: -1102147600411431257
+    second: Poe_Falling_1
   - first:
-      213: 6743876729829424235
-    second: Poe padani smaller_#[700,600]_2
+      213: -8139359886926514085
+    second: Poe_Falling_2
   - first:
-      213: 8793493309320114693
-    second: Poe padani smaller_#[700,600]_3
+      213: -689800056079579356
+    second: Poe_Falling_3
   - first:
-      213: 5148702055977027168
-    second: Poe padani smaller_#[700,600]_4
+      213: 1475326868893285901
+    second: Poe_Falling_4
   - first:
-      213: -7012819909700839228
-    second: Poe padani smaller_#[700,600]_5
+      213: 2964278470812302489
+    second: Poe_Falling_5
   - first:
-      213: -8777174430812650928
-    second: Poe padani smaller_#[700,600]_6
+      213: -7418519286589694950
+    second: Poe_Falling_6
   - first:
-      213: -6158784387687092511
-    second: Poe padani smaller_#[700,600]_7
+      213: 2333310699277935106
+    second: Poe_Falling_7
   - first:
-      213: 5795624746868603598
-    second: Poe padani smaller_#[700,600]_8
+      213: -4938143800255947970
+    second: Poe_Falling_8
   - first:
-      213: -2168821291545023118
-    second: Poe padani smaller_#[700,600]_9
+      213: -1145212899591899678
+    second: Poe_Falling_9
   - first:
-      213: 3565748937659588374
-    second: Poe padani smaller_#[700,600]_10
+      213: 4657615220071271582
+    second: Poe_Falling_10
   - first:
-      213: -1391698055175879822
-    second: Poe padani smaller_#[700,600]_11
+      213: -1439709072655687692
+    second: Poe_Falling_11
   - first:
-      213: 3614340647963835848
-    second: Poe padani smaller_#[700,600]_12
+      213: 8700769603798438043
+    second: Poe_Falling_12
   - first:
-      213: 3525564516964516855
-    second: Poe padani smaller_#[700,600]_13
+      213: 959015693134630941
+    second: Poe_Falling_13
   - first:
-      213: 7319330639233908874
-    second: Poe padani smaller_#[700,600]_14
+      213: -5618577029588008436
+    second: Poe_Falling_14
   - first:
-      213: 3223486806191337889
-    second: Poe padani smaller_#[700,600]_15
+      213: -5891883120126996417
+    second: Poe_Falling_15
   - first:
-      213: -4636228315961485733
-    second: Poe padani smaller_#[700,600]_16
+      213: 879941608629892575
+    second: Poe_Falling_16
   - first:
-      213: 772798759183980247
-    second: Poe padani smaller_#[700,600]_17
+      213: -5285837293575556109
+    second: Poe_Falling_17
   - first:
-      213: -7433595064034133814
-    second: Poe padani smaller_#[700,600]_18
+      213: -2288375857589772567
+    second: Poe_Falling_18
   - first:
-      213: 3718074166065927738
-    second: Poe padani smaller_#[700,600]_19
+      213: 4183632773296298554
+    second: Poe_Falling_19
   - first:
-      213: 2790468641783549814
-    second: Poe padani smaller_#[700,600]_20
+      213: 4647336967895096791
+    second: Poe_Falling_20
   - first:
-      213: -6050334785538437340
-    second: Poe padani smaller_#[700,600]_21
+      213: 3457213368118466371
+    second: Poe_Falling_21
   - first:
-      213: 6481040065506292495
-    second: Poe padani smaller_#[700,600]_22
+      213: -6654561333427099526
+    second: Poe_Falling_22
   - first:
-      213: -1645217530841352904
-    second: Poe padani smaller_#[700,600]_23
+      213: -6874280382459656629
+    second: Poe_Falling_23
   - first:
-      213: 3480562143982654967
-    second: Poe padani smaller_#[700,600]_24
+      213: 4459070529741096630
+    second: Poe_Falling_24
   - first:
-      213: -7448760808622820950
-    second: Poe padani smaller_#[700,600]_25
+      213: -1144759035440246041
+    second: Poe_Falling_25
   - first:
-      213: 5662669167671300844
-    second: Poe padani smaller_#[700,600]_26
+      213: -3537032659931914911
+    second: Poe_Falling_26
   - first:
-      213: 8026281277098914061
-    second: Poe padani smaller_#[700,600]_27
+      213: -8453322574142462730
+    second: Poe_Falling_27
   - first:
-      213: -1029253444252363702
-    second: Poe padani smaller_#[700,600]_28
+      213: 7374094338929120217
+    second: Poe_Falling_28
   - first:
-      213: -4595160279285027324
-    second: Poe padani smaller_#[700,600]_29
+      213: -6100237744130550251
+    second: Poe_Falling_29
   - first:
-      213: 7106888595026144571
-    second: Poe padani smaller_#[700,600]_30
+      213: -7667602281406092817
+    second: Poe_Falling_30
   - first:
-      213: 2360961184529580297
-    second: Poe padani smaller_#[700,600]_31
+      213: -6949833092233191987
+    second: Poe_Falling_31
   - first:
-      213: -5826804659821709845
-    second: Poe padani smaller_#[700,600]_32
+      213: 3727321028528179017
+    second: Poe_Falling_32
   - first:
-      213: -7684113877095830009
-    second: Poe padani smaller_#[700,600]_33
+      213: -8907917261970202075
+    second: Poe_Falling_33
   - first:
-      213: -1202164795865433215
-    second: Poe padani smaller_#[700,600]_34
+      213: -1280873349796274496
+    second: Poe_Falling_34
   - first:
-      213: -4127695360671705595
-    second: Poe padani smaller_#[700,600]_35
+      213: 3795439908314654387
+    second: Poe_Falling_35
   - first:
-      213: -6849507297066705617
-    second: Poe padani smaller_#[700,600]_36
+      213: -5037768224896135988
+    second: Poe_Falling_36
   - first:
-      213: 4577910590859671153
-    second: Poe padani smaller_#[700,600]_37
+      213: 413515502812229434
+    second: Poe_Falling_37
   - first:
-      213: -4597323078195591976
-    second: Poe padani smaller_#[700,600]_38
+      213: 3572092509066124976
+    second: Poe_Falling_38
   - first:
-      213: -396782069365801012
-    second: Poe padani smaller_#[700,600]_39
+      213: 4468948207897591465
+    second: Poe_Falling_39
   - first:
-      213: 7426870198179058588
-    second: Poe padani smaller_#[700,600]_40
+      213: -1059859565343210639
+    second: Poe_Falling_40
   - first:
-      213: -4019387407627012957
-    second: Poe padani smaller_#[700,600]_41
+      213: 8572313161070512451
+    second: Poe_Falling_41
   - first:
-      213: -4209615102797159135
-    second: Poe padani smaller_#[700,600]_42
+      213: -4492610418912359017
+    second: Poe_Falling_42
   - first:
-      213: -5753149725959285889
-    second: Poe padani smaller_#[700,600]_43
+      213: 1637939696280125880
+    second: Poe_Falling_43
   - first:
-      213: -693378657890251708
-    second: Poe padani smaller_#[700,600]_44
+      213: 2292512891862370316
+    second: Poe_Falling_44
   - first:
-      213: -8733794376875904409
-    second: Poe padani smaller_#[700,600]_45
+      213: -1405869507190657473
+    second: Poe_Falling_45
   - first:
-      213: -7831910002093512148
-    second: Poe padani smaller_#[700,600]_46
+      213: -114707217482994832
+    second: Poe_Falling_46
   - first:
-      213: -1113106579959218244
-    second: Poe padani smaller_#[700,600]_47
+      213: 5905067623779372923
+    second: Poe_Falling_47
   - first:
-      213: -3877953433918036466
-    second: Poe padani smaller_#[700,600]_48
+      213: -2357249949398301652
+    second: Poe_Falling_48
   - first:
-      213: 920175741271762068
-    second: Poe padani smaller_#[700,600]_49
+      213: -317177737116507660
+    second: Poe_Falling_49
   - first:
-      213: -924823525658195546
-    second: Poe padani smaller_#[700,600]_50
+      213: -1829696140525508220
+    second: Poe_Falling_50
   - first:
-      213: -6703947146820888711
-    second: Poe padani smaller_#[700,600]_51
+      213: -8616219442841362533
+    second: Poe_Falling_51
   - first:
-      213: 2632503906495281014
-    second: Poe padani smaller_#[700,600]_52
+      213: -2387716778624752628
+    second: Poe_Falling_52
   - first:
-      213: 3499253314049115385
-    second: Poe padani smaller_#[700,600]_53
+      213: -4264052877947406386
+    second: Poe_Falling_53
   - first:
-      213: -1525194268229888050
-    second: Poe padani smaller_#[700,600]_54
+      213: 260414035801264114
+    second: Poe_Falling_54
   - first:
-      213: -4992093381747412318
-    second: Poe padani smaller_#[700,600]_55
+      213: 577814205579951325
+    second: Poe_Falling_55
   - first:
-      213: -1107723865939510351
-    second: Poe padani smaller_#[700,600]_56
+      213: 2445427739150217454
+    second: Poe_Falling_56
   - first:
-      213: -1888707317305919961
-    second: Poe padani smaller_#[700,600]_57
+      213: 4332081610199317536
+    second: Poe_Falling_57
   - first:
-      213: -7215183971330892523
-    second: Poe padani smaller_#[700,600]_58
+      213: -8509212328719204046
+    second: Poe_Falling_58
   - first:
-      213: 3118388941544119407
-    second: Poe padani smaller_#[700,600]_59
+      213: 5356970189151479728
+    second: Poe_Falling_59
   - first:
-      213: -4699727989572282030
-    second: Poe padani smaller_#[700,600]_60
+      213: -2705517322922267333
+    second: Poe_Falling_60
   - first:
-      213: -2864508185934117491
-    second: Poe padani smaller_#[700,600]_61
+      213: 5714518682494719048
+    second: Poe_Falling_61
   - first:
-      213: -3842008301835961963
-    second: Poe padani smaller_#[700,600]_62
+      213: 2173189748486993876
+    second: Poe_Falling_62
   - first:
-      213: -5213939777289656426
-    second: Poe padani smaller_#[700,600]_63
+      213: 599482368539324303
+    second: Poe_Falling_63
   - first:
-      213: 8676308203012955552
-    second: Poe padani smaller_#[700,600]_64
+      213: -4414747549016807332
+    second: Poe_Falling_64
   - first:
-      213: -4991197698712850038
-    second: Poe padani smaller_#[700,600]_65
+      213: -8527285008396539004
+    second: Poe_Falling_65
   - first:
-      213: -1005585761406689517
-    second: Poe padani smaller_#[700,600]_66
+      213: -1477301285612027107
+    second: Poe_Falling_66
   - first:
-      213: -3918641448065211910
-    second: Poe padani smaller_#[700,600]_67
+      213: 3620530350907617114
+    second: Poe_Falling_67
   - first:
-      213: -304530624574850447
-    second: Poe padani smaller_#[700,600]_68
+      213: -6525368384764674106
+    second: Poe_Falling_68
   - first:
-      213: 3414973715943495288
-    second: Poe padani smaller_#[700,600]_69
+      213: -4529993940905880223
+    second: Poe_Falling_69
   - first:
-      213: 4953009644749009805
-    second: Poe padani smaller_#[700,600]_70
+      213: 2570643581174790519
+    second: Poe_Falling_70
   - first:
-      213: -3359675155397825786
-    second: Poe padani smaller_#[700,600]_71
+      213: -5601311779058634588
+    second: Poe_Falling_71
   - first:
-      213: -8660483853117285832
-    second: Poe padani smaller_#[700,600]_72
+      213: 3887708108574859657
+    second: Poe_Falling_72
   - first:
-      213: 3659174436314446418
-    second: Poe padani smaller_#[700,600]_73
+      213: -361545450785654452
+    second: Poe_Falling_73
   - first:
-      213: -7881588182430879466
-    second: Poe padani smaller_#[700,600]_74
+      213: -893109690164056326
+    second: Poe_Falling_74
   - first:
-      213: 574262400682804173
-    second: Poe padani smaller_#[700,600]_75
+      213: -1850265919446176879
+    second: Poe_Falling_75
   - first:
-      213: 1959860819251496809
-    second: Poe padani smaller_#[700,600]_76
+      213: -8321161936724449553
+    second: Poe_Falling_76
   - first:
-      213: -2161150579644363445
-    second: Poe padani smaller_#[700,600]_77
+      213: -6949996922077496014
+    second: Poe_Falling_77
   - first:
-      213: -6342201986481244998
-    second: Poe padani smaller_#[700,600]_78
+      213: 1387690208484227686
+    second: Poe_Falling_78
   - first:
-      213: -7007858328728954463
-    second: Poe padani smaller_#[700,600]_79
+      213: -6095569912856835712
+    second: Poe_Falling_79
   - first:
-      213: 2545410708615126590
-    second: Poe padani smaller_#[700,600]_80
+      213: 5244913670759712933
+    second: Poe_Falling_80
   - first:
-      213: 6695454035746878542
-    second: Poe padani smaller_#[700,600]_81
+      213: -8297286277570147463
+    second: Poe_Falling_81
   - first:
-      213: -8101775139443826030
-    second: Poe padani smaller_#[700,600]_82
+      213: -4279244356916163449
+    second: Poe_Falling_82
   - first:
-      213: -5690585123474208741
-    second: Poe padani smaller_#[700,600]_83
+      213: -7449165977689003767
+    second: Poe_Falling_83
   - first:
-      213: -6409882454145212932
-    second: Poe padani smaller_#[700,600]_84
+      213: -2570865775475705879
+    second: Poe_Falling_84
   - first:
-      213: -5942058481153017180
-    second: Poe padani smaller_#[700,600]_85
+      213: 467287892429083763
+    second: Poe_Falling_85
   - first:
-      213: -1087885749333092406
-    second: Poe padani smaller_#[700,600]_86
+      213: -6516748568722878939
+    second: Poe_Falling_86
   - first:
-      213: -6109996976872453522
-    second: Poe padani smaller_#[700,600]_87
+      213: 1917237392512264483
+    second: Poe_Falling_87
   - first:
-      213: 7236261163995876675
-    second: Poe padani smaller_#[700,600]_88
+      213: 2540658348326294613
+    second: Poe_Falling_88
   - first:
-      213: -841210573842557211
-    second: Poe padani smaller_#[700,600]_89
+      213: 4909221172125018854
+    second: Poe_Falling_89
   - first:
-      213: -640268148486910679
-    second: Poe padani smaller_#[700,600]_90
+      213: 6023341899558003534
+    second: Poe_Falling_90
   - first:
-      213: 6727827230162257988
-    second: Poe padani smaller_#[700,600]_91
+      213: 8524612416132696470
+    second: Poe_Falling_91
   - first:
-      213: 2021184261275048001
-    second: Poe padani smaller_#[700,600]_92
+      213: -7429566642852118861
+    second: Poe_Falling_92
   - first:
-      213: 716978577069737598
-    second: Poe padani smaller_#[700,600]_93
+      213: 4864337753487160461
+    second: Poe_Falling_93
   - first:
-      213: 7908126244309547970
-    second: Poe padani smaller_#[700,600]_94
+      213: 2918074687039923381
+    second: Poe_Falling_94
   - first:
-      213: -1453281852147800996
-    second: Poe padani smaller_#[700,600]_95
+      213: -2428379550018036398
+    second: Poe_Falling_95
   - first:
-      213: 4767777705316785158
-    second: Poe padani smaller_#[700,600]_96
+      213: -6573889239143377374
+    second: Poe_Falling_96
   - first:
-      213: 8565509946586007012
-    second: Poe padani smaller_#[700,600]_97
+      213: 4935729354969816060
+    second: Poe_Falling_97
   - first:
-      213: -338715745049291124
-    second: Poe padani smaller_#[700,600]_98
+      213: 3445810552725527643
+    second: Poe_Falling_98
   - first:
-      213: 4724550482824582925
-    second: Poe padani smaller_#[700,600]_99
+      213: 4550807681656140618
+    second: Poe_Falling_99
   - first:
-      213: -7074342586414524783
-    second: Poe padani smaller_#[700,600]_100
+      213: -8219310063734178541
+    second: Poe_Falling_100
   - first:
-      213: -848749969436280071
-    second: Poe padani smaller_#[700,600]_101
+      213: -190271382926706105
+    second: Poe_Falling_101
   - first:
-      213: -3548025480847519825
-    second: Poe padani smaller_#[700,600]_102
+      213: -3557938967848135944
+    second: Poe_Falling_102
   - first:
-      213: -8698708920554723071
-    second: Poe padani smaller_#[700,600]_103
+      213: -1594250137389001951
+    second: Poe_Falling_103
   - first:
-      213: 4374119391081398336
-    second: Poe padani smaller_#[700,600]_104
+      213: 5260997415583914686
+    second: Poe_Falling_104
   - first:
-      213: -3940627938059043372
-    second: Poe padani smaller_#[700,600]_105
+      213: 5974068778025626692
+    second: Poe_Falling_105
   - first:
-      213: -7447452291536560274
-    second: Poe padani smaller_#[700,600]_106
+      213: -543411496800397627
+    second: Poe_Falling_106
   - first:
-      213: 8138256289619693958
-    second: Poe padani smaller_#[700,600]_107
+      213: 8103514327050253484
+    second: Poe_Falling_107
   - first:
-      213: 2966149807039011529
-    second: Poe padani smaller_#[700,600]_108
+      213: -1500567955919383999
+    second: Poe_Falling_108
   - first:
-      213: 6747333712002492480
-    second: Poe padani smaller_#[700,600]_109
+      213: 8471714278186978514
+    second: Poe_Falling_109
   - first:
-      213: 3319574779233084211
-    second: Poe padani smaller_#[700,600]_110
+      213: 9008559454611182601
+    second: Poe_Falling_110
   - first:
-      213: 803569722943808729
-    second: Poe padani smaller_#[700,600]_111
+      213: 1766601985583373527
+    second: Poe_Falling_111
   - first:
-      213: -3665752897820156405
-    second: Poe padani smaller_#[700,600]_112
+      213: -2700144251285528192
+    second: Poe_Falling_112
   - first:
-      213: 1842724933096685515
-    second: Poe padani smaller_#[700,600]_113
+      213: -7005758103015268459
+    second: Poe_Falling_113
   - first:
-      213: 258268521985385767
-    second: Poe padani smaller_#[700,600]_114
+      213: 9032093660126904013
+    second: Poe_Falling_114
   - first:
-      213: 708217239966270274
-    second: Poe padani smaller_#[700,600]_115
+      213: -6911525925493598990
+    second: Poe_Falling_115
   - first:
-      213: 2331666460112097063
-    second: Poe padani smaller_#[700,600]_116
+      213: -2141887343071832052
+    second: Poe_Falling_116
   - first:
-      213: -3520859665837215577
-    second: Poe padani smaller_#[700,600]_117
+      213: -8898311078828686330
+    second: Poe_Falling_117
   - first:
-      213: 2073791310491202310
-    second: Poe padani smaller_#[700,600]_118
+      213: -231243700982021578
+    second: Poe_Falling_118
   - first:
-      213: -3864411092571648472
-    second: Poe padani smaller_#[700,600]_119
+      213: 3186942156340262925
+    second: Poe_Falling_119
   - first:
-      213: 4589051916119373633
-    second: Poe padani smaller_#[700,600]_120
+      213: -4130217430812783147
+    second: Poe_Falling_120
   - first:
-      213: -208460006132761709
-    second: Poe padani smaller_#[700,600]_121
+      213: 7932799661671321446
+    second: Poe_Falling_121
   - first:
-      213: -6474015378766027890
-    second: Poe padani smaller_#[700,600]_122
+      213: 3239589998813289280
+    second: Poe_Falling_122
   - first:
-      213: -2790115252885521265
-    second: Poe padani smaller_#[700,600]_123
+      213: 4978299704574485490
+    second: Poe_Falling_123
   - first:
-      213: -2031818869720773874
-    second: Poe padani smaller_#[700,600]_124
+      213: 214991150451857770
+    second: Poe_Falling_124
   - first:
-      213: 3788451591657321153
-    second: Poe padani smaller_#[700,600]_125
+      213: 7576514197191352039
+    second: Poe_Falling_125
   - first:
-      213: 7797144498368402027
-    second: Poe padani smaller_#[700,600]_126
+      213: 5370381026189713201
+    second: Poe_Falling_126
   - first:
-      213: -4056332194252233161
-    second: Poe padani smaller_#[700,600]_127
+      213: 913753217949476562
+    second: Poe_Falling_127
   - first:
-      213: 1869772778090274496
-    second: Poe padani smaller_#[700,600]_128
+      213: -1211495786494537632
+    second: Poe_Falling_128
   - first:
-      213: 6506116639323938574
-    second: Poe padani smaller_#[700,600]_129
+      213: -6082007163807544041
+    second: Poe_Falling_129
   - first:
-      213: -6289974180610117577
-    second: Poe padani smaller_#[700,600]_130
+      213: -5248783782673624964
+    second: Poe_Falling_130
   - first:
-      213: -3710118670432940558
-    second: Poe padani smaller_#[700,600]_131
+      213: -2759976343657975132
+    second: Poe_Falling_131
   - first:
-      213: -1493498756128178438
-    second: Poe padani smaller_#[700,600]_132
+      213: -1755632174534371731
+    second: Poe_Falling_132
   - first:
-      213: 5513407288903976382
-    second: Poe padani smaller_#[700,600]_133
+      213: -213194127902803011
+    second: Poe_Falling_133
   - first:
-      213: 4068768063578813312
-    second: Poe padani smaller_#[700,600]_134
+      213: -8203125294722131961
+    second: Poe_Falling_134
   - first:
-      213: -4387191189707805553
-    second: Poe padani smaller_#[700,600]_135
+      213: 2129760200457712682
+    second: Poe_Falling_135
   - first:
-      213: 3123138198799906213
-    second: Poe padani smaller_#[700,600]_136
+      213: -6478796099112118143
+    second: Poe_Falling_136
   - first:
-      213: 3218488454901596525
-    second: Poe padani smaller_#[700,600]_137
+      213: 7903249781501591532
+    second: Poe_Falling_137
   - first:
-      213: 79320440985739651
-    second: Poe padani smaller_#[700,600]_138
+      213: 8342661681804443225
+    second: Poe_Falling_138
   - first:
-      213: -2850965650334074121
-    second: Poe padani smaller_#[700,600]_139
+      213: 7269052774082147031
+    second: Poe_Falling_139
   - first:
-      213: 3023539461379688961
-    second: Poe padani smaller_#[700,600]_140
+      213: 4262194135686399290
+    second: Poe_Falling_140
   - first:
-      213: -8535816241379013332
-    second: Poe padani smaller_#[700,600]_141
+      213: 5990732711655059921
+    second: Poe_Falling_141
   - first:
-      213: -3243382376535831146
-    second: Poe padani smaller_#[700,600]_142
+      213: -5975212619579746403
+    second: Poe_Falling_142
   - first:
-      213: 8840672519805614297
-    second: Poe padani smaller_#[700,600]_143
+      213: 4622594152504005853
+    second: Poe_Falling_143
   - first:
-      213: -8223254801283959611
-    second: Poe padani smaller_#[700,600]_144
+      213: 869347779347902880
+    second: Poe_Falling_144
   - first:
-      213: 7661492540962358711
-    second: Poe padani smaller_#[700,600]_145
+      213: 8051132425508571474
+    second: Poe_Falling_145
   - first:
-      213: 9078136449265791361
-    second: Poe padani smaller_#[700,600]_146
+      213: -2060493009325780677
+    second: Poe_Falling_146
   - first:
-      213: -605779214697653107
-    second: Poe padani smaller_#[700,600]_147
+      213: 7310349640368686930
+    second: Poe_Falling_147
   - first:
-      213: 8319222254312313462
-    second: Poe padani smaller_#[700,600]_148
+      213: 865922509745984205
+    second: Poe_Falling_148
   - first:
-      213: 4175728869406854478
-    second: Poe padani smaller_#[700,600]_149
+      213: -4327922072652768553
+    second: Poe_Falling_149
   - first:
-      213: 4146667509200585901
-    second: Poe padani smaller_#[700,600]_150
+      213: 5046919143623468937
+    second: Poe_Falling_150
   - first:
-      213: 8727262527752016852
-    second: Poe padani smaller_#[700,600]_151
+      213: -4819926581660033074
+    second: Poe_Falling_151
   - first:
-      213: -1986273886280542772
-    second: Poe padani smaller_#[700,600]_152
+      213: 6998983022302351138
+    second: Poe_Falling_152
   - first:
-      213: -14845558487580174
-    second: Poe padani smaller_#[700,600]_153
+      213: -8831069685822695445
+    second: Poe_Falling_153
   - first:
-      213: -6672507948124653484
-    second: Poe padani smaller_#[700,600]_154
+      213: -1015280118992357650
+    second: Poe_Falling_154
   - first:
-      213: 9039647905272996642
-    second: Poe padani smaller_#[700,600]_155
+      213: 2127223116488817415
+    second: Poe_Falling_155
   - first:
-      213: -7347706309174789206
-    second: Poe padani smaller_#[700,600]_156
+      213: 118272490247019708
+    second: Poe_Falling_156
   - first:
-      213: -4417227261448808085
-    second: Poe padani smaller_#[700,600]_157
+      213: 4047780139901106316
+    second: Poe_Falling_157
   - first:
-      213: -2039386385982529303
-    second: Poe padani smaller_#[700,600]_158
+      213: -973105198003545560
+    second: Poe_Falling_158
   - first:
-      213: -711332641364646488
-    second: Poe padani smaller_#[700,600]_159
+      213: -2901434689267783035
+    second: Poe_Falling_159
   - first:
-      213: -7223301738477852684
-    second: Poe padani smaller_#[700,600]_160
+      213: -5851378562698124039
+    second: Poe_Falling_160
   - first:
-      213: 3369834561529276073
-    second: Poe padani smaller_#[700,600]_161
+      213: 1581930091726761078
+    second: Poe_Falling_161
+  - first:
+      213: -4182383358206162902
+    second: Poe_Falling_162
+  - first:
+      213: -8320213632799502801
+    second: Poe_Falling_163
+  - first:
+      213: -6678759762322047409
+    second: Poe_Falling_164
+  - first:
+      213: -7316758971965603677
+    second: Poe_Falling_165
+  - first:
+      213: 4335339001373187613
+    second: Poe_Falling_166
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -572,3403 +587,3508 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_0
+      name: Poe_Falling_0
       rect:
         serializedVersion: 2
         x: 0
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a566c95a55d48b746a3994057f2b3757
-      internalID: -1100806085738706989
+      spriteID: a5b2da063baa09e4ca45e2e297dc8ad8
+      internalID: 3519852796618764015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_1
+      name: Poe_Falling_1
       rect:
         serializedVersion: 2
         x: 700
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4867a13f57bc5a43ba2d0322a0b76c0
-      internalID: 9184942115266307840
+      spriteID: 1cacfc083ef9ac1439ccea1d3f3ab8b2
+      internalID: -1102147600411431257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_2
+      name: Poe_Falling_2
       rect:
         serializedVersion: 2
         x: 1400
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8a0c46565cde2504f9c73f329f6a582e
-      internalID: 6743876729829424235
+      spriteID: af7b77e84e52e7242b2a9ce784d6bb4c
+      internalID: -8139359886926514085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_3
+      name: Poe_Falling_3
       rect:
         serializedVersion: 2
         x: 2100
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 60f8f995e0652f6479d193ea839ec122
-      internalID: 8793493309320114693
+      spriteID: 2128c28893339a240a1f5069927e99f8
+      internalID: -689800056079579356
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_4
+      name: Poe_Falling_4
       rect:
         serializedVersion: 2
         x: 2800
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cac094bfbf48384897dcd80a959615b
-      internalID: 5148702055977027168
+      spriteID: f7053e9393db12848b25ce3c20c18aac
+      internalID: 1475326868893285901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_5
+      name: Poe_Falling_5
       rect:
         serializedVersion: 2
         x: 3500
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 524e8f4761c660f4f959fbe45486ac92
-      internalID: -7012819909700839228
+      spriteID: ca9f7fdcb22abd341b07ae8a71f83f38
+      internalID: 2964278470812302489
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_6
+      name: Poe_Falling_6
       rect:
         serializedVersion: 2
         x: 4200
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0cc4b49edfd8aa41b0af4211bcf0193
-      internalID: -8777174430812650928
+      spriteID: 8173758a8b10b474eada40b96dfcca59
+      internalID: -7418519286589694950
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_7
+      name: Poe_Falling_7
       rect:
         serializedVersion: 2
         x: 4900
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff81fd7cdbb05bc449c922f748205f83
-      internalID: -6158784387687092511
+      spriteID: 1f5153a7f7a17cb4186ba45a487ec536
+      internalID: 2333310699277935106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_8
+      name: Poe_Falling_8
       rect:
         serializedVersion: 2
         x: 5600
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bad8cb140b26eaf48b6b7900402f6abe
-      internalID: 5795624746868603598
+      spriteID: 1b5944b831be1d247a705df0e25b6da4
+      internalID: -4938143800255947970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_9
+      name: Poe_Falling_9
       rect:
         serializedVersion: 2
         x: 6300
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0038ebdf09722146a6a3f68f0138a67
-      internalID: -2168821291545023118
+      spriteID: 6034db021b8bdc944b2e117284b0b8d9
+      internalID: -1145212899591899678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_10
+      name: Poe_Falling_10
       rect:
         serializedVersion: 2
         x: 7000
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26c5cdd14906e704fb1597b89c04df40
-      internalID: 3565748937659588374
+      spriteID: 2e44dc401211048449559608e03ba6bd
+      internalID: 4657615220071271582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_11
+      name: Poe_Falling_11
       rect:
         serializedVersion: 2
         x: 7700
         y: 7800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f3154358029002499482564075a810f
-      internalID: -1391698055175879822
+      spriteID: b9c133edd00998a4d8ca1e26db1fb36d
+      internalID: -1439709072655687692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_12
+      name: Poe_Falling_12
       rect:
         serializedVersion: 2
         x: 0
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7687af8fc7469ba46bee1ede11d4f982
-      internalID: 3614340647963835848
+      spriteID: 446ffa2ef4e226f40bfbcedb9752961c
+      internalID: 8700769603798438043
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_13
+      name: Poe_Falling_13
       rect:
         serializedVersion: 2
         x: 700
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4347790ffb9a7404c85969c170d4577c
-      internalID: 3525564516964516855
+      spriteID: db6c5369356b80540b7b1b9b5c1b3137
+      internalID: 959015693134630941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_14
+      name: Poe_Falling_14
       rect:
         serializedVersion: 2
         x: 1400
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb305ec89ae928e4dbbb71df193cde87
-      internalID: 7319330639233908874
+      spriteID: c0b91fa2d896cfe42b25ccdcaca3f580
+      internalID: -5618577029588008436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_15
+      name: Poe_Falling_15
       rect:
         serializedVersion: 2
         x: 2100
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22965d846e1dae2409540c1c4412f6eb
-      internalID: 3223486806191337889
+      spriteID: 830ae86481377d34290a326a8fb872aa
+      internalID: -5891883120126996417
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_16
+      name: Poe_Falling_16
       rect:
         serializedVersion: 2
         x: 2800
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cde1a2552ab500c459897cb3435b7d3f
-      internalID: -4636228315961485733
+      spriteID: 227ec51f54957fe47bb776c43620cd8a
+      internalID: 879941608629892575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_17
+      name: Poe_Falling_17
       rect:
         serializedVersion: 2
         x: 3500
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b08a38fe98b76d341a8ffbe8672bf94a
-      internalID: 772798759183980247
+      spriteID: 0ebaaafc798eb0f4da6539038ce55211
+      internalID: -5285837293575556109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_18
+      name: Poe_Falling_18
       rect:
         serializedVersion: 2
         x: 4200
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 893fd611f7cca624599b5df996712fdf
-      internalID: -7433595064034133814
+      spriteID: 408931454ed5ce14885d7d3da9f8bae4
+      internalID: -2288375857589772567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_19
+      name: Poe_Falling_19
       rect:
         serializedVersion: 2
         x: 4900
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3c839d599aceec44b9e8d0c5c0991e02
-      internalID: 3718074166065927738
+      spriteID: ee2448e32969852408dd80454ac338b3
+      internalID: 4183632773296298554
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_20
+      name: Poe_Falling_20
       rect:
         serializedVersion: 2
         x: 5600
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7d433da99b76a8429992509b20d9a04
-      internalID: 2790468641783549814
+      spriteID: c1d0452c512eb194dab7d604e62b70b1
+      internalID: 4647336967895096791
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_21
+      name: Poe_Falling_21
       rect:
         serializedVersion: 2
         x: 6300
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf36d9c0a4c90f64181b0cd9950d6655
-      internalID: -6050334785538437340
+      spriteID: 6755defad6cfe4b45bdefa5ea4234a8f
+      internalID: 3457213368118466371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_22
+      name: Poe_Falling_22
       rect:
         serializedVersion: 2
         x: 7000
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7083b2d4b0bccca4ba36a5c59596594b
-      internalID: 6481040065506292495
+      spriteID: 512c6f5a6ef936b4382ed951020a2341
+      internalID: -6654561333427099526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_23
+      name: Poe_Falling_23
       rect:
         serializedVersion: 2
         x: 7700
         y: 7200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 13a3a7137e28f2746b5543f626d2251f
-      internalID: -1645217530841352904
+      spriteID: dde1c3b3146894f4aad08a25f55ea710
+      internalID: -6874280382459656629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_24
+      name: Poe_Falling_24
       rect:
         serializedVersion: 2
         x: 0
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f4a8e83c2b7cab4c83ab32601978c3e
-      internalID: 3480562143982654967
+      spriteID: 1b7baf335cc47f14792f1fc43ee20c07
+      internalID: 4459070529741096630
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_25
+      name: Poe_Falling_25
       rect:
         serializedVersion: 2
         x: 700
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bcf7957e8efdafa44bffecec28d723a3
-      internalID: -7448760808622820950
+      spriteID: fbff80efc562be24ea1fb176ab8f3c11
+      internalID: -1144759035440246041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_26
+      name: Poe_Falling_26
       rect:
         serializedVersion: 2
         x: 1400
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e83bc89dcf87284493d45009230e4fd
-      internalID: 5662669167671300844
+      spriteID: 113d45f916abc3942a9684d6ca6fbd38
+      internalID: -3537032659931914911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_27
+      name: Poe_Falling_27
       rect:
         serializedVersion: 2
         x: 2100
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e389a8b5b9414ab489df6b937da5f3b5
-      internalID: 8026281277098914061
+      spriteID: ab57a9588b4130d45bee6c7bf205f08e
+      internalID: -8453322574142462730
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_28
+      name: Poe_Falling_28
       rect:
         serializedVersion: 2
         x: 2800
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00f3910c8f0026d418a2237b6695845e
-      internalID: -1029253444252363702
+      spriteID: 0c55e49f5b5b29042a0f112caa72a3b4
+      internalID: 7374094338929120217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_29
+      name: Poe_Falling_29
       rect:
         serializedVersion: 2
         x: 3500
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef30350cd17ea874088efcde25474719
-      internalID: -4595160279285027324
+      spriteID: cdb131ae16197ec4cb44790496bb9ca9
+      internalID: -6100237744130550251
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_30
+      name: Poe_Falling_30
       rect:
         serializedVersion: 2
         x: 4200
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4aede4a4533f875428e07035b427a72e
-      internalID: 7106888595026144571
+      spriteID: 05c30c94931cc184bb2e3c7b76f21105
+      internalID: -7667602281406092817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_31
+      name: Poe_Falling_31
       rect:
         serializedVersion: 2
         x: 4900
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a59d5ae3811374f499778f8dd0b13250
-      internalID: 2360961184529580297
+      spriteID: a89ba33856440d546aaf9efa2848c5f5
+      internalID: -6949833092233191987
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_32
+      name: Poe_Falling_32
       rect:
         serializedVersion: 2
         x: 5600
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5aa2f1fa42098745a13049d7d15cbaf
-      internalID: -5826804659821709845
+      spriteID: b21f92c145a19604eaa29b63ef7e1c62
+      internalID: 3727321028528179017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_33
+      name: Poe_Falling_33
       rect:
         serializedVersion: 2
         x: 6300
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2f7db6f5a9330444bd42f55238218d8
-      internalID: -7684113877095830009
+      spriteID: 69edfb7dff1b56141b9e2e2f4489963e
+      internalID: -8907917261970202075
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_34
+      name: Poe_Falling_34
       rect:
         serializedVersion: 2
         x: 7000
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2ab844ced8defc4292e0ade277825d9
-      internalID: -1202164795865433215
+      spriteID: b19fa8d79733f454490c2d8dcf7c2fb5
+      internalID: -1280873349796274496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_35
+      name: Poe_Falling_35
       rect:
         serializedVersion: 2
         x: 7700
         y: 6600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 047378a17da37354496cd0bf3e1b07e8
-      internalID: -4127695360671705595
+      spriteID: 0722f589db59b014193cc18f1b736e32
+      internalID: 3795439908314654387
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_36
+      name: Poe_Falling_36
       rect:
         serializedVersion: 2
         x: 0
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffd75019be64b6844a0f628e49cc5b1e
-      internalID: -6849507297066705617
+      spriteID: 5ded3bc04cc73ec4ab62012438db90fb
+      internalID: -5037768224896135988
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_37
+      name: Poe_Falling_37
       rect:
         serializedVersion: 2
         x: 700
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1b18faae8d643f4592f00bd36222b97
-      internalID: 4577910590859671153
+      spriteID: d8e7217a3011ddf41851a926e55c139c
+      internalID: 413515502812229434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_38
+      name: Poe_Falling_38
       rect:
         serializedVersion: 2
         x: 1400
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3b2b59e77d8b58469b5a2556f89f113
-      internalID: -4597323078195591976
+      spriteID: 0c5a536b53c1f4f4e94c1b9bb9bd0ddc
+      internalID: 3572092509066124976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_39
+      name: Poe_Falling_39
       rect:
         serializedVersion: 2
         x: 2100
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c6dc07a15202fc4d83a40dbf72dd2d2
-      internalID: -396782069365801012
+      spriteID: 145df6a0bf00c5246acb5ed6604b14fc
+      internalID: 4468948207897591465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_40
+      name: Poe_Falling_40
       rect:
         serializedVersion: 2
         x: 2800
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 022040e92fb138645a6d3b5a94ca5751
-      internalID: 7426870198179058588
+      spriteID: 45362a0ad2a1a644a9b01b0ec3245657
+      internalID: -1059859565343210639
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_41
+      name: Poe_Falling_41
       rect:
         serializedVersion: 2
         x: 3500
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6091a698d4f0bc24f825a78cd327294a
-      internalID: -4019387407627012957
+      spriteID: fd861e3dd49eb2d4899e0d87fc6ffe6c
+      internalID: 8572313161070512451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_42
+      name: Poe_Falling_42
       rect:
         serializedVersion: 2
         x: 4200
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c83780a214ceb0c40ac0f053f9b24ee3
-      internalID: -4209615102797159135
+      spriteID: 725edd0d7728fc14ba4b51124fe3245c
+      internalID: -4492610418912359017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_43
+      name: Poe_Falling_43
       rect:
         serializedVersion: 2
         x: 4900
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46d0cd6231b0ffa49bb9bfab43a31770
-      internalID: -5753149725959285889
+      spriteID: 0fe0398c40169914ebabea0756377e18
+      internalID: 1637939696280125880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_44
+      name: Poe_Falling_44
       rect:
         serializedVersion: 2
         x: 5600
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 571d5f77206c7cc4b83dc0ae750453fc
-      internalID: -693378657890251708
+      spriteID: 0dbf45ee4c51035429a0be6c4144ba9e
+      internalID: 2292512891862370316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_45
+      name: Poe_Falling_45
       rect:
         serializedVersion: 2
         x: 6300
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11712a6d299317248b7f03d411bdbdb7
-      internalID: -8733794376875904409
+      spriteID: 94ae0016616fd7d4c85a7e95fec3d047
+      internalID: -1405869507190657473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_46
+      name: Poe_Falling_46
       rect:
         serializedVersion: 2
         x: 7000
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23131b2cc366a4a438ee0309f58a9739
-      internalID: -7831910002093512148
+      spriteID: acd278db12dcb1c42b1f66e63bc42566
+      internalID: -114707217482994832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_47
+      name: Poe_Falling_47
       rect:
         serializedVersion: 2
         x: 7700
         y: 6000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a94109ea1007a0646a9fe5eb51cae97d
-      internalID: -1113106579959218244
+      spriteID: b4c3afdf5dab50248899c3d3a067fc2a
+      internalID: 5905067623779372923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_48
+      name: Poe_Falling_48
       rect:
         serializedVersion: 2
         x: 0
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 775d6d87159741749a4e408886117559
-      internalID: -3877953433918036466
+      spriteID: 4b7b2c3629fcf37449e05da9233a9c0f
+      internalID: -2357249949398301652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_49
+      name: Poe_Falling_49
       rect:
         serializedVersion: 2
         x: 700
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: def270ea7965fae40b22a83fa809c6da
-      internalID: 920175741271762068
+      spriteID: 8e509e97d10e2674a8c4ca7d7100edda
+      internalID: -317177737116507660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_50
+      name: Poe_Falling_50
       rect:
         serializedVersion: 2
         x: 1400
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de252077e443ab043879ac5a51982ce3
-      internalID: -924823525658195546
+      spriteID: bb516ec78f41c4f4880a1a8c9bc2854f
+      internalID: -1829696140525508220
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_51
+      name: Poe_Falling_51
       rect:
         serializedVersion: 2
         x: 2100
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d11c694656c92bf4886ff23b37c91fc8
-      internalID: -6703947146820888711
+      spriteID: 53f09314c97fd7348a1fc354b467e7e2
+      internalID: -8616219442841362533
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_52
+      name: Poe_Falling_52
       rect:
         serializedVersion: 2
         x: 2800
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70903b61621d9f5499c0f3aca547e7a1
-      internalID: 2632503906495281014
+      spriteID: b4da6ab1793ba5945991a061db8177cd
+      internalID: -2387716778624752628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_53
+      name: Poe_Falling_53
       rect:
         serializedVersion: 2
         x: 3500
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f776ea0551fe28445b7f1dc1445ce1f0
-      internalID: 3499253314049115385
+      spriteID: d9a88375450201c46abc861170219666
+      internalID: -4264052877947406386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_54
+      name: Poe_Falling_54
       rect:
         serializedVersion: 2
         x: 4200
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3908e53f614d84dabcdf94b1ed01b6
-      internalID: -1525194268229888050
+      spriteID: cd1dd96c7dff6724fb1d84355c30eeb3
+      internalID: 260414035801264114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_55
+      name: Poe_Falling_55
       rect:
         serializedVersion: 2
         x: 4900
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61eb5455df8d57d4aa3245dd504c67a5
-      internalID: -4992093381747412318
+      spriteID: 573b544db7e83764cba0bfe6ccc70303
+      internalID: 577814205579951325
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_56
+      name: Poe_Falling_56
       rect:
         serializedVersion: 2
         x: 5600
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9624e3e022eb02b4da896ff8e6d7e7d9
-      internalID: -1107723865939510351
+      spriteID: 4224bbf363722ba4b8a25d6bec394e89
+      internalID: 2445427739150217454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_57
+      name: Poe_Falling_57
       rect:
         serializedVersion: 2
         x: 6300
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cf1a4a8788d4984b8ca35ff3f566644
-      internalID: -1888707317305919961
+      spriteID: 5265e55b3a1486643a53eeadc7a061ed
+      internalID: 4332081610199317536
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_58
+      name: Poe_Falling_58
       rect:
         serializedVersion: 2
         x: 7000
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc75d7cf966284949853342ab1740a0a
-      internalID: -7215183971330892523
+      spriteID: 54c7b4cefb7079b43aca08ce7f5decaa
+      internalID: -8509212328719204046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_59
+      name: Poe_Falling_59
       rect:
         serializedVersion: 2
         x: 7700
         y: 5400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f59ee403fa4f26840a154eea346e6bd8
-      internalID: 3118388941544119407
+      spriteID: 31291b1e6744cd84f97b0a6098d1ad16
+      internalID: 5356970189151479728
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_60
+      name: Poe_Falling_60
       rect:
         serializedVersion: 2
         x: 0
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 645d43095136d3c49837a638c777b3f4
-      internalID: -4699727989572282030
+      spriteID: 9383ff4521b293049864adb44a95244f
+      internalID: -2705517322922267333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_61
+      name: Poe_Falling_61
       rect:
         serializedVersion: 2
         x: 700
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be36a6b7f5494d741a3e34d82bf6af74
-      internalID: -2864508185934117491
+      spriteID: 22c97b4ffc99a404e82453fccb4f0fad
+      internalID: 5714518682494719048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_62
+      name: Poe_Falling_62
       rect:
         serializedVersion: 2
         x: 1400
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24c25818a3fbfae4c897d558fec3bc16
-      internalID: -3842008301835961963
+      spriteID: 9ed921f8f110f6a4d8d0a49370bd45cc
+      internalID: 2173189748486993876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_63
+      name: Poe_Falling_63
       rect:
         serializedVersion: 2
         x: 2100
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6f1ac091f6a9dd4d9e9916913348d3a
-      internalID: -5213939777289656426
+      spriteID: 06199a6c6d8acd14f951df017371baec
+      internalID: 599482368539324303
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_64
+      name: Poe_Falling_64
       rect:
         serializedVersion: 2
         x: 2800
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 919417777e1ee5340a666bff2f4b7a88
-      internalID: 8676308203012955552
+      spriteID: 1521a4fbd28260843af9eae8b4b47594
+      internalID: -4414747549016807332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_65
+      name: Poe_Falling_65
       rect:
         serializedVersion: 2
         x: 3500
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: abf7d5b15283dff478c22c5ee1565b49
-      internalID: -4991197698712850038
+      spriteID: d79a5e2ec5ae7e545aa988514878e6b9
+      internalID: -8527285008396539004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_66
+      name: Poe_Falling_66
       rect:
         serializedVersion: 2
         x: 4200
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 400ea5d0d51578343b532b415ebf1463
-      internalID: -1005585761406689517
+      spriteID: 28c8f4d92bbef824eb37e3b1d49ede73
+      internalID: -1477301285612027107
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_67
+      name: Poe_Falling_67
       rect:
         serializedVersion: 2
         x: 4900
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ebc3544b6a647c4689c15b7ff6dff24
-      internalID: -3918641448065211910
+      spriteID: 6b1cf2d1dc8850344ba4dbdf7ca004d4
+      internalID: 3620530350907617114
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_68
+      name: Poe_Falling_68
       rect:
         serializedVersion: 2
         x: 5600
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce33f0f587b71e041aab853cb0240908
-      internalID: -304530624574850447
+      spriteID: 46b68430ddb1a5b4388feaf0804d668c
+      internalID: -6525368384764674106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_69
+      name: Poe_Falling_69
       rect:
         serializedVersion: 2
         x: 6300
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cb8728f501bfdc4eaf204ee69594ec1
-      internalID: 3414973715943495288
+      spriteID: 6fc770009875d094a86a15e099f16f97
+      internalID: -4529993940905880223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_70
+      name: Poe_Falling_70
       rect:
         serializedVersion: 2
         x: 7000
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bac5d00224b39fb47bd4d4ce7bb55723
-      internalID: 4953009644749009805
+      spriteID: 6866049169da36b419b44ca665bde520
+      internalID: 2570643581174790519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_71
+      name: Poe_Falling_71
       rect:
         serializedVersion: 2
         x: 7700
         y: 4800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bd4707830ef8134f8c96ee4786dfca7
-      internalID: -3359675155397825786
+      spriteID: 105effba28591d94bb2d93dbd13697e9
+      internalID: -5601311779058634588
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_72
+      name: Poe_Falling_72
       rect:
         serializedVersion: 2
         x: 0
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2f4761f81002810409dd5af60ed8a437
-      internalID: -8660483853117285832
+      spriteID: 1e298dd5a9cb5474da6df7aeb82d6b98
+      internalID: 3887708108574859657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_73
+      name: Poe_Falling_73
       rect:
         serializedVersion: 2
         x: 700
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11e3e84734a93d44aa83ece2f07870c9
-      internalID: 3659174436314446418
+      spriteID: e0289ff01fd2b38408489b07def07b38
+      internalID: -361545450785654452
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_74
+      name: Poe_Falling_74
       rect:
         serializedVersion: 2
         x: 1400
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bbf8046bdb51f24781e16a9bbcaf31f
-      internalID: -7881588182430879466
+      spriteID: db40900333fe2c845a4e6ad166388aed
+      internalID: -893109690164056326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_75
+      name: Poe_Falling_75
       rect:
         serializedVersion: 2
         x: 2100
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7a6c60f80cd27a542870a62b023712f6
-      internalID: 574262400682804173
+      spriteID: a76760085d09a62478a097a639dfa2b5
+      internalID: -1850265919446176879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_76
+      name: Poe_Falling_76
       rect:
         serializedVersion: 2
         x: 2800
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04da22db9aba7db4eb84a76c58667bc9
-      internalID: 1959860819251496809
+      spriteID: 266822eccd915a346af4324fdc7b15ad
+      internalID: -8321161936724449553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_77
+      name: Poe_Falling_77
       rect:
         serializedVersion: 2
         x: 3500
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 472749277a955dc44a3009e47e460950
-      internalID: -2161150579644363445
+      spriteID: 272b4002d2e851346a792a8a6f5b65aa
+      internalID: -6949996922077496014
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_78
+      name: Poe_Falling_78
       rect:
         serializedVersion: 2
         x: 4200
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8a7ce917ce0e6d4198118bb64c4fd27
-      internalID: -6342201986481244998
+      spriteID: 6d8b68f76b93b9e43bf5c0b02e7a9453
+      internalID: 1387690208484227686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_79
+      name: Poe_Falling_79
       rect:
         serializedVersion: 2
         x: 4900
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 687f7d0096060ce479d1133535f11114
-      internalID: -7007858328728954463
+      spriteID: 003e3a870c8077247b0b455e704ebddb
+      internalID: -6095569912856835712
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_80
+      name: Poe_Falling_80
       rect:
         serializedVersion: 2
         x: 5600
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 929985b0619b6524eacc8a503915eacd
-      internalID: 2545410708615126590
+      spriteID: f47b863ec93e71945ad0f686e7b1ff65
+      internalID: 5244913670759712933
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_81
+      name: Poe_Falling_81
       rect:
         serializedVersion: 2
         x: 6300
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1fa3aae3a6bace46b1b058f6aa51743
-      internalID: 6695454035746878542
+      spriteID: d1bf1a3a15133194789f15faf5135c2c
+      internalID: -8297286277570147463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_82
+      name: Poe_Falling_82
       rect:
         serializedVersion: 2
         x: 7000
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a319909571c7bdb46bfc0e3c3f7ab880
-      internalID: -8101775139443826030
+      spriteID: f1af20162856a164984dd58c00d7839f
+      internalID: -4279244356916163449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_83
+      name: Poe_Falling_83
       rect:
         serializedVersion: 2
         x: 7700
         y: 4200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ecbad32873d9c04a8f22ac86e56d666
-      internalID: -5690585123474208741
+      spriteID: aaa2e11340342b7468b9b000c563cf2d
+      internalID: -7449165977689003767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_84
+      name: Poe_Falling_84
       rect:
         serializedVersion: 2
         x: 0
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 350622c9dafd8b34497e7d9eecb78497
-      internalID: -6409882454145212932
+      spriteID: d3f06ee7a6cf8e743be8135b3dd40f01
+      internalID: -2570865775475705879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_85
+      name: Poe_Falling_85
       rect:
         serializedVersion: 2
         x: 700
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6239b8fcaa08df24b93f70f2399b4648
-      internalID: -5942058481153017180
+      spriteID: d8768d4613810be4db83df1c39946ac5
+      internalID: 467287892429083763
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_86
+      name: Poe_Falling_86
       rect:
         serializedVersion: 2
         x: 1400
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d282efaa028ec54badbb04af9a8c585
-      internalID: -1087885749333092406
+      spriteID: 726123d60700349479bd23cf8b978ef6
+      internalID: -6516748568722878939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_87
+      name: Poe_Falling_87
       rect:
         serializedVersion: 2
         x: 2100
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46c6939dcd3fb3a4495adc1bfc05caa7
-      internalID: -6109996976872453522
+      spriteID: 64538f56b2ca315478bf7f034965fed4
+      internalID: 1917237392512264483
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_88
+      name: Poe_Falling_88
       rect:
         serializedVersion: 2
         x: 2800
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2d6391cb1d184f4c91ff74754b22b2d
-      internalID: 7236261163995876675
+      spriteID: 1009c99a31caab64289f0b4b2e5bc549
+      internalID: 2540658348326294613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_89
+      name: Poe_Falling_89
       rect:
         serializedVersion: 2
         x: 3500
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4884fc706c354f945bde135a2f6ea65d
-      internalID: -841210573842557211
+      spriteID: 1faba914c2614ed40b2a9e8ddf3dc6ed
+      internalID: 4909221172125018854
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_90
+      name: Poe_Falling_90
       rect:
         serializedVersion: 2
         x: 4200
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb154983197f58c48beb3e3f03e89237
-      internalID: -640268148486910679
+      spriteID: 29395483c08c45d40b05f905d0748acc
+      internalID: 6023341899558003534
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_91
+      name: Poe_Falling_91
       rect:
         serializedVersion: 2
         x: 4900
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ec2b0b29ec567f4c87ece07ae8cc7dd
-      internalID: 6727827230162257988
+      spriteID: 701023745b47db246b6e9f1b983e60b9
+      internalID: 8524612416132696470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_92
+      name: Poe_Falling_92
       rect:
         serializedVersion: 2
         x: 5600
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 808aadf2ae73f2248a21acc3f749698a
-      internalID: 2021184261275048001
+      spriteID: e6991de7e49aae24c9eb2e5efc5bbd0d
+      internalID: -7429566642852118861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_93
+      name: Poe_Falling_93
       rect:
         serializedVersion: 2
         x: 6300
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1600b959c6aac3645ae07b4e45960c53
-      internalID: 716978577069737598
+      spriteID: 7c29ee1e2a6e1f64cb8e93febf6a6049
+      internalID: 4864337753487160461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_94
+      name: Poe_Falling_94
       rect:
         serializedVersion: 2
         x: 7000
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38e3f75647b704b4e9bebf4b971e381f
-      internalID: 7908126244309547970
+      spriteID: b40be518c4c8c24428410a1a4a5d653c
+      internalID: 2918074687039923381
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_95
+      name: Poe_Falling_95
       rect:
         serializedVersion: 2
         x: 7700
         y: 3600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c925ff6011f0b2408e2d80ecbd2fca6
-      internalID: -1453281852147800996
+      spriteID: 13e8d40475b9126499255e5bdbc9b7d7
+      internalID: -2428379550018036398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_96
+      name: Poe_Falling_96
       rect:
         serializedVersion: 2
         x: 0
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43a2b1c52fe5b424f8d939cc9b4be057
-      internalID: 4767777705316785158
+      spriteID: 285e555b13aba8f4bad72279ace74b08
+      internalID: -6573889239143377374
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_97
+      name: Poe_Falling_97
       rect:
         serializedVersion: 2
         x: 700
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a8d978ccdb76b6243ab543619123f585
-      internalID: 8565509946586007012
+      spriteID: 6baa87f946078044bb65b2d54938bad5
+      internalID: 4935729354969816060
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_98
+      name: Poe_Falling_98
       rect:
         serializedVersion: 2
         x: 1400
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bfeda0b1d4346fe46bcebc2003db3e15
-      internalID: -338715745049291124
+      spriteID: 2aaaf579a8e8b24418a3dd904b99b56f
+      internalID: 3445810552725527643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_99
+      name: Poe_Falling_99
       rect:
         serializedVersion: 2
         x: 2100
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 188df3e6dbb1e294ab2b041eb44fc2ca
-      internalID: 4724550482824582925
+      spriteID: a0a7c2c78b00632469e08f442260002b
+      internalID: 4550807681656140618
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_100
+      name: Poe_Falling_100
       rect:
         serializedVersion: 2
         x: 2800
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5caa16a30c0f51e40ae49b0fa9d86726
-      internalID: -7074342586414524783
+      spriteID: cfbbb86e87c9a7e4ba104127870fc721
+      internalID: -8219310063734178541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_101
+      name: Poe_Falling_101
       rect:
         serializedVersion: 2
         x: 3500
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c6c2c24621e63346be85a2eeeef9ed1
-      internalID: -848749969436280071
+      spriteID: d959abd65c307044f8a2aafcfa31922d
+      internalID: -190271382926706105
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_102
+      name: Poe_Falling_102
       rect:
         serializedVersion: 2
         x: 4200
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd7abe29a0744754aaf75f49c9155094
-      internalID: -3548025480847519825
+      spriteID: 6e03a000ded5b1d4883130117b375cd5
+      internalID: -3557938967848135944
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_103
+      name: Poe_Falling_103
       rect:
         serializedVersion: 2
         x: 4900
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 479b79951753c204da06b47fd9db0175
-      internalID: -8698708920554723071
+      spriteID: 9085336c0ebcb1448bbd39a21d3b781e
+      internalID: -1594250137389001951
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_104
+      name: Poe_Falling_104
       rect:
         serializedVersion: 2
         x: 5600
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79affacd83638d743ba39105abb4561f
-      internalID: 4374119391081398336
+      spriteID: d2bfe7dda23cbf94da571470f649295e
+      internalID: 5260997415583914686
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_105
+      name: Poe_Falling_105
       rect:
         serializedVersion: 2
         x: 6300
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f54eaf0774300a40b5f672a008300de
-      internalID: -3940627938059043372
+      spriteID: 54dfbacc5a6e1f7498dd279cb5073a74
+      internalID: 5974068778025626692
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_106
+      name: Poe_Falling_106
       rect:
         serializedVersion: 2
         x: 7000
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d3630bb569d7f44e9575661aef640f9
-      internalID: -7447452291536560274
+      spriteID: da46002b333a5164aa26345292225a41
+      internalID: -543411496800397627
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_107
+      name: Poe_Falling_107
       rect:
         serializedVersion: 2
         x: 7700
         y: 3000
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb7b1d0119acb164888355da0cdf8c06
-      internalID: 8138256289619693958
+      spriteID: 6298ddbf762afc1409928b8e9d23a2da
+      internalID: 8103514327050253484
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_108
+      name: Poe_Falling_108
       rect:
         serializedVersion: 2
         x: 0
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09e3c5be5eb48004bbe6906ec8f16837
-      internalID: 2966149807039011529
+      spriteID: f0718b875781ee84fac384aac2096969
+      internalID: -1500567955919383999
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_109
+      name: Poe_Falling_109
       rect:
         serializedVersion: 2
         x: 700
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eecaff934f1130f4d99a37f66906f254
-      internalID: 6747333712002492480
+      spriteID: 7d53a7093bcc7f646b0df295e68ffcb5
+      internalID: 8471714278186978514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_110
+      name: Poe_Falling_110
       rect:
         serializedVersion: 2
         x: 1400
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07391f90cee81634a94ef5207548767a
-      internalID: 3319574779233084211
+      spriteID: db0201a81ce63684b8cfa5a86a3062f1
+      internalID: 9008559454611182601
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_111
+      name: Poe_Falling_111
       rect:
         serializedVersion: 2
         x: 2100
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bb6720888b8dc6438cb382d8393e47f
-      internalID: 803569722943808729
+      spriteID: ed4ab16cd00f20d409b7a1d288429e65
+      internalID: 1766601985583373527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_112
+      name: Poe_Falling_112
       rect:
         serializedVersion: 2
         x: 2800
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00892d1414f9d2d4dadcd6bf1bffdbf1
-      internalID: -3665752897820156405
+      spriteID: 1a3601c0c027a434990f34f58cee0207
+      internalID: -2700144251285528192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_113
+      name: Poe_Falling_113
       rect:
         serializedVersion: 2
         x: 3500
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c3e43566d5c918540bec314852d14655
-      internalID: 1842724933096685515
+      spriteID: f184d9e0c46b13b4c9103fdab4f41985
+      internalID: -7005758103015268459
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_114
+      name: Poe_Falling_114
       rect:
         serializedVersion: 2
         x: 4200
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f6fb491ef20e3941a6f0089b20557a8
-      internalID: 258268521985385767
+      spriteID: 7a8e6ae005f567b49b83dd621aa32870
+      internalID: 9032093660126904013
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_115
+      name: Poe_Falling_115
       rect:
         serializedVersion: 2
         x: 4900
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 466b6de078c37e24cb5b64fe223b2fd6
-      internalID: 708217239966270274
+      spriteID: 8a93916c4206dd645bc9065256e39f56
+      internalID: -6911525925493598990
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_116
+      name: Poe_Falling_116
       rect:
         serializedVersion: 2
         x: 5600
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 80414fb564589ca41b78414366a0f86c
-      internalID: 2331666460112097063
+      spriteID: 5f574b84266f90b4dbe6fd30f3b97379
+      internalID: -2141887343071832052
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_117
+      name: Poe_Falling_117
       rect:
         serializedVersion: 2
         x: 6300
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ec36e040eb098543a0ae4c8bd98983d
-      internalID: -3520859665837215577
+      spriteID: 88e41453c8be7c7438ecf1091d234d3e
+      internalID: -8898311078828686330
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_118
+      name: Poe_Falling_118
       rect:
         serializedVersion: 2
         x: 7000
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dff66f2f4f8394f4c870559dc88e6462
-      internalID: 2073791310491202310
+      spriteID: 46ab52942c07f1447b39dfda4bc7e8ea
+      internalID: -231243700982021578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_119
+      name: Poe_Falling_119
       rect:
         serializedVersion: 2
         x: 7700
         y: 2400
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b098b7c01d48e9a4c8b3193d29e5b059
-      internalID: -3864411092571648472
+      spriteID: 365c3bbd1a0668b4f8a8b59d8449add8
+      internalID: 3186942156340262925
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_120
+      name: Poe_Falling_120
       rect:
         serializedVersion: 2
         x: 0
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b724368c05aff6a4f8dd3d0d56136893
-      internalID: 4589051916119373633
+      spriteID: 41e50b784f3f586409df5c21274a7f31
+      internalID: -4130217430812783147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_121
+      name: Poe_Falling_121
       rect:
         serializedVersion: 2
         x: 700
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ce3d857fe6f83e4d8ef02a22256d656
-      internalID: -208460006132761709
+      spriteID: 0f737792ec542a5498e5537a8b6ff0c6
+      internalID: 7932799661671321446
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_122
+      name: Poe_Falling_122
       rect:
         serializedVersion: 2
         x: 1400
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee533ac0cfc64d44eb0f57d4b69de3ef
-      internalID: -6474015378766027890
+      spriteID: 7894bbd966085ca4c841ed6453b81fbc
+      internalID: 3239589998813289280
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_123
+      name: Poe_Falling_123
       rect:
         serializedVersion: 2
         x: 2100
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f000d0232e94f94cb54581533aed28f
-      internalID: -2790115252885521265
+      spriteID: 3dcc128e9d33c874aaf58d7cb706c055
+      internalID: 4978299704574485490
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_124
+      name: Poe_Falling_124
       rect:
         serializedVersion: 2
         x: 2800
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4127edbe0e0f4754ca0054f68699ba66
-      internalID: -2031818869720773874
+      spriteID: e7923ca1dd231274eac100335995774e
+      internalID: 214991150451857770
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_125
+      name: Poe_Falling_125
       rect:
         serializedVersion: 2
         x: 3500
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90c352d08a43dab4aa96a88284551618
-      internalID: 3788451591657321153
+      spriteID: 43aaa1f0e212f6e458550cc91ed3b935
+      internalID: 7576514197191352039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_126
+      name: Poe_Falling_126
       rect:
         serializedVersion: 2
         x: 4200
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 495fcde8ba2ebc24885fe0e81978aacf
-      internalID: 7797144498368402027
+      spriteID: 6ff3562dfac5dcf47bf5054fcf1e6b62
+      internalID: 5370381026189713201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_127
+      name: Poe_Falling_127
       rect:
         serializedVersion: 2
         x: 4900
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65f51c71ae9703147a03bca62db388de
-      internalID: -4056332194252233161
+      spriteID: 9ec40d09976d4a040ae6547f3768b2a3
+      internalID: 913753217949476562
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_128
+      name: Poe_Falling_128
       rect:
         serializedVersion: 2
         x: 5600
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bad07dc149006f4eb029d5ffae862df
-      internalID: 1869772778090274496
+      spriteID: 86a6fd09a1155f04fb631d97874f1fd4
+      internalID: -1211495786494537632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_129
+      name: Poe_Falling_129
       rect:
         serializedVersion: 2
         x: 6300
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f9035580a69b6b46a9f10dee8d8e88f
-      internalID: 6506116639323938574
+      spriteID: 42299336fa5322d40a4f16cef3652b46
+      internalID: -6082007163807544041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_130
+      name: Poe_Falling_130
       rect:
         serializedVersion: 2
         x: 7000
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cdf25fba29357b4a9ed02e6e53d09d5
-      internalID: -6289974180610117577
+      spriteID: 5f26831cb0725f94c9564a89126bab9a
+      internalID: -5248783782673624964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_131
+      name: Poe_Falling_131
       rect:
         serializedVersion: 2
         x: 7700
         y: 1800
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de8b207c7827cb64da0ba3aab1ebcd0f
-      internalID: -3710118670432940558
+      spriteID: bde342298de3fe94cb0d314b22315507
+      internalID: -2759976343657975132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_132
+      name: Poe_Falling_132
       rect:
         serializedVersion: 2
         x: 0
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 295d5a3948baac246b3e3e08db5ff4e9
-      internalID: -1493498756128178438
+      spriteID: fd8a4d1e3336f2b4a8d980accc5a5942
+      internalID: -1755632174534371731
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_133
+      name: Poe_Falling_133
       rect:
         serializedVersion: 2
         x: 700
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26422b24c8041ed4fb4299178300fc95
-      internalID: 5513407288903976382
+      spriteID: b26cc1638769bf44281316b006af3b6b
+      internalID: -213194127902803011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_134
+      name: Poe_Falling_134
       rect:
         serializedVersion: 2
         x: 1400
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 814bed75595fcea49bf6259a53c1181d
-      internalID: 4068768063578813312
+      spriteID: 6790e555d946c824d9917013ca429a47
+      internalID: -8203125294722131961
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_135
+      name: Poe_Falling_135
       rect:
         serializedVersion: 2
         x: 2100
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dc05ce81a06a8b4fb98156f2339b77e
-      internalID: -4387191189707805553
+      spriteID: c9794578fec78154485a31a239170379
+      internalID: 2129760200457712682
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_136
+      name: Poe_Falling_136
       rect:
         serializedVersion: 2
         x: 2800
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 152d44837f2c6bb4cb7f84176f79a17d
-      internalID: 3123138198799906213
+      spriteID: 931977875fc62644182937a0ded5a6fc
+      internalID: -6478796099112118143
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_137
+      name: Poe_Falling_137
       rect:
         serializedVersion: 2
         x: 3500
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b683f56101a40b443991d47e062abc5f
-      internalID: 3218488454901596525
+      spriteID: 5eca951d71eb34d42819fb7986a16902
+      internalID: 7903249781501591532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_138
+      name: Poe_Falling_138
       rect:
         serializedVersion: 2
         x: 4200
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 253152ca54c0f434e8833d979adfdd0c
-      internalID: 79320440985739651
+      spriteID: 7a486b0c41c6d5c49924640e98fd7f6b
+      internalID: 8342661681804443225
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_139
+      name: Poe_Falling_139
       rect:
         serializedVersion: 2
         x: 4900
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5641f2210c9fed84c80312952ec31a5f
-      internalID: -2850965650334074121
+      spriteID: f9616f355a0d72846a28a7a29432397b
+      internalID: 7269052774082147031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_140
+      name: Poe_Falling_140
       rect:
         serializedVersion: 2
         x: 5600
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cc175d22d22d23c45a8e5da0d6692950
-      internalID: 3023539461379688961
+      spriteID: 1c821c287e7d6e1469b016a32a86df09
+      internalID: 4262194135686399290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_141
+      name: Poe_Falling_141
       rect:
         serializedVersion: 2
         x: 6300
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b0cf3c8abaf20f4b9489e7e343e480e
-      internalID: -8535816241379013332
+      spriteID: 63774604ce9d88c43a72f88aef76db49
+      internalID: 5990732711655059921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_142
+      name: Poe_Falling_142
       rect:
         serializedVersion: 2
         x: 7000
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6603e4928adbc34c8a2c88d5f3817ec
-      internalID: -3243382376535831146
+      spriteID: fbaea6bea0d1f37478bf7339b39c0307
+      internalID: -5975212619579746403
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_143
+      name: Poe_Falling_143
       rect:
         serializedVersion: 2
         x: 7700
         y: 1200
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f19a6d77a7044f2488bc38dc2c9f0c12
-      internalID: 8840672519805614297
+      spriteID: 661987ff40aa583409c1ed5554180c2a
+      internalID: 4622594152504005853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_144
+      name: Poe_Falling_144
       rect:
         serializedVersion: 2
         x: 0
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b7b9597d8478bb4d9d912d98d107726
-      internalID: -8223254801283959611
+      spriteID: 7138909f21d0dd04abf350f3981a3065
+      internalID: 869347779347902880
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_145
+      name: Poe_Falling_145
       rect:
         serializedVersion: 2
         x: 700
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2a75ddee411d1bd4e8666a5ce7a776af
-      internalID: 7661492540962358711
+      spriteID: b4880489bb4b6df43ac66814957e8b86
+      internalID: 8051132425508571474
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_146
+      name: Poe_Falling_146
       rect:
         serializedVersion: 2
         x: 1400
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dfb2233b8d8ea454596f4aa81d7ddaac
-      internalID: 9078136449265791361
+      spriteID: 46a1c13815225064a94197db3af8234f
+      internalID: -2060493009325780677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_147
+      name: Poe_Falling_147
       rect:
         serializedVersion: 2
         x: 2100
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 778a259c6ed42ab47a62fd3266aad952
-      internalID: -605779214697653107
+      spriteID: 2ef0a76ce5d63d1429a68ec414b5c63f
+      internalID: 7310349640368686930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_148
+      name: Poe_Falling_148
       rect:
         serializedVersion: 2
         x: 2800
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e244a8008ac160a42a08b8f220050e6f
-      internalID: 8319222254312313462
+      spriteID: 2546fa09235e9b44c998216b636b15a5
+      internalID: 865922509745984205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_149
+      name: Poe_Falling_149
       rect:
         serializedVersion: 2
         x: 3500
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 42e9e2ae1b5132042bfccd0421a06ff0
-      internalID: 4175728869406854478
+      spriteID: 1535e1ccee2024f4482deadc192b5d6e
+      internalID: -4327922072652768553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_150
+      name: Poe_Falling_150
       rect:
         serializedVersion: 2
         x: 4200
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9b9ed9d815b6a4247b5131d36ca6f004
-      internalID: 4146667509200585901
+      spriteID: d9ac0177437a9e94a99937796f09523d
+      internalID: 5046919143623468937
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_151
+      name: Poe_Falling_151
       rect:
         serializedVersion: 2
         x: 4900
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d05cb4284ac563841b74aa3c1029e2dd
-      internalID: 8727262527752016852
+      spriteID: 0520edd5c7302b74ea1ae144c46a25e6
+      internalID: -4819926581660033074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_152
+      name: Poe_Falling_152
       rect:
         serializedVersion: 2
         x: 5600
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 284ef68b550cdbd45864e34b69c9ddc2
-      internalID: -1986273886280542772
+      spriteID: 3197d514f611dab41802d011b3d6ceee
+      internalID: 6998983022302351138
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_153
+      name: Poe_Falling_153
       rect:
         serializedVersion: 2
         x: 6300
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ce81498751afe84b81490b2a5aab4be
-      internalID: -14845558487580174
+      spriteID: db89872be08ec9c44bd4b3436ec38b95
+      internalID: -8831069685822695445
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_154
+      name: Poe_Falling_154
       rect:
         serializedVersion: 2
         x: 7000
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b922259c70b730f468806f9edb278410
-      internalID: -6672507948124653484
+      spriteID: 36f4683563363314d8d5ac1b1c9f11df
+      internalID: -1015280118992357650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_155
+      name: Poe_Falling_155
       rect:
         serializedVersion: 2
         x: 7700
         y: 600
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aecdf5791b25be4489a292c4940bd9b9
-      internalID: 9039647905272996642
+      spriteID: 164b9ea2f2b9f264bae1fd099c88f0b4
+      internalID: 2127223116488817415
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_156
+      name: Poe_Falling_156
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 718328fb16858434692560515e7e8d6c
-      internalID: -7347706309174789206
+      spriteID: 5b8cb129cf7736e4382811a766150bad
+      internalID: 118272490247019708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_157
+      name: Poe_Falling_157
       rect:
         serializedVersion: 2
         x: 700
         y: 0
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 97402c06a90dd1a438c1f6ab148b8d9f
-      internalID: -4417227261448808085
+      spriteID: cbe21193e24a5334e8b129eccad42cd3
+      internalID: 4047780139901106316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_158
+      name: Poe_Falling_158
       rect:
         serializedVersion: 2
         x: 1400
         y: 0
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10030fd8ccf559542a6322367db58218
-      internalID: -2039386385982529303
+      spriteID: 85b36e01e73e4ee48942a85c165bebdf
+      internalID: -973105198003545560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_159
+      name: Poe_Falling_159
       rect:
         serializedVersion: 2
         x: 2100
         y: 0
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9acd1cc7144a210468eb8231b0f9daf5
-      internalID: -711332641364646488
+      spriteID: 5ca3e4a5a6d68cc41bb87b8e22d7855e
+      internalID: -2901434689267783035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_160
+      name: Poe_Falling_160
       rect:
         serializedVersion: 2
         x: 2800
         y: 0
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f2b03a4b835361e4b82273487a06d0de
-      internalID: -7223301738477852684
+      spriteID: 42ecf5de6629e624fa4f4bd2a92e9d6b
+      internalID: -5851378562698124039
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Poe padani smaller_#[700,600]_161
+      name: Poe_Falling_161
       rect:
         serializedVersion: 2
         x: 3500
         y: 0
         width: 700
         height: 600
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ad01e9a457ae3d4294999edbf7e5083
-      internalID: 3369834561529276073
+      spriteID: 942ac3ca90427ad4eb69eaba94a8260e
+      internalID: 1581930091726761078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Falling_162
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011d9967c1066048b0bdea0372dfa00
+      internalID: -4182383358206162902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Falling_163
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6b8ea27947324e926977585ec172f
+      internalID: -8320213632799502801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Falling_164
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f565898534a62704187bb236ceeab36f
+      internalID: -6678759762322047409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Falling_165
+      rect:
+        serializedVersion: 2
+        x: 6300
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ca41bbec22bab479fbd76080f80b83
+      internalID: -7316758971965603677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poe_Falling_166
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 700
+        height: 600
+      alignment: 9
+      pivot: {x: 0.63, y: 0.59}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3418a7ebb3016c34eb87460b6ae49e65
+      internalID: 4335339001373187613
       vertices: []
       indices: 
       edges: []
