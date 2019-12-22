@@ -9,6 +9,7 @@ public class Death_Movement : MonoBehaviour
     [SerializeField] float speed = 0.5f;
     [SerializeField] GameObject end;
 
+    private Vector3 originalPosition;
     private GameOver GameOverScript;
 
     public bool isHallucinationOn;
@@ -17,6 +18,7 @@ public class Death_Movement : MonoBehaviour
     {
         isHallucinationOn = false;
         GameOverScript = manager.GetComponent<GameOver>();
+        originalPosition = transform.position;
     }
 
     // Update is called once per frame
@@ -25,6 +27,10 @@ public class Death_Movement : MonoBehaviour
         if (GameOverScript.isPlayerDead == false && isHallucinationOn == true)
         {
             transform.position = Vector3.MoveTowards(transform.position, end.transform.position, speed);
+        }
+        if(isHallucinationOn == false && transform.position != originalPosition)
+        {
+            transform.position = originalPosition;
         }
     }
 

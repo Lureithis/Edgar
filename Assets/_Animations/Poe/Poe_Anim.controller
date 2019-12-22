@@ -101,9 +101,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0.010432482
   m_TransitionOffset: 0
-  m_ExitTime: 0.976
+  m_ExitTime: 0.87470764
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -195,7 +195,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Poe_swimming
-  m_Speed: 1
+  m_Speed: 3
   m_CycleOffset: 0
   m_Transitions: []
   m_StateMachineBehaviours: []
@@ -207,7 +207,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 4f7dc7e65c0e49d4288571afd2b397b0, type: 2}
+  m_Motion: {fileID: 7400000, guid: a634f2d1db619f5469979c15711644fe, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -325,7 +325,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Poe_jumping
-  m_Speed: 7
+  m_Speed: 4
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -38009236401155653}
@@ -338,7 +338,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 5652cc5dfe5336941b9ea95f95d1de06, type: 2}
+  m_Motion: {fileID: 7400000, guid: 6aa1e264d37c36f4fba0dc123f066895, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
