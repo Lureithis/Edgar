@@ -1,0 +1,4135 @@
+fileFormatVersion: 2
+guid: 6a48c525595601842a15ca4743d53bc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4853753336619227014
+    second: houby animace_#[800,600]_0
+  - first:
+      213: 6974434990925485887
+    second: houby animace_#[800,600]_1
+  - first:
+      213: -6887173145103767095
+    second: houby animace_#[800,600]_2
+  - first:
+      213: 591213485373722010
+    second: houby animace_#[800,600]_3
+  - first:
+      213: 6279509145144246568
+    second: houby animace_#[800,600]_4
+  - first:
+      213: 5691324738265054676
+    second: houby animace_#[800,600]_5
+  - first:
+      213: 8199940552196765834
+    second: houby animace_#[800,600]_6
+  - first:
+      213: 128903195949938119
+    second: houby animace_#[800,600]_7
+  - first:
+      213: -8123153532114793922
+    second: houby animace_#[800,600]_8
+  - first:
+      213: 7139969429924630846
+    second: houby animace_#[800,600]_9
+  - first:
+      213: 4470174982359187949
+    second: houby animace_#[800,600]_10
+  - first:
+      213: -4747980781301593577
+    second: houby animace_#[800,600]_11
+  - first:
+      213: -5922541933504165788
+    second: houby animace_#[800,600]_12
+  - first:
+      213: -2882139777156446628
+    second: houby animace_#[800,600]_13
+  - first:
+      213: 4130887334110973406
+    second: houby animace_#[800,600]_14
+  - first:
+      213: -5037054257733584746
+    second: houby animace_#[800,600]_15
+  - first:
+      213: 3989075921881758324
+    second: houby animace_#[800,600]_16
+  - first:
+      213: -5176335131384860252
+    second: houby animace_#[800,600]_17
+  - first:
+      213: 5484838455727358163
+    second: houby animace_#[800,600]_18
+  - first:
+      213: 4831428349834445696
+    second: houby animace_#[800,600]_19
+  - first:
+      213: 2179162966581217669
+    second: houby animace_#[800,600]_20
+  - first:
+      213: -3819119375510876034
+    second: houby animace_#[800,600]_21
+  - first:
+      213: 1666875802933788873
+    second: houby animace_#[800,600]_22
+  - first:
+      213: -1461865010319772265
+    second: houby animace_#[800,600]_23
+  - first:
+      213: -2184391604768897159
+    second: houby animace_#[800,600]_24
+  - first:
+      213: -8571685091288616492
+    second: houby animace_#[800,600]_25
+  - first:
+      213: 3810849864108558911
+    second: houby animace_#[800,600]_26
+  - first:
+      213: 2666245300788022952
+    second: houby animace_#[800,600]_27
+  - first:
+      213: -7373234939557795396
+    second: houby animace_#[800,600]_28
+  - first:
+      213: 7858833363566219346
+    second: houby animace_#[800,600]_29
+  - first:
+      213: 6053438595505361851
+    second: houby animace_#[800,600]_30
+  - first:
+      213: 7318276890825083153
+    second: houby animace_#[800,600]_31
+  - first:
+      213: 2464446932843790645
+    second: houby animace_#[800,600]_32
+  - first:
+      213: 3116811070218521729
+    second: houby animace_#[800,600]_33
+  - first:
+      213: -1665004159885510108
+    second: houby animace_#[800,600]_34
+  - first:
+      213: -961189056965002460
+    second: houby animace_#[800,600]_35
+  - first:
+      213: -1381621764258742100
+    second: houby animace_#[800,600]_36
+  - first:
+      213: -686237392110829561
+    second: houby animace_#[800,600]_37
+  - first:
+      213: -687617284873551738
+    second: houby animace_#[800,600]_38
+  - first:
+      213: -1004665838738881062
+    second: houby animace_#[800,600]_39
+  - first:
+      213: 2621489568566464693
+    second: houby animace_#[800,600]_40
+  - first:
+      213: -4575707582009172348
+    second: houby animace_#[800,600]_41
+  - first:
+      213: -8163650864894658036
+    second: houby animace_#[800,600]_42
+  - first:
+      213: -6870236070852567588
+    second: houby animace_#[800,600]_43
+  - first:
+      213: -7473949192517890603
+    second: houby animace_#[800,600]_44
+  - first:
+      213: -668044638773344157
+    second: houby animace_#[800,600]_45
+  - first:
+      213: 8059010349228780998
+    second: houby animace_#[800,600]_46
+  - first:
+      213: 5919087390119995329
+    second: houby animace_#[800,600]_47
+  - first:
+      213: 7772870948714454483
+    second: houby animace_#[800,600]_48
+  - first:
+      213: -3341248231605529023
+    second: houby animace_#[800,600]_49
+  - first:
+      213: -8987267159062022942
+    second: houby animace_#[800,600]_50
+  - first:
+      213: -3204661112169328719
+    second: houby animace_#[800,600]_51
+  - first:
+      213: -6689737585570407721
+    second: houby animace_#[800,600]_52
+  - first:
+      213: 3446490815679295768
+    second: houby animace_#[800,600]_53
+  - first:
+      213: -2180553716990707483
+    second: houby animace_#[800,600]_54
+  - first:
+      213: 6520845359057927103
+    second: houby animace_#[800,600]_55
+  - first:
+      213: 2563726536413092676
+    second: houby animace_#[800,600]_56
+  - first:
+      213: -448336515818346950
+    second: houby animace_#[800,600]_57
+  - first:
+      213: -610177413769476703
+    second: houby animace_#[800,600]_58
+  - first:
+      213: -3249801329541106588
+    second: houby animace_#[800,600]_59
+  - first:
+      213: -5242716616374881183
+    second: houby animace_#[800,600]_60
+  - first:
+      213: 5969822483017020341
+    second: houby animace_#[800,600]_61
+  - first:
+      213: 1133829610736646510
+    second: houby animace_#[800,600]_62
+  - first:
+      213: 3580984849047117129
+    second: houby animace_#[800,600]_63
+  - first:
+      213: 198199097699885847
+    second: houby animace_#[800,600]_64
+  - first:
+      213: 7031475752729541125
+    second: houby animace_#[800,600]_65
+  - first:
+      213: -6031531622071752684
+    second: houby animace_#[800,600]_66
+  - first:
+      213: -6843650016168161916
+    second: houby animace_#[800,600]_67
+  - first:
+      213: 1120782906301751201
+    second: houby animace_#[800,600]_68
+  - first:
+      213: -2863052380645635474
+    second: houby animace_#[800,600]_69
+  - first:
+      213: 7842125055631770494
+    second: houby animace_#[800,600]_70
+  - first:
+      213: 2859251838039618786
+    second: houby animace_#[800,600]_71
+  - first:
+      213: 4976216248017721619
+    second: houby animace_#[800,600]_72
+  - first:
+      213: 2965729218817425660
+    second: houby animace_#[800,600]_73
+  - first:
+      213: 9099310947120099232
+    second: houby animace_#[800,600]_74
+  - first:
+      213: -5273977726086077551
+    second: houby animace_#[800,600]_75
+  - first:
+      213: 7328114713777010100
+    second: houby animace_#[800,600]_76
+  - first:
+      213: -845088608019851150
+    second: houby animace_#[800,600]_77
+  - first:
+      213: -3789274874150496778
+    second: houby animace_#[800,600]_78
+  - first:
+      213: 6909253111524074353
+    second: houby animace_#[800,600]_79
+  - first:
+      213: 3550333453702007020
+    second: houby animace_#[800,600]_80
+  - first:
+      213: -2552080267122431731
+    second: houby animace_#[800,600]_81
+  - first:
+      213: 5180402082239808588
+    second: houby animace_#[800,600]_82
+  - first:
+      213: 8235526451944614957
+    second: houby animace_#[800,600]_83
+  - first:
+      213: -1442195401766578622
+    second: houby animace_#[800,600]_84
+  - first:
+      213: -1764593920633544552
+    second: houby animace_#[800,600]_85
+  - first:
+      213: -6767893428292135192
+    second: houby animace_#[800,600]_86
+  - first:
+      213: 418110070122674692
+    second: houby animace_#[800,600]_87
+  - first:
+      213: 819755314491154329
+    second: houby animace_#[800,600]_88
+  - first:
+      213: 3364713528108985430
+    second: houby animace_#[800,600]_89
+  - first:
+      213: -4104442164194142370
+    second: houby animace_#[800,600]_90
+  - first:
+      213: 6249872776605873450
+    second: houby animace_#[800,600]_91
+  - first:
+      213: 8811267295715961646
+    second: houby animace_#[800,600]_92
+  - first:
+      213: 297588925771433450
+    second: houby animace_#[800,600]_93
+  - first:
+      213: -8264295499859773735
+    second: houby animace_#[800,600]_94
+  - first:
+      213: -7730873509043040073
+    second: houby animace_#[800,600]_95
+  - first:
+      213: 2822101077647544328
+    second: houby animace_#[800,600]_96
+  - first:
+      213: 8733725493292805374
+    second: houby animace_#[800,600]_97
+  - first:
+      213: -1834535675549710867
+    second: houby animace_#[800,600]_98
+  - first:
+      213: 4698439201192932082
+    second: houby animace_#[800,600]_99
+  - first:
+      213: 7888030168846163247
+    second: houby animace_#[800,600]_100
+  - first:
+      213: -8941629376500875292
+    second: houby animace_#[800,600]_101
+  - first:
+      213: 1504814980858971239
+    second: houby animace_#[800,600]_102
+  - first:
+      213: 4848579535502483207
+    second: houby animace_#[800,600]_103
+  - first:
+      213: -2503763662267875495
+    second: houby animace_#[800,600]_104
+  - first:
+      213: -855979597424878156
+    second: houby animace_#[800,600]_105
+  - first:
+      213: 9098609850382999707
+    second: houby animace_#[800,600]_106
+  - first:
+      213: 4244118646806902839
+    second: houby animace_#[800,600]_107
+  - first:
+      213: 3670287272826568492
+    second: houby animace_#[800,600]_108
+  - first:
+      213: 4011632832722335536
+    second: houby animace_#[800,600]_109
+  - first:
+      213: 4365873355728983982
+    second: houby animace_#[800,600]_110
+  - first:
+      213: -133944529826625942
+    second: houby animace_#[800,600]_111
+  - first:
+      213: -4951279602946318053
+    second: houby animace_#[800,600]_112
+  - first:
+      213: 8783588501353955236
+    second: houby animace_#[800,600]_113
+  - first:
+      213: -3490273510015064383
+    second: houby animace_#[800,600]_114
+  - first:
+      213: -8597468430372456544
+    second: houby animace_#[800,600]_115
+  - first:
+      213: 5832090688505881250
+    second: houby animace_#[800,600]_116
+  - first:
+      213: 7736672213643716796
+    second: houby animace_#[800,600]_117
+  - first:
+      213: -3410653841997692011
+    second: houby animace_#[800,600]_118
+  - first:
+      213: -1934134756478918776
+    second: houby animace_#[800,600]_119
+  - first:
+      213: 119517559296750650
+    second: houby animace_#[800,600]_120
+  - first:
+      213: 7094222642676267645
+    second: houby animace_#[800,600]_121
+  - first:
+      213: -2500162163935576966
+    second: houby animace_#[800,600]_122
+  - first:
+      213: 3714503486966994454
+    second: houby animace_#[800,600]_123
+  - first:
+      213: 9112475419387676048
+    second: houby animace_#[800,600]_124
+  - first:
+      213: 3851511188176172593
+    second: houby animace_#[800,600]_125
+  - first:
+      213: 5695612207728396666
+    second: houby animace_#[800,600]_126
+  - first:
+      213: -9175724344440160888
+    second: houby animace_#[800,600]_127
+  - first:
+      213: 7978557440841056140
+    second: houby animace_#[800,600]_128
+  - first:
+      213: -9060809085005113552
+    second: houby animace_#[800,600]_129
+  - first:
+      213: -6096219577238740573
+    second: houby animace_#[800,600]_130
+  - first:
+      213: 7045557741982849175
+    second: houby animace_#[800,600]_131
+  - first:
+      213: -1147578691785022720
+    second: houby animace_#[800,600]_132
+  - first:
+      213: 5916402411553890077
+    second: houby animace_#[800,600]_133
+  - first:
+      213: 1523137570274906905
+    second: houby animace_#[800,600]_134
+  - first:
+      213: 9131621492226636386
+    second: houby animace_#[800,600]_135
+  - first:
+      213: -4147808534296861478
+    second: houby animace_#[800,600]_136
+  - first:
+      213: 7391843928826515339
+    second: houby animace_#[800,600]_137
+  - first:
+      213: -736932414828284763
+    second: houby animace_#[800,600]_138
+  - first:
+      213: -4340903531956964472
+    second: houby animace_#[800,600]_139
+  - first:
+      213: -342544838682623040
+    second: houby animace_#[800,600]_140
+  - first:
+      213: -1118203414650975235
+    second: houby animace_#[800,600]_141
+  - first:
+      213: -546655243721718529
+    second: houby animace_#[800,600]_142
+  - first:
+      213: -4982163145530139200
+    second: houby animace_#[800,600]_143
+  - first:
+      213: 7589278230304423222
+    second: houby animace_#[800,600]_144
+  - first:
+      213: -7393259759404762769
+    second: houby animace_#[800,600]_145
+  - first:
+      213: -4477613392796645696
+    second: houby animace_#[800,600]_146
+  - first:
+      213: -4399309204123525932
+    second: houby animace_#[800,600]_147
+  - first:
+      213: -5684849673443059032
+    second: houby animace_#[800,600]_148
+  - first:
+      213: -585436568889267364
+    second: houby animace_#[800,600]_149
+  - first:
+      213: 8239259969332343244
+    second: houby animace_#[800,600]_150
+  - first:
+      213: -8529010629547148279
+    second: houby animace_#[800,600]_151
+  - first:
+      213: -6130691561147309996
+    second: houby animace_#[800,600]_152
+  - first:
+      213: 5132470777140936294
+    second: houby animace_#[800,600]_153
+  - first:
+      213: -325163124362440873
+    second: houby animace_#[800,600]_154
+  - first:
+      213: -2495997667182158797
+    second: houby animace_#[800,600]_155
+  - first:
+      213: -2992698824691697041
+    second: houby animace_#[800,600]_156
+  - first:
+      213: 7931142992458521487
+    second: houby animace_#[800,600]_157
+  - first:
+      213: 2542223852782167100
+    second: houby animace_#[800,600]_158
+  - first:
+      213: -3663768766201176793
+    second: houby animace_#[800,600]_159
+  - first:
+      213: -5651208689051822805
+    second: houby animace_#[800,600]_160
+  - first:
+      213: 1373529274033585766
+    second: houby animace_#[800,600]_161
+  - first:
+      213: -9091174330699609399
+    second: houby animace_#[800,600]_162
+  - first:
+      213: 906263873091700568
+    second: houby animace_#[800,600]_163
+  - first:
+      213: 967660615598849292
+    second: houby animace_#[800,600]_164
+  - first:
+      213: -5807076859063908375
+    second: houby animace_#[800,600]_165
+  - first:
+      213: -6302410842020852335
+    second: houby animace_#[800,600]_166
+  - first:
+      213: -4875641595687528111
+    second: houby animace_#[800,600]_167
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4038db5e82a0d9d4a8ad2557f0ab0b28
+      internalID: -4853753336619227014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7dd1ac62ae7748909558b750ba34e
+      internalID: 6974434990925485887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f870f10eaad7fd40b68b45f5b0236b2
+      internalID: -6887173145103767095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1a9372f98cac04f9db8ff7fdd98ffc
+      internalID: 591213485373722010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dad7ea748630e4d8c18e0d117e0139
+      internalID: 6279509145144246568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_5
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728452b3755633441871e715e837e203
+      internalID: 5691324738265054676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_6
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fba22b9a9339b46b70cdba5261b4a0
+      internalID: 8199940552196765834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_7
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d853b97bb4974fafbcd5478a8c678
+      internalID: 128903195949938119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_8
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d642c1dce034d7408c6d630b5919754
+      internalID: -8123153532114793922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_9
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fb564f4393f8f4e89124892f5a1c89
+      internalID: 7139969429924630846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_10
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1663f4c873104ea8b0dc25e5df077
+      internalID: 4470174982359187949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_11
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 7800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9d4ed23d7da9d4386a5a1ecba5e730
+      internalID: -4747980781301593577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f3d35444d874468c23d139934d587
+      internalID: -5922541933504165788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a6bb28ac330fd4ebfa7169d76397d9
+      internalID: -2882139777156446628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bc31921b96fe140a9e185e2b106157
+      internalID: 4130887334110973406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ec7fb5f53b444c90a80fd7f63177d
+      internalID: -5037054257733584746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_16
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a1840d7e553b4ebfcfcd9683d7c0d
+      internalID: 3989075921881758324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214ef54c63d28d146be81ee5593b35df
+      internalID: -5176335131384860252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_18
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69afb0867a3f35a4cae59c55a138ebf7
+      internalID: 5484838455727358163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_19
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e8bc79938fe8e4c85b0139cb3f3e9a
+      internalID: 4831428349834445696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_20
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05005f84fedf1e2418055cba696d570d
+      internalID: 2179162966581217669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_21
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c948f9f4234e46999066442202e75
+      internalID: -3819119375510876034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_22
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bf0503947a1d84aa316c65a9438fe1
+      internalID: 1666875802933788873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_23
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 7200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d959db8bcd1d3849b99597a9e53adeb
+      internalID: -1461865010319772265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ad9292a48332745bbcb7cb6881bfae
+      internalID: -2184391604768897159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d430017372278459ac1423bbf80f15
+      internalID: -8571685091288616492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8422f837fdf1478a9488f28777257
+      internalID: 3810849864108558911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2568609c8665ed340bf8c2cbb6bc8fdf
+      internalID: 2666245300788022952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_28
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e39ca139b36af4ea9d4e7894f88467
+      internalID: -7373234939557795396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_29
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9703cddc443f94e49b73fe7922d17b89
+      internalID: 7858833363566219346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_30
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2da194a522b14dadee84d7ca75365
+      internalID: 6053438595505361851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_31
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c2b771baab704ab57f29076935bc6
+      internalID: 7318276890825083153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_32
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4ea51e50e4d1c4c84c902e341a8756
+      internalID: 2464446932843790645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_33
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025991e7915160458b66cc35e7afddf
+      internalID: 3116811070218521729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_34
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4ae017f74d75a4794f69c922163c43
+      internalID: -1665004159885510108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_35
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 6600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f0b751dbd0704782e02cb9b5b0193
+      internalID: -961189056965002460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625e5b358cbaece4894dc3e52bd8a38a
+      internalID: -1381621764258742100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ba112e6cba1e42bebaf7ca9e59dc3
+      internalID: -686237392110829561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac14f1b79f165504aa2ac41fe559c21a
+      internalID: -687617284873551738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cee1efc6219d184a964c9f69116efe7
+      internalID: -1004665838738881062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_40
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f251c8f9a464c8649b4a386f3912ee36
+      internalID: 2621489568566464693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_41
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee1be381057d744ad458baa8ba835d
+      internalID: -4575707582009172348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_42
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e233082adda6fbb41971b00d1df7bfad
+      internalID: -8163650864894658036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_43
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cfea799b5ab1a41ae56d0df7b4c311
+      internalID: -6870236070852567588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_44
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1694a0482af26fd43ae32c958a84f925
+      internalID: -7473949192517890603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_45
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0691b95d7c7f64996ec14f7a2c9840
+      internalID: -668044638773344157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_46
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4576259f466e366489b6b9fa0322dc43
+      internalID: 8059010349228780998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_47
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 6000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc488eb045ee744d80b874c9426c4d0
+      internalID: 5919087390119995329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42595f1d5b3f5eb4783cb6fb9d33b50c
+      internalID: 7772870948714454483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd7cc6e3189d74e931e42a5e4bfee8
+      internalID: -3341248231605529023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_50
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654b11395460f6041835656d495096e2
+      internalID: -8987267159062022942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_51
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca9c0127e4f3464b9971985e14c8ae7
+      internalID: -3204661112169328719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_52
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43f7b01c0dd1ba4ab9905cb8fba71e2
+      internalID: -6689737585570407721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_53
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbdbb5f078d1a44e93582fdd125b596
+      internalID: 3446490815679295768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_54
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a0a7730df7f44ebc2f3e3d74ef88e
+      internalID: -2180553716990707483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_55
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda15273dbf653b499cc0d7bfae72ec2
+      internalID: 6520845359057927103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_56
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0c0d23caf2f6544bf6c80c2b838062
+      internalID: 2563726536413092676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_57
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0dbc88f2ce964498c49dfdf4593f5
+      internalID: -448336515818346950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_58
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6840b418f86b5cf44aa90d0af985317e
+      internalID: -610177413769476703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_59
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 5400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a43a080f14ee4ba65ae6ce45c8c89
+      internalID: -3249801329541106588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe8b2cbad532c45938fe2e2486c1a3
+      internalID: -5242716616374881183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d366c67fd8b26374abbed880e5905d99
+      internalID: 5969822483017020341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf304ec20b3574a9a679dad507a6d0
+      internalID: 1133829610736646510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_63
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee6f89c2e3b34e41ba3027e7b1872c2
+      internalID: 3580984849047117129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_64
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7da6b2f7b940f468ee3136c9bcce49
+      internalID: 198199097699885847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_65
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d91b1657d55fd0458e818f06351657d
+      internalID: 7031475752729541125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_66
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833df4fd98a83b443896769f2165e3cf
+      internalID: -6031531622071752684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_67
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1476f5445f16f1042b4a9c8048be6974
+      internalID: -6843650016168161916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_68
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968ccf7f352a8646892490162863d73
+      internalID: 1120782906301751201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_69
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac0835b96df2f8459ab4eb33e8e5a4c
+      internalID: -2863052380645635474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_70
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fd4b2bc87fecf4ba2dedfcb9aafb35
+      internalID: 7842125055631770494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_71
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 4800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771899ea7042c55478dc456c7c78e16f
+      internalID: 2859251838039618786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809c7953ea3741b40b0588d0fed838c9
+      internalID: 4976216248017721619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ffe7349e47b344f9007af2709bd87f
+      internalID: 2965729218817425660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_74
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd56a8a9131f0a742a62348ee7d7abf5
+      internalID: 9099310947120099232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_75
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebbfa36eb0f85a4baa36da44805fb18
+      internalID: -5273977726086077551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_76
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410a7ad44de24e41b71311f2142a9e2
+      internalID: 7328114713777010100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_77
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b93991a25599c4199c5aba909cb149
+      internalID: -845088608019851150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_78
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a725b162e9c2c6f498ae016a558a8792
+      internalID: -3789274874150496778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_79
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed9179c5d68fe6499897333f6ad60fb
+      internalID: 6909253111524074353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_80
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8839c25826f9b4c811e3bfcb79264f
+      internalID: 3550333453702007020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_81
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60b40fab6bd334fb5d7b6d9c846e3b
+      internalID: -2552080267122431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_82
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908dd499c84011c4bb94342603af6b31
+      internalID: 5180402082239808588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_83
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 4200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb705a2e4e6c71c4d921e645cc2ed140
+      internalID: 8235526451944614957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5950a449538c49af809422f5532f3
+      internalID: -1442195401766578622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417405cca6f288345bc4bd05b5077dec
+      internalID: -1764593920633544552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_86
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceee7953e1a7a54ea4797fb423299b3
+      internalID: -6767893428292135192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_87
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9997ee1272c37d419156d1863d0c10d
+      internalID: 418110070122674692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_88
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e370e61681c87741bd6dfeff22fcdec
+      internalID: 819755314491154329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_89
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c862b570e1ab04fa54ba6318a869ba
+      internalID: 3364713528108985430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_90
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39084512294e4ee44b1daec0094df43a
+      internalID: -4104442164194142370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_91
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83c63a4f9b3ff459bd2f1eb69ddf3f
+      internalID: 6249872776605873450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_92
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6430b8d40eebf84418d147668949b322
+      internalID: 8811267295715961646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_93
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf6ac240d2d39848b6bd43fbf2349d6
+      internalID: 297588925771433450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_94
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a943dbf6cd1c24e8f5f3a878f0fabd
+      internalID: -8264295499859773735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_95
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 3600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12908862bd8c8e243ad2e9e6bcdb4344
+      internalID: -7730873509043040073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd3dd61436beec4d9558f8902585b00
+      internalID: 2822101077647544328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_97
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a412eb7b3017da74b8ee9f3709ad8b00
+      internalID: 8733725493292805374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_98
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db37881f7caa55e47b8b14a53e8bc9f1
+      internalID: -1834535675549710867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_99
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6303cbc900c15e948aa5e68a65d78297
+      internalID: 4698439201192932082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_100
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976bdfca7576bb441abf31af3ba8dda4
+      internalID: 7888030168846163247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_101
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921a0a1c54549164089f675e6c6d94b4
+      internalID: -8941629376500875292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_102
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb5c199fcacc5140a35f352892ad366
+      internalID: 1504814980858971239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_103
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77688feec5ace6f43a4d92c932f24d0d
+      internalID: 4848579535502483207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_104
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0561e9fd556c9024eb2a44e71c49a8ee
+      internalID: -2503763662267875495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_105
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133b0dc88fd45f643b828126ac097703
+      internalID: -855979597424878156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_106
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbcb8c4f8d11a74aa69c6a4510eaf21
+      internalID: 9098609850382999707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_107
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 3000
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5cbdebe22f09144acff5d586503099
+      internalID: 4244118646806902839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c419351d69e942bfdff219f93c063
+      internalID: 3670287272826568492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_109
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44939fd8625c22418744437bad2c6a7
+      internalID: 4011632832722335536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_110
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfb18c58089036409fa2e8cb2edbb28
+      internalID: 4365873355728983982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_111
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc5a5294802cd247a6c0ecae49b7cfa
+      internalID: -133944529826625942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_112
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd89fb562aab14b916ce7a9aa4acba
+      internalID: -4951279602946318053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_113
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb064448057b15742bef3418ea43f052
+      internalID: 8783588501353955236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_114
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934104c704d73c340b1d88a547b3ca6e
+      internalID: -3490273510015064383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_115
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9648392d597d6b340a9cfaa02584a966
+      internalID: -8597468430372456544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_116
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbebfcdace9689e4b8ce2e0c8cebbde3
+      internalID: 5832090688505881250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_117
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfff562f14a624a459cd547a701b6ed1
+      internalID: 7736672213643716796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_118
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de015e70f3851b4e96d91c08f4da69e
+      internalID: -3410653841997692011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_119
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 2400
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3cabe7239360f45ac9dee68a08061e
+      internalID: -1934134756478918776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546170113efc80b4883515b65dbf8092
+      internalID: 119517559296750650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_121
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87fc5a1213dcef4fa7a3a6f503b3090
+      internalID: 7094222642676267645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_122
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfeca541a0a1824ab779b969fc6616c
+      internalID: -2500162163935576966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_123
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef964875414a4a4c9b7fda9baf4d060
+      internalID: 3714503486966994454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_124
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f86d811e9912843b4effc8a49fc094
+      internalID: 9112475419387676048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_125
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db441ddcddc25f468591064f1516b58
+      internalID: 3851511188176172593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_126
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f2bb55edfa7d448701ff228540a30
+      internalID: 5695612207728396666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_127
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c62bfc90bb65540ac7ac6b30e2e52a
+      internalID: -9175724344440160888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_128
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499758e694831f43927cda08f6edae9
+      internalID: 7978557440841056140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_129
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09f3a8c7801384aa344af06e1af254
+      internalID: -9060809085005113552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_130
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7603886b86e313541938b60021af16e2
+      internalID: -6096219577238740573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_131
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 1800
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f885d2d9bfa1b4595d3aa016afb42f
+      internalID: 7045557741982849175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9be13b1c6fd9e4094b42769aecb8ab
+      internalID: -1147578691785022720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_133
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61adcc33caa58c4f9ba280e7b8b8f7b
+      internalID: 5916402411553890077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_134
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b294331a474a97f43ad6ef2920e30bb8
+      internalID: 1523137570274906905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_135
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b7fd086677f84ead55f5ee98c46a2
+      internalID: 9131621492226636386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_136
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2e4e8319bbc3b4690dcc9a862a7f4e
+      internalID: -4147808534296861478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_137
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feed4e0de7dbeb54c959153b833f7c8c
+      internalID: 7391843928826515339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_138
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9977f586905fb284a90ab0df4effa4e4
+      internalID: -736932414828284763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_139
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbed6dc23295fa42b3abc82f5a74bdd
+      internalID: -4340903531956964472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_140
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73582163b6b81db499ea6d8bf9a1e726
+      internalID: -342544838682623040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_141
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc3d0081a9f7441891f6df578a426b
+      internalID: -1118203414650975235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_142
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad3d9ffe63226f43b9e107c5d61223e
+      internalID: -546655243721718529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_143
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 1200
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf89894e48bb814fa4c5fb6dea66738
+      internalID: -4982163145530139200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f74e781b3a32468408f8a4017ff82
+      internalID: 7589278230304423222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_145
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050d2acf9fa5f3c48accce93bfbe56f2
+      internalID: -7393259759404762769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_146
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306e41bfe8c7a38418c3000901d230e6
+      internalID: -4477613392796645696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_147
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9531b46c0be58bd44927c2aa5ee9a367
+      internalID: -4399309204123525932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_148
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48891e49604547f4aa6570743b6a6c9f
+      internalID: -5684849673443059032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_149
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca4ca8999b5b74b8f5efc3e985561d
+      internalID: -585436568889267364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_150
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc93110ebb4ba343b05c28f401b1593
+      internalID: 8239259969332343244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_151
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345fdd601edbe584a8f6e0a6106f1661
+      internalID: -8529010629547148279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_152
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a7d9aaa4cd5146b98c2fe49e9ff6d
+      internalID: -6130691561147309996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_153
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cee2dc2a16d2c4189299181db8bf51
+      internalID: 5132470777140936294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_154
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ae9908d1fe774dbb2d440019665c7
+      internalID: -325163124362440873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_155
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 600
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3beaab6263d7b949b39f1c2888f8b4c
+      internalID: -2495997667182158797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706507c7bedf6a468e12849aa82e9cf
+      internalID: -2992698824691697041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_157
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161e2a0465d93be4a95a06aa2fd137d8
+      internalID: 7931142992458521487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_158
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd037196bb1daf42a008b9c3e08aaae
+      internalID: 2542223852782167100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_159
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d54179ee2a6a64eb88fcf6d95d1829
+      internalID: -3663768766201176793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_160
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ea5e8ee2c834545b33039978c498a9
+      internalID: -5651208689051822805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_161
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf3c6a032f99a49aafaf1c7696661e
+      internalID: 1373529274033585766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_162
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a300861bdf84554d881d98db1b6348e
+      internalID: -9091174330699609399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_163
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a18bfe90d1ef55469e03d881182d16d
+      internalID: 906263873091700568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_164
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd8620034d7fc4b820f0f6fa5f02e1
+      internalID: 967660615598849292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_165
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ad6796b446c824c915136b64647dc1
+      internalID: -5807076859063908375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_166
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5c251ba13bd1429a3ee27bed1a811
+      internalID: -6302410842020852335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houby animace_#[800,600]_167
+      rect:
+        serializedVersion: 2
+        x: 8800
+        y: 0
+        width: 800
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366188067bd2c2845b4559fec7c210c5
+      internalID: -4875641595687528111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

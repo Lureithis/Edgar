@@ -1,0 +1,4903 @@
+fileFormatVersion: 2
+guid: cc228bf04dec5c7478ad6f23393f6d40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8868978350678213542
+    second: kyvadlo animace jeste mensi_#[730,430]_0
+  - first:
+      213: -5210928922656621748
+    second: kyvadlo animace jeste mensi_#[730,430]_1
+  - first:
+      213: 127063400457332210
+    second: kyvadlo animace jeste mensi_#[730,430]_2
+  - first:
+      213: -1785518590101425120
+    second: kyvadlo animace jeste mensi_#[730,430]_3
+  - first:
+      213: -1076860396770718107
+    second: kyvadlo animace jeste mensi_#[730,430]_4
+  - first:
+      213: -7319989930439915880
+    second: kyvadlo animace jeste mensi_#[730,430]_5
+  - first:
+      213: 9145278850230486820
+    second: kyvadlo animace jeste mensi_#[730,430]_6
+  - first:
+      213: -7131905025186002492
+    second: kyvadlo animace jeste mensi_#[730,430]_7
+  - first:
+      213: 6620300330957157954
+    second: kyvadlo animace jeste mensi_#[730,430]_8
+  - first:
+      213: 8608201938266400029
+    second: kyvadlo animace jeste mensi_#[730,430]_9
+  - first:
+      213: 9073068672853794859
+    second: kyvadlo animace jeste mensi_#[730,430]_10
+  - first:
+      213: 3637546792923849562
+    second: kyvadlo animace jeste mensi_#[730,430]_11
+  - first:
+      213: 7956305762826019015
+    second: kyvadlo animace jeste mensi_#[730,430]_12
+  - first:
+      213: -8720781059873568085
+    second: kyvadlo animace jeste mensi_#[730,430]_13
+  - first:
+      213: -8735213674361272236
+    second: kyvadlo animace jeste mensi_#[730,430]_14
+  - first:
+      213: 5003663432204937915
+    second: kyvadlo animace jeste mensi_#[730,430]_15
+  - first:
+      213: 6997908853251669520
+    second: kyvadlo animace jeste mensi_#[730,430]_16
+  - first:
+      213: -658519161964459630
+    second: kyvadlo animace jeste mensi_#[730,430]_17
+  - first:
+      213: -4717493366127194946
+    second: kyvadlo animace jeste mensi_#[730,430]_18
+  - first:
+      213: 2903603627703934241
+    second: kyvadlo animace jeste mensi_#[730,430]_19
+  - first:
+      213: 3951807689013948439
+    second: kyvadlo animace jeste mensi_#[730,430]_20
+  - first:
+      213: -1449056261810999595
+    second: kyvadlo animace jeste mensi_#[730,430]_21
+  - first:
+      213: 5148363022956807192
+    second: kyvadlo animace jeste mensi_#[730,430]_22
+  - first:
+      213: -3549082075019759383
+    second: kyvadlo animace jeste mensi_#[730,430]_23
+  - first:
+      213: -659826615150807465
+    second: kyvadlo animace jeste mensi_#[730,430]_24
+  - first:
+      213: -7694850597639517504
+    second: kyvadlo animace jeste mensi_#[730,430]_25
+  - first:
+      213: -7646002339030479775
+    second: kyvadlo animace jeste mensi_#[730,430]_26
+  - first:
+      213: -826711870642013650
+    second: kyvadlo animace jeste mensi_#[730,430]_27
+  - first:
+      213: -407067019510304660
+    second: kyvadlo animace jeste mensi_#[730,430]_28
+  - first:
+      213: -6923342075128762192
+    second: kyvadlo animace jeste mensi_#[730,430]_29
+  - first:
+      213: 2730660562645082700
+    second: kyvadlo animace jeste mensi_#[730,430]_30
+  - first:
+      213: -1012322028952852236
+    second: kyvadlo animace jeste mensi_#[730,430]_31
+  - first:
+      213: -5489051813673020252
+    second: kyvadlo animace jeste mensi_#[730,430]_32
+  - first:
+      213: 2408033875321187340
+    second: kyvadlo animace jeste mensi_#[730,430]_33
+  - first:
+      213: 419095080586315220
+    second: kyvadlo animace jeste mensi_#[730,430]_34
+  - first:
+      213: 4963061297003099395
+    second: kyvadlo animace jeste mensi_#[730,430]_35
+  - first:
+      213: 8902645858742573940
+    second: kyvadlo animace jeste mensi_#[730,430]_36
+  - first:
+      213: -5355427101040068177
+    second: kyvadlo animace jeste mensi_#[730,430]_37
+  - first:
+      213: -4785771344064561019
+    second: kyvadlo animace jeste mensi_#[730,430]_38
+  - first:
+      213: -8597316858751347742
+    second: kyvadlo animace jeste mensi_#[730,430]_39
+  - first:
+      213: 7875491151939112296
+    second: kyvadlo animace jeste mensi_#[730,430]_40
+  - first:
+      213: 7636956573883478832
+    second: kyvadlo animace jeste mensi_#[730,430]_41
+  - first:
+      213: 2238415624997728933
+    second: kyvadlo animace jeste mensi_#[730,430]_42
+  - first:
+      213: -7148455275266908783
+    second: kyvadlo animace jeste mensi_#[730,430]_43
+  - first:
+      213: 3212917945466831126
+    second: kyvadlo animace jeste mensi_#[730,430]_44
+  - first:
+      213: 8037563565178809113
+    second: kyvadlo animace jeste mensi_#[730,430]_45
+  - first:
+      213: -1193547432221941000
+    second: kyvadlo animace jeste mensi_#[730,430]_46
+  - first:
+      213: 3606556943182596071
+    second: kyvadlo animace jeste mensi_#[730,430]_47
+  - first:
+      213: 520519127760275455
+    second: kyvadlo animace jeste mensi_#[730,430]_48
+  - first:
+      213: -8101683436812772053
+    second: kyvadlo animace jeste mensi_#[730,430]_49
+  - first:
+      213: 129455136683734501
+    second: kyvadlo animace jeste mensi_#[730,430]_50
+  - first:
+      213: 8175593320369453052
+    second: kyvadlo animace jeste mensi_#[730,430]_51
+  - first:
+      213: -2797005961880349740
+    second: kyvadlo animace jeste mensi_#[730,430]_52
+  - first:
+      213: -1203381792307143749
+    second: kyvadlo animace jeste mensi_#[730,430]_53
+  - first:
+      213: 840547822597016846
+    second: kyvadlo animace jeste mensi_#[730,430]_54
+  - first:
+      213: 8986554297208281062
+    second: kyvadlo animace jeste mensi_#[730,430]_55
+  - first:
+      213: -2989881422977179762
+    second: kyvadlo animace jeste mensi_#[730,430]_56
+  - first:
+      213: 8466890938693998696
+    second: kyvadlo animace jeste mensi_#[730,430]_57
+  - first:
+      213: 791431928943423673
+    second: kyvadlo animace jeste mensi_#[730,430]_58
+  - first:
+      213: 5099253830953125406
+    second: kyvadlo animace jeste mensi_#[730,430]_59
+  - first:
+      213: -4849089356076759857
+    second: kyvadlo animace jeste mensi_#[730,430]_60
+  - first:
+      213: 7762399003963131624
+    second: kyvadlo animace jeste mensi_#[730,430]_61
+  - first:
+      213: 1933105192397311910
+    second: kyvadlo animace jeste mensi_#[730,430]_62
+  - first:
+      213: 3080501541689893407
+    second: kyvadlo animace jeste mensi_#[730,430]_63
+  - first:
+      213: -8796125932901031788
+    second: kyvadlo animace jeste mensi_#[730,430]_64
+  - first:
+      213: -3242693162483506423
+    second: kyvadlo animace jeste mensi_#[730,430]_65
+  - first:
+      213: 4261070217856475801
+    second: kyvadlo animace jeste mensi_#[730,430]_66
+  - first:
+      213: 1581859614719385577
+    second: kyvadlo animace jeste mensi_#[730,430]_67
+  - first:
+      213: -6779093668441182006
+    second: kyvadlo animace jeste mensi_#[730,430]_68
+  - first:
+      213: -7825639600469455525
+    second: kyvadlo animace jeste mensi_#[730,430]_69
+  - first:
+      213: -1798238807603596596
+    second: kyvadlo animace jeste mensi_#[730,430]_70
+  - first:
+      213: -8514105340640563098
+    second: kyvadlo animace jeste mensi_#[730,430]_71
+  - first:
+      213: -6385892765150437961
+    second: kyvadlo animace jeste mensi_#[730,430]_72
+  - first:
+      213: 209230184352923176
+    second: kyvadlo animace jeste mensi_#[730,430]_73
+  - first:
+      213: -3118322240257908139
+    second: kyvadlo animace jeste mensi_#[730,430]_74
+  - first:
+      213: 8035644825007399207
+    second: kyvadlo animace jeste mensi_#[730,430]_75
+  - first:
+      213: -6966953899840461563
+    second: kyvadlo animace jeste mensi_#[730,430]_76
+  - first:
+      213: -9208098685494848720
+    second: kyvadlo animace jeste mensi_#[730,430]_77
+  - first:
+      213: 8545369643568709018
+    second: kyvadlo animace jeste mensi_#[730,430]_78
+  - first:
+      213: -1473938949212110019
+    second: kyvadlo animace jeste mensi_#[730,430]_79
+  - first:
+      213: 7205816834995269530
+    second: kyvadlo animace jeste mensi_#[730,430]_80
+  - first:
+      213: 7534506911645236063
+    second: kyvadlo animace jeste mensi_#[730,430]_81
+  - first:
+      213: 1903162487594738537
+    second: kyvadlo animace jeste mensi_#[730,430]_82
+  - first:
+      213: -2403069451743588808
+    second: kyvadlo animace jeste mensi_#[730,430]_83
+  - first:
+      213: -6007188898650282681
+    second: kyvadlo animace jeste mensi_#[730,430]_84
+  - first:
+      213: 3964172324648887626
+    second: kyvadlo animace jeste mensi_#[730,430]_85
+  - first:
+      213: 4057947440828636513
+    second: kyvadlo animace jeste mensi_#[730,430]_86
+  - first:
+      213: 4215370581788425914
+    second: kyvadlo animace jeste mensi_#[730,430]_87
+  - first:
+      213: -6152173584531636266
+    second: kyvadlo animace jeste mensi_#[730,430]_88
+  - first:
+      213: 378866909960764672
+    second: kyvadlo animace jeste mensi_#[730,430]_89
+  - first:
+      213: -4021147969755960125
+    second: kyvadlo animace jeste mensi_#[730,430]_90
+  - first:
+      213: 2603177260086917401
+    second: kyvadlo animace jeste mensi_#[730,430]_91
+  - first:
+      213: 1078484208031440760
+    second: kyvadlo animace jeste mensi_#[730,430]_92
+  - first:
+      213: -5328476030535686328
+    second: kyvadlo animace jeste mensi_#[730,430]_93
+  - first:
+      213: 3519079682367833557
+    second: kyvadlo animace jeste mensi_#[730,430]_94
+  - first:
+      213: -7153843481137668574
+    second: kyvadlo animace jeste mensi_#[730,430]_95
+  - first:
+      213: -6869162338392716024
+    second: kyvadlo animace jeste mensi_#[730,430]_96
+  - first:
+      213: 4166713585762724913
+    second: kyvadlo animace jeste mensi_#[730,430]_97
+  - first:
+      213: -843767546312201237
+    second: kyvadlo animace jeste mensi_#[730,430]_98
+  - first:
+      213: 8961639898973482681
+    second: kyvadlo animace jeste mensi_#[730,430]_99
+  - first:
+      213: -1915436027324460784
+    second: kyvadlo animace jeste mensi_#[730,430]_100
+  - first:
+      213: 5125227166395639659
+    second: kyvadlo animace jeste mensi_#[730,430]_101
+  - first:
+      213: -157588968584463509
+    second: kyvadlo animace jeste mensi_#[730,430]_102
+  - first:
+      213: 7524848557300812746
+    second: kyvadlo animace jeste mensi_#[730,430]_103
+  - first:
+      213: -5361326430941607391
+    second: kyvadlo animace jeste mensi_#[730,430]_104
+  - first:
+      213: 2237055460329381702
+    second: kyvadlo animace jeste mensi_#[730,430]_105
+  - first:
+      213: -232952739815589951
+    second: kyvadlo animace jeste mensi_#[730,430]_106
+  - first:
+      213: -1567486750535655744
+    second: kyvadlo animace jeste mensi_#[730,430]_107
+  - first:
+      213: -5592944365313500333
+    second: kyvadlo animace jeste mensi_#[730,430]_108
+  - first:
+      213: 1668240437459235878
+    second: kyvadlo animace jeste mensi_#[730,430]_109
+  - first:
+      213: -7966632317215916358
+    second: kyvadlo animace jeste mensi_#[730,430]_110
+  - first:
+      213: 870204720648585845
+    second: kyvadlo animace jeste mensi_#[730,430]_111
+  - first:
+      213: -6011557059223508212
+    second: kyvadlo animace jeste mensi_#[730,430]_112
+  - first:
+      213: -564707184942941831
+    second: kyvadlo animace jeste mensi_#[730,430]_113
+  - first:
+      213: 748765092907007051
+    second: kyvadlo animace jeste mensi_#[730,430]_114
+  - first:
+      213: 7543215020775326710
+    second: kyvadlo animace jeste mensi_#[730,430]_115
+  - first:
+      213: -5743979723305871090
+    second: kyvadlo animace jeste mensi_#[730,430]_116
+  - first:
+      213: -6834145343658526295
+    second: kyvadlo animace jeste mensi_#[730,430]_117
+  - first:
+      213: 1377791792357383979
+    second: kyvadlo animace jeste mensi_#[730,430]_118
+  - first:
+      213: 1207102973470770142
+    second: kyvadlo animace jeste mensi_#[730,430]_119
+  - first:
+      213: 7546500922096557070
+    second: kyvadlo animace jeste mensi_#[730,430]_120
+  - first:
+      213: 6676019723596281094
+    second: kyvadlo animace jeste mensi_#[730,430]_121
+  - first:
+      213: -7530485345340485569
+    second: kyvadlo animace jeste mensi_#[730,430]_122
+  - first:
+      213: -8991709879539204992
+    second: kyvadlo animace jeste mensi_#[730,430]_123
+  - first:
+      213: 5062944523367130828
+    second: kyvadlo animace jeste mensi_#[730,430]_124
+  - first:
+      213: -7033040120135338652
+    second: kyvadlo animace jeste mensi_#[730,430]_125
+  - first:
+      213: 8890052775518134966
+    second: kyvadlo animace jeste mensi_#[730,430]_126
+  - first:
+      213: 3817011633041027448
+    second: kyvadlo animace jeste mensi_#[730,430]_127
+  - first:
+      213: -8106478309968386889
+    second: kyvadlo animace jeste mensi_#[730,430]_128
+  - first:
+      213: 7599354869413766216
+    second: kyvadlo animace jeste mensi_#[730,430]_129
+  - first:
+      213: -2508133270646113225
+    second: kyvadlo animace jeste mensi_#[730,430]_130
+  - first:
+      213: -7662580356004837202
+    second: kyvadlo animace jeste mensi_#[730,430]_131
+  - first:
+      213: 2362586671197497117
+    second: kyvadlo animace jeste mensi_#[730,430]_132
+  - first:
+      213: -322969412378479328
+    second: kyvadlo animace jeste mensi_#[730,430]_133
+  - first:
+      213: -4808364919879479601
+    second: kyvadlo animace jeste mensi_#[730,430]_134
+  - first:
+      213: 4520363482414102973
+    second: kyvadlo animace jeste mensi_#[730,430]_135
+  - first:
+      213: 2670916150982579631
+    second: kyvadlo animace jeste mensi_#[730,430]_136
+  - first:
+      213: 3338459225446701886
+    second: kyvadlo animace jeste mensi_#[730,430]_137
+  - first:
+      213: -5498551445059828354
+    second: kyvadlo animace jeste mensi_#[730,430]_138
+  - first:
+      213: -4892961511856997363
+    second: kyvadlo animace jeste mensi_#[730,430]_139
+  - first:
+      213: -5684512679982299826
+    second: kyvadlo animace jeste mensi_#[730,430]_140
+  - first:
+      213: 3968382628840157174
+    second: kyvadlo animace jeste mensi_#[730,430]_141
+  - first:
+      213: 4683428413260011830
+    second: kyvadlo animace jeste mensi_#[730,430]_142
+  - first:
+      213: 2327918056139481699
+    second: kyvadlo animace jeste mensi_#[730,430]_143
+  - first:
+      213: 1846237475893899621
+    second: kyvadlo animace jeste mensi_#[730,430]_144
+  - first:
+      213: -8938079032759345545
+    second: kyvadlo animace jeste mensi_#[730,430]_145
+  - first:
+      213: -1562032190583970665
+    second: kyvadlo animace jeste mensi_#[730,430]_146
+  - first:
+      213: 5182821084890200629
+    second: kyvadlo animace jeste mensi_#[730,430]_147
+  - first:
+      213: 4055076481045800164
+    second: kyvadlo animace jeste mensi_#[730,430]_148
+  - first:
+      213: 1941290063460137293
+    second: kyvadlo animace jeste mensi_#[730,430]_149
+  - first:
+      213: 1585254332759413784
+    second: kyvadlo animace jeste mensi_#[730,430]_150
+  - first:
+      213: -4060011523897109746
+    second: kyvadlo animace jeste mensi_#[730,430]_151
+  - first:
+      213: 2188815779940138062
+    second: kyvadlo animace jeste mensi_#[730,430]_152
+  - first:
+      213: -7027555404729436556
+    second: kyvadlo animace jeste mensi_#[730,430]_153
+  - first:
+      213: 5986997753538677187
+    second: kyvadlo animace jeste mensi_#[730,430]_154
+  - first:
+      213: 3309631559465597972
+    second: kyvadlo animace jeste mensi_#[730,430]_155
+  - first:
+      213: 8064704422018857246
+    second: kyvadlo animace jeste mensi_#[730,430]_156
+  - first:
+      213: 94422564815135724
+    second: kyvadlo animace jeste mensi_#[730,430]_157
+  - first:
+      213: 879757368415525827
+    second: kyvadlo animace jeste mensi_#[730,430]_158
+  - first:
+      213: 1829199289395605506
+    second: kyvadlo animace jeste mensi_#[730,430]_159
+  - first:
+      213: 8647109473046977759
+    second: kyvadlo animace jeste mensi_#[730,430]_160
+  - first:
+      213: -3940280442943934118
+    second: kyvadlo animace jeste mensi_#[730,430]_161
+  - first:
+      213: 5184837458358808125
+    second: kyvadlo animace jeste mensi_#[730,430]_162
+  - first:
+      213: 5228594380678253863
+    second: kyvadlo animace jeste mensi_#[730,430]_163
+  - first:
+      213: 8831649715996532395
+    second: kyvadlo animace jeste mensi_#[730,430]_164
+  - first:
+      213: 5193246289987622147
+    second: kyvadlo animace jeste mensi_#[730,430]_165
+  - first:
+      213: -5368628063278448617
+    second: kyvadlo animace jeste mensi_#[730,430]_166
+  - first:
+      213: -4312844444362309868
+    second: kyvadlo animace jeste mensi_#[730,430]_167
+  - first:
+      213: 8192277073968122482
+    second: kyvadlo animace jeste mensi_#[730,430]_168
+  - first:
+      213: 4459981649293353083
+    second: kyvadlo animace jeste mensi_#[730,430]_169
+  - first:
+      213: 3281052321977743426
+    second: kyvadlo animace jeste mensi_#[730,430]_170
+  - first:
+      213: -3399661217722989872
+    second: kyvadlo animace jeste mensi_#[730,430]_171
+  - first:
+      213: 5422218531518249596
+    second: kyvadlo animace jeste mensi_#[730,430]_172
+  - first:
+      213: -6258696738163812919
+    second: kyvadlo animace jeste mensi_#[730,430]_173
+  - first:
+      213: 8167845747458224926
+    second: kyvadlo animace jeste mensi_#[730,430]_174
+  - first:
+      213: -8751702886238023696
+    second: kyvadlo animace jeste mensi_#[730,430]_175
+  - first:
+      213: 7774311687159807074
+    second: kyvadlo animace jeste mensi_#[730,430]_176
+  - first:
+      213: -2503005395954496854
+    second: kyvadlo animace jeste mensi_#[730,430]_177
+  - first:
+      213: 3931877507195007822
+    second: kyvadlo animace jeste mensi_#[730,430]_178
+  - first:
+      213: -3676344493842355834
+    second: kyvadlo animace jeste mensi_#[730,430]_179
+  - first:
+      213: -3186517716200185601
+    second: kyvadlo animace jeste mensi_#[730,430]_180
+  - first:
+      213: 4398051749141283949
+    second: kyvadlo animace jeste mensi_#[730,430]_181
+  - first:
+      213: -4073348087121793161
+    second: kyvadlo animace jeste mensi_#[730,430]_182
+  - first:
+      213: -4306047435541963899
+    second: kyvadlo animace jeste mensi_#[730,430]_183
+  - first:
+      213: -3661291583502751368
+    second: kyvadlo animace jeste mensi_#[730,430]_184
+  - first:
+      213: -4354535503549427818
+    second: kyvadlo animace jeste mensi_#[730,430]_185
+  - first:
+      213: 2687215697504135684
+    second: kyvadlo animace jeste mensi_#[730,430]_186
+  - first:
+      213: 7512734163194392346
+    second: kyvadlo animace jeste mensi_#[730,430]_187
+  - first:
+      213: 1046470945940768956
+    second: kyvadlo animace jeste mensi_#[730,430]_188
+  - first:
+      213: -5188806042035198935
+    second: kyvadlo animace jeste mensi_#[730,430]_189
+  - first:
+      213: -5845693178052532228
+    second: kyvadlo animace jeste mensi_#[730,430]_190
+  - first:
+      213: -6701262147893913161
+    second: kyvadlo animace jeste mensi_#[730,430]_191
+  - first:
+      213: 7383138027900110542
+    second: kyvadlo animace jeste mensi_#[730,430]_192
+  - first:
+      213: 6204440852808100458
+    second: kyvadlo animace jeste mensi_#[730,430]_193
+  - first:
+      213: 8265119051770499380
+    second: kyvadlo animace jeste mensi_#[730,430]_194
+  - first:
+      213: 6482528531081066571
+    second: kyvadlo animace jeste mensi_#[730,430]_195
+  - first:
+      213: 2723480173197581293
+    second: kyvadlo animace jeste mensi_#[730,430]_196
+  - first:
+      213: 1251708489878874278
+    second: kyvadlo animace jeste mensi_#[730,430]_197
+  - first:
+      213: -9136421036553904405
+    second: kyvadlo animace jeste mensi_#[730,430]_198
+  - first:
+      213: 8784475232406096834
+    second: kyvadlo animace jeste mensi_#[730,430]_199
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeab2ef496bcaa0428b1f8f35227455f
+      internalID: -8868978350678213542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_1
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b54254366d86a4292c28b526e4dcd5
+      internalID: -5210928922656621748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c345b553fdbd54640905e7bd01335252
+      internalID: 127063400457332210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_3
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f295a289d92fae4a99fc96681cc0091
+      internalID: -1785518590101425120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_4
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ed3bc260114eb448f652d18fff58bb
+      internalID: -1076860396770718107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_5
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbad59facdab2f4c8fac2e58443a470
+      internalID: -7319989930439915880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_6
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965588c632397c34baad86a3883a63d8
+      internalID: 9145278850230486820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_7
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e837acf83846434ebcb48073b9631e2
+      internalID: -7131905025186002492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_8
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decd5f258707d86439ab0ae9565111b4
+      internalID: 6620300330957157954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_9
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428860b4f4bad0748a70145c88f2843b
+      internalID: 8608201938266400029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_10
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c49d4d5eb7dcd47bc6aae04f84a71c
+      internalID: 9073068672853794859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_11
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1405379a003277f478e31a7859aa45f5
+      internalID: 3637546792923849562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_12
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf67c3f0ae913e43b33f3b5f08dbc42
+      internalID: 7956305762826019015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_13
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 6020
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4473dbddf0801a14093aae4c3ce44691
+      internalID: -8720781059873568085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77e04ef0fc6cf458a8abf48b079c92
+      internalID: -8735213674361272236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b9c840bf16b8b4eb6521cfeca417dc
+      internalID: 5003663432204937915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_16
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd89ec557bc9ca34bbc21d89efb1e075
+      internalID: 6997908853251669520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_17
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d84a3102695ef47877464b8df1084e
+      internalID: -658519161964459630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_18
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f0b5557123879429b9e6ad9628b6cc
+      internalID: -4717493366127194946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_19
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ff273f82c335499fca48e5e801c20
+      internalID: 2903603627703934241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_20
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f8cd12408025a48b9d2084fc402926
+      internalID: 3951807689013948439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_21
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05bb4fbd626a0b409448bad4b126105
+      internalID: -1449056261810999595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_22
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5acfb060b95b7498482a995464884d
+      internalID: 5148363022956807192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_23
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4bb4e4ea816f648b8a89fec0b3e779
+      internalID: -3549082075019759383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_24
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab6d05882ea024287470bf14e4f41a
+      internalID: -659826615150807465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_25
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6035b601a3d7348a68f22735837717
+      internalID: -7694850597639517504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_26
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a01ebd9506301458dd59c18316f11e
+      internalID: -7646002339030479775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_27
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 5590
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78752538dae3f54da7b66889be095d7
+      internalID: -826711870642013650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516a920ce3dab7c4f84c3a67e40dc523
+      internalID: -407067019510304660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_29
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb169beffbe5ad4ba1e7eb5145883cc
+      internalID: -6923342075128762192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_30
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70855421fb22ff4ebcb43a448abfa29
+      internalID: 2730660562645082700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_31
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e747907eb9cc02649875d9b9977cdd0f
+      internalID: -1012322028952852236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_32
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f110780a4723564680c117d23e3f853
+      internalID: -5489051813673020252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_33
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6827f262a6740724aac49a62e9f65508
+      internalID: 2408033875321187340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_34
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ae9af7c0b57e04b88cc48e9579b0e1
+      internalID: 419095080586315220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_35
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204184db1e589a34296a549812c3d567
+      internalID: 4963061297003099395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_36
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96328856e0274bc4b8451cd00e0fa4a3
+      internalID: 8902645858742573940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_37
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d868aa3a033d444a6c0da646cde504
+      internalID: -5355427101040068177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_38
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fecd7680cb0564fb9a57373e3948b0
+      internalID: -4785771344064561019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_39
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa52522892b1944e87648dac8915a79
+      internalID: -8597316858751347742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_40
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2199c1c4d4159e04aa63a1b0d7d70a42
+      internalID: 7875491151939112296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_41
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 5160
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e34e56e3b07854d98acc99a870440c
+      internalID: 7636956573883478832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad29c614cc14b4e4dbec1bd20dea252e
+      internalID: 2238415624997728933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_43
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96324acb7e7d11c4da8c659b72eec825
+      internalID: -7148455275266908783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_44
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c2e6bdec868443a5191fd257e488b
+      internalID: 3212917945466831126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_45
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13743188ba0fee042bee3cf8f00ea5e3
+      internalID: 8037563565178809113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_46
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70d873102d7e254ca68e9dd6030398a
+      internalID: -1193547432221941000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_47
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737eeb27411daf04d8770d0fd956b8c0
+      internalID: 3606556943182596071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_48
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89f219e1f9cf394cbca232e17f14e05
+      internalID: 520519127760275455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_49
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8846f526c1d008c4499d4f008873c963
+      internalID: -8101683436812772053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_50
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d30ea056141248833e4d4e3b18dc2
+      internalID: 129455136683734501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_51
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3119f9c15a29ab45b1102f6822d97bf
+      internalID: 8175593320369453052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_52
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63723256111b245b069d4ec922b78a
+      internalID: -2797005961880349740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_53
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a09d05f888b7974c8d93c53f349c8b3
+      internalID: -1203381792307143749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_54
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c46764b777e724d86b96433411276d
+      internalID: 840547822597016846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_55
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 4730
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623747bf30c059489cc316004c389b0
+      internalID: 8986554297208281062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ae4bbc466d8f4c82b8b5183bc9c67
+      internalID: -2989881422977179762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_57
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95259f2b78564c248b115c03f9c82276
+      internalID: 8466890938693998696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_58
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6d18b00e6c81a44b28474d040de336
+      internalID: 791431928943423673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_59
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69b4033975d2904cba6619e0f954195
+      internalID: 5099253830953125406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_60
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb523b70a85a8f489b238dfcacaddd1
+      internalID: -4849089356076759857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_61
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389fe8af57dc3bc4f95d1ade414545eb
+      internalID: 7762399003963131624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_62
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86b811509ee8fb4e8cbd9fb2fa5bf14
+      internalID: 1933105192397311910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_63
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868cf4f7b8c033e408154d2cf7c14918
+      internalID: 3080501541689893407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_64
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e38002c21576e47b90b9075b588b8f
+      internalID: -8796125932901031788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_65
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ec5e990fc19ef47b65af920252f516
+      internalID: -3242693162483506423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_66
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5524ab47a221ee7428325b34f8d30d1e
+      internalID: 4261070217856475801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_67
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976266b7bfa5a624db1924c4900a39c5
+      internalID: 1581859614719385577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_68
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11abedd9c6868e647a67fbb0fb3e2d7a
+      internalID: -6779093668441182006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_69
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 4300
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67995e0b85782864e8570e559ab0ff45
+      internalID: -7825639600469455525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c630f44f9b34741aaba73a76cf3924
+      internalID: -1798238807603596596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_71
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e5951f96733344791fda8281de40ca
+      internalID: -8514105340640563098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_72
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a6d92a36c78164c8775d0bf862fcae
+      internalID: -6385892765150437961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_73
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0142c3cdde453b34fbd11f99cebd3397
+      internalID: 209230184352923176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_74
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e5e4a8abf8a124c9f124a9dfbbf342
+      internalID: -3118322240257908139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_75
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7453cd92d025842b16223ea10ad375
+      internalID: 8035644825007399207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_76
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f273cbc37b75f43bbfc14dd19d20e9
+      internalID: -6966953899840461563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_77
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c927d8acf9387f94191a9c41fa01c2fe
+      internalID: -9208098685494848720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_78
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12064b70647183f4ab157eb51ef13794
+      internalID: 8545369643568709018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_79
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17171315a38a8f440802036bea1754d2
+      internalID: -1473938949212110019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_80
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed47c65f3a51a414c9382f71ac800652
+      internalID: 7205816834995269530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_81
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8c478f1ae11041944b3c7bf69de94
+      internalID: 7534506911645236063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_82
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230de8ada9644fb4a81d07a18aee62f2
+      internalID: 1903162487594738537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_83
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b58609f70e22a459f2e4b63d36d4c6
+      internalID: -2403069451743588808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3bb9c9669914644b83dcaf5f5062f1
+      internalID: -6007188898650282681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_85
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604a6a602940cf4d878aeef4d09e85b
+      internalID: 3964172324648887626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_86
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc7ab1929828ce4eb701a4fb4cb9847
+      internalID: 4057947440828636513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_87
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd390c5a1f0dd7843846d455731fb1e0
+      internalID: 4215370581788425914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_88
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab2fae158fadc458b58e3f8d939cec
+      internalID: -6152173584531636266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_89
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d784b0a48dfe804682b26200de6a932
+      internalID: 378866909960764672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_90
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdc5ce8818fa0e4fa61e274a4d2318a
+      internalID: -4021147969755960125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_91
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84deea0f89914624a80fc3a980c654a2
+      internalID: 2603177260086917401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_92
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971de2c014cdd7d48a0d5e2bf77c97b8
+      internalID: 1078484208031440760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_93
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9200b0aae631c2a498c4ebb7963da0df
+      internalID: -5328476030535686328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_94
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b57b49d3d9d1c498afc98ce487c14a
+      internalID: 3519079682367833557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_95
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1839f4505d6260444967ee3f34edd109
+      internalID: -7153843481137668574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_96
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fefb860f830c549a5788294f65f912
+      internalID: -6869162338392716024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_97
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bab2e5d3a10964aa0a9512a8096491
+      internalID: 4166713585762724913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af426850049b0724eb11887d02e0cfce
+      internalID: -843767546312201237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_99
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756124902c77f174480d0ca7f33f35a3
+      internalID: 8961639898973482681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_100
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2f4f9e5b2c954391ff11175774730
+      internalID: -1915436027324460784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_101
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792fec9a334307c45820b1b3401b960c
+      internalID: 5125227166395639659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_102
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1de68a2bbb4dd542a07ad0cfe350186
+      internalID: -157588968584463509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_103
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead23936880b2f4cb119a682bd8391d
+      internalID: 7524848557300812746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_104
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d20f1eadf660846807a9e53d5641d3
+      internalID: -5361326430941607391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_105
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd5b50467caae941bde0d2c30c59654
+      internalID: 2237055460329381702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_106
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355349a8b1183f84ba3475387c9b313b
+      internalID: -232952739815589951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_107
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bee7affca8acb4e97269f4c9cb64d0
+      internalID: -1567486750535655744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_108
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58081531d89d6f42b3d44a2e7ab24a6
+      internalID: -5592944365313500333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_109
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff2518b238b3c649be5f0f0532f09f1
+      internalID: 1668240437459235878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_110
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1865abe683164bd4ca848c2df6ce5e07
+      internalID: -7966632317215916358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_111
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad332ba7be161f44ea6b72b3e48143ed
+      internalID: 870204720648585845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c878130da0f9314a8d3c1964f32031d
+      internalID: -6011557059223508212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_113
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a84acba193b86a4aa826ea437cf9352
+      internalID: -564707184942941831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_114
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcb85296952be6429e6b5f5881f959c
+      internalID: 748765092907007051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_115
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee7c227f23b46344a61167050bf3604
+      internalID: 7543215020775326710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_116
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02d32fbdf486a347a8ef218aa03f1c5
+      internalID: -5743979723305871090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_117
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edeabbec622a3145bedaf29ad02a0e1
+      internalID: -6834145343658526295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_118
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be506a32ed696524b8f7d657e4834134
+      internalID: 1377791792357383979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_119
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaf0c10bf3d30846b27770bfefffbf7
+      internalID: 1207102973470770142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_120
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cda28f8a526d424b8a0c576b293b498
+      internalID: 7546500922096557070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_121
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ba0b6abc4a5ee44bfdeabc37fb4b3e
+      internalID: 6676019723596281094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_122
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5db449eb46b1249b605a761aa37045
+      internalID: -7530485345340485569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_123
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9481a975f22967d418496720087629f6
+      internalID: -8991709879539204992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_124
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde7cc47f56fd2b4a9bcdbd2b8ec52f4
+      internalID: 5062944523367130828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_125
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231dad77ed65624ab01d4e06082a541
+      internalID: -7033040120135338652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f2f84271cb1bb4980c359f65ae45e5
+      internalID: 8890052775518134966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_127
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb53e149c5653b40a5be169b5a77ff8
+      internalID: 3817011633041027448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_128
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a020e6b547f04f9a74d45dc54a1ee
+      internalID: -8106478309968386889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_129
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49076c07901f904d94c6d16743163d6
+      internalID: 7599354869413766216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_130
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324da321161f6844a7c632eaa93f385
+      internalID: -2508133270646113225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_131
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1c06ebddda99b4bb579b64e22f8c14
+      internalID: -7662580356004837202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_132
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f671752f97ad46a1e7684b9d18ccd
+      internalID: 2362586671197497117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_133
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be286e99835e4f4cbd00b69e50b6336
+      internalID: -322969412378479328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_134
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf355a80102cbc45981dece71f2d92e
+      internalID: -4808364919879479601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_135
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c8ebaf5d91d404b82b5a2e98659fb1
+      internalID: 4520363482414102973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_136
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70144b5fc473614dba0a67ff8504be5
+      internalID: 2670916150982579631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_137
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf04041a4b5b154080690846f90d449
+      internalID: 3338459225446701886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_138
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b9a630e8b6a274d94f371fbce95775
+      internalID: -5498551445059828354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_139
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b49650acf05fe4fbd2e273a0e67a79
+      internalID: -4892961511856997363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6291ccb5cb5dd264a83795ad515b2d9b
+      internalID: -5684512679982299826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_141
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cd70e86c2e2604690443b172486111
+      internalID: 3968382628840157174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_142
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119e2b623f62884595fbfc72cecfd0f
+      internalID: 4683428413260011830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_143
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd15c1e6927fb2646b2d89bdc4462d73
+      internalID: 2327918056139481699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_144
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8693ea686b8884da384ddb4ce71c5a
+      internalID: 1846237475893899621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_145
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668dbbf87fb648f44b38cf8630161938
+      internalID: -8938079032759345545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_146
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9db10ae7e021a48a62867651ddd694
+      internalID: -1562032190583970665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_147
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048637417918e28408f40313df48265f
+      internalID: 5182821084890200629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_148
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82056ebd7fd2a846b70f803d35d0b96
+      internalID: 4055076481045800164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_149
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402641096d8c45444b58424737767bc5
+      internalID: 1941290063460137293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_150
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491c0bf933cb43543acdf57f16c9081f
+      internalID: 1585254332759413784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_151
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9b678f7a043434ab08583f9441794b
+      internalID: -4060011523897109746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_152
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98024388caed79439f10112bc5b5754
+      internalID: 2188815779940138062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_153
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1cb168d597b240af85246b44004c5
+      internalID: -7027555404729436556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3678a47b6d0d611478530079d07afc66
+      internalID: 5986997753538677187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_155
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5df261e18665a4aa85eb835c30fba0
+      internalID: 3309631559465597972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_156
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff15c2deb9068534e8a68fc71e29855b
+      internalID: 8064704422018857246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_157
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708bd549610bdca418aafdb4aa0b15c6
+      internalID: 94422564815135724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_158
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c687f75c8029c84092d0a9c8ad40ed7
+      internalID: 879757368415525827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_159
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e3839c475120a4b9d74d5fb91f240b
+      internalID: 1829199289395605506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_160
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a374fd26ef32eb49a1396289144d80c
+      internalID: 8647109473046977759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_161
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe749f2d7eb2b64098ba0253757a672
+      internalID: -3940280442943934118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_162
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2e10c80b8af054bb8872a6a892e77f
+      internalID: 5184837458358808125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_163
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ed3d705b1cef74ba7ba27596574bc6
+      internalID: 5228594380678253863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_164
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a338b9d56d36bc542873399ab6b4ef02
+      internalID: 8831649715996532395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_165
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45c4cc23e12a24e8eaa3bff768634f
+      internalID: 5193246289987622147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_166
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323f98baf295b541ab687ea32f5dbeb
+      internalID: -5368628063278448617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_167
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64070483bf645b459068aa9abfb5b39
+      internalID: -4312844444362309868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896528dae32da84eb9610413ef96ddf
+      internalID: 8192277073968122482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_169
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a280997b7514fd4b9a7715d00118f81
+      internalID: 4459981649293353083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_170
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682d56caf07c354289b7806baf63d8f
+      internalID: 3281052321977743426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_171
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337e33c1fa53b8468df86111bc070bf
+      internalID: -3399661217722989872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_172
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e51955b726944ab2afba6fabba664
+      internalID: 5422218531518249596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_173
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04744acee79967d4c951875e4ae388f6
+      internalID: -6258696738163812919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_174
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db03e597d9d312647b76c43af21f89b5
+      internalID: 8167845747458224926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_175
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb35402faccc86479453102af3ebbb5
+      internalID: -8751702886238023696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_176
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1b6d00efdd5841ae893c7c8d1756e
+      internalID: 7774311687159807074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_177
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02185ba233608dc4692ace52b3a0f02e
+      internalID: -2503005395954496854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_178
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79915f6221056f43ade98c80e24ad18
+      internalID: 3931877507195007822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_179
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd5361b0d8f324da114d93ac67168f
+      internalID: -3676344493842355834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_180
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70cc49729fcbc14da965ca42b39ed4e
+      internalID: -3186517716200185601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_181
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c62677e7a8899c46ae849a1a7ff2278
+      internalID: 4398051749141283949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168282d0fead5d46b279899f58bdad8
+      internalID: -4073348087121793161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_183
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0259408ffadc244ba38997db4046bd
+      internalID: -4306047435541963899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_184
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da9a1d8780a7341b89d3129c031b89
+      internalID: -3661291583502751368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_185
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf6cb741adbdb443be184ca2ef9d2f0
+      internalID: -4354535503549427818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_186
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93abeb8a97118734da333633cc030f3b
+      internalID: 2687215697504135684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_187
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e4bd55bddaae4883530e222e333c0
+      internalID: 7512734163194392346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_188
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd1d8d23843ba4f8033596d30cfedc
+      internalID: 1046470945940768956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_189
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126eb7d606218a42ac5cf517d4d9829
+      internalID: -5188806042035198935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_190
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d75c3f8f1ba53e46a7e70efdbb2830b
+      internalID: -5845693178052532228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_191
+      rect:
+        serializedVersion: 2
+        x: 6570
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2be4c9e7232fa948a2d7345f95a7dac
+      internalID: -6701262147893913161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_192
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281bb8c04aa88146a88bbec98b8dfbe
+      internalID: 7383138027900110542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_193
+      rect:
+        serializedVersion: 2
+        x: 8030
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f527429e30bf2fe4dbd4fed24104f7bf
+      internalID: 6204440852808100458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_194
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d7f30c73fa2bc45aefd895894f57e8
+      internalID: 8265119051770499380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_195
+      rect:
+        serializedVersion: 2
+        x: 9490
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a22e6352511a094eb820b24d0f0a78a
+      internalID: 6482528531081066571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310903e988c02e94fbae13a95118a7d8
+      internalID: 2723480173197581293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_197
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cb039361c20664e88da1c5d832b349
+      internalID: 1251708489878874278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_198
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b067c6fb2760f344abd93ace076242c9
+      internalID: -9136421036553904405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kyvadlo animace jeste mensi_#[730,430]_199
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ced3fd2024218418dfef0fd9069bd2
+      internalID: 8784475232406096834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
