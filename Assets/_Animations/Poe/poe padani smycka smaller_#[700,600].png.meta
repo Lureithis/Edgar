@@ -1,0 +1,1615 @@
+fileFormatVersion: 2
+guid: 28d58055477d1cd49a88df7f10454843
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -455433783414785088
+    second: poe padani smycka smaller_#[700,600]_0
+  - first:
+      213: 8911805276897794079
+    second: poe padani smycka smaller_#[700,600]_1
+  - first:
+      213: -7745998130880113517
+    second: poe padani smycka smaller_#[700,600]_2
+  - first:
+      213: -249126168774900054
+    second: poe padani smycka smaller_#[700,600]_3
+  - first:
+      213: -3063320474226551633
+    second: poe padani smycka smaller_#[700,600]_4
+  - first:
+      213: 6080228593599929905
+    second: poe padani smycka smaller_#[700,600]_5
+  - first:
+      213: 6093536438330467783
+    second: poe padani smycka smaller_#[700,600]_6
+  - first:
+      213: 8907366287144270106
+    second: poe padani smycka smaller_#[700,600]_7
+  - first:
+      213: 5557989342185338466
+    second: poe padani smycka smaller_#[700,600]_8
+  - first:
+      213: 5131633047087495001
+    second: poe padani smycka smaller_#[700,600]_9
+  - first:
+      213: -4032439957097522160
+    second: poe padani smycka smaller_#[700,600]_10
+  - first:
+      213: 4919812519037106538
+    second: poe padani smycka smaller_#[700,600]_11
+  - first:
+      213: -8062953842769262
+    second: poe padani smycka smaller_#[700,600]_12
+  - first:
+      213: -7781119122108992439
+    second: poe padani smycka smaller_#[700,600]_13
+  - first:
+      213: -1373977675295599738
+    second: poe padani smycka smaller_#[700,600]_14
+  - first:
+      213: -7835227478548515788
+    second: poe padani smycka smaller_#[700,600]_15
+  - first:
+      213: 6062347309636290146
+    second: poe padani smycka smaller_#[700,600]_16
+  - first:
+      213: -2075586157049344358
+    second: poe padani smycka smaller_#[700,600]_17
+  - first:
+      213: 5270523683695298917
+    second: poe padani smycka smaller_#[700,600]_18
+  - first:
+      213: 22606318788118547
+    second: poe padani smycka smaller_#[700,600]_19
+  - first:
+      213: -3571550949580707066
+    second: poe padani smycka smaller_#[700,600]_20
+  - first:
+      213: 4190096846447742470
+    second: poe padani smycka smaller_#[700,600]_21
+  - first:
+      213: -7359384859219912648
+    second: poe padani smycka smaller_#[700,600]_22
+  - first:
+      213: 4503412716258776479
+    second: poe padani smycka smaller_#[700,600]_23
+  - first:
+      213: -7240999680615521403
+    second: poe padani smycka smaller_#[700,600]_24
+  - first:
+      213: -1937040290151010347
+    second: poe padani smycka smaller_#[700,600]_25
+  - first:
+      213: 3754822315469825184
+    second: poe padani smycka smaller_#[700,600]_26
+  - first:
+      213: 5245626195388058466
+    second: poe padani smycka smaller_#[700,600]_27
+  - first:
+      213: 8836718899491234333
+    second: poe padani smycka smaller_#[700,600]_28
+  - first:
+      213: 174857070227278328
+    second: poe padani smycka smaller_#[700,600]_29
+  - first:
+      213: -4189274018424043771
+    second: poe padani smycka smaller_#[700,600]_30
+  - first:
+      213: 2952636938487463641
+    second: poe padani smycka smaller_#[700,600]_31
+  - first:
+      213: -3342762243350377847
+    second: poe padani smycka smaller_#[700,600]_32
+  - first:
+      213: 4949493902652244743
+    second: poe padani smycka smaller_#[700,600]_33
+  - first:
+      213: -6140310462047997336
+    second: poe padani smycka smaller_#[700,600]_34
+  - first:
+      213: 2753949519706566334
+    second: poe padani smycka smaller_#[700,600]_35
+  - first:
+      213: 4569798256642974
+    second: poe padani smycka smaller_#[700,600]_36
+  - first:
+      213: 2442402338517290459
+    second: poe padani smycka smaller_#[700,600]_37
+  - first:
+      213: -4417998549868354101
+    second: poe padani smycka smaller_#[700,600]_38
+  - first:
+      213: 5323070111743236225
+    second: poe padani smycka smaller_#[700,600]_39
+  - first:
+      213: -1268692395238895575
+    second: poe padani smycka smaller_#[700,600]_40
+  - first:
+      213: -2285427216593708142
+    second: poe padani smycka smaller_#[700,600]_41
+  - first:
+      213: 4860262184752371437
+    second: poe padani smycka smaller_#[700,600]_42
+  - first:
+      213: 1165306684339365234
+    second: poe padani smycka smaller_#[700,600]_43
+  - first:
+      213: -5516374776609135733
+    second: poe padani smycka smaller_#[700,600]_44
+  - first:
+      213: -3308097916287449022
+    second: poe padani smycka smaller_#[700,600]_45
+  - first:
+      213: -2474621513617394818
+    second: poe padani smycka smaller_#[700,600]_46
+  - first:
+      213: -6921695221429210589
+    second: poe padani smycka smaller_#[700,600]_47
+  - first:
+      213: -2965396681373092387
+    second: poe padani smycka smaller_#[700,600]_48
+  - first:
+      213: 72588515611437220
+    second: poe padani smycka smaller_#[700,600]_49
+  - first:
+      213: 352511373567435274
+    second: poe padani smycka smaller_#[700,600]_50
+  - first:
+      213: -5287017341039996561
+    second: poe padani smycka smaller_#[700,600]_51
+  - first:
+      213: -4190798395495133189
+    second: poe padani smycka smaller_#[700,600]_52
+  - first:
+      213: -4472059600029461737
+    second: poe padani smycka smaller_#[700,600]_53
+  - first:
+      213: -4191205705995129882
+    second: poe padani smycka smaller_#[700,600]_54
+  - first:
+      213: -6237539154582158354
+    second: poe padani smycka smaller_#[700,600]_55
+  - first:
+      213: -1712875219121436294
+    second: poe padani smycka smaller_#[700,600]_56
+  - first:
+      213: -7319463729363006183
+    second: poe padani smycka smaller_#[700,600]_57
+  - first:
+      213: 8294964824116790975
+    second: poe padani smycka smaller_#[700,600]_58
+  - first:
+      213: 6134761730192256065
+    second: poe padani smycka smaller_#[700,600]_59
+  - first:
+      213: 4852192307754343245
+    second: poe padani smycka smaller_#[700,600]_60
+  - first:
+      213: 4131639127195006272
+    second: poe padani smycka smaller_#[700,600]_61
+  - first:
+      213: 7737358339185029425
+    second: poe padani smycka smaller_#[700,600]_62
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8741c130669a11b4a8abd9a0a556e82d
+      internalID: -455433783414785088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_1
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a855c983849e5b84eb0ddf2566939b03
+      internalID: 8911805276897794079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_2
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc27404adee5f04ba40c5d600f5393e
+      internalID: -7745998130880113517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_3
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e60effafd69ce4b83c91de6f76918a
+      internalID: -249126168774900054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_4
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d8e07e145c575438ceeb794aae4777
+      internalID: -3063320474226551633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_5
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8bfe3b71c37ab4db0476b36c145940
+      internalID: 6080228593599929905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_6
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d4e5c5d983b344e96e79244e1836af
+      internalID: 6093536438330467783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57c4acbdefd9f74086827d7455bbb3b
+      internalID: 8907366287144270106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_8
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566a9ba5562e18d45966fdf1163c27ce
+      internalID: 5557989342185338466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9441d687e71dadd40adde3407ffa8898
+      internalID: 5131633047087495001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_10
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67504cc5c07164ba3a107e9c7a21a1
+      internalID: -4032439957097522160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_11
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638d604c1051fa44bcf4eb5560e77ad
+      internalID: 4919812519037106538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_12
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb1a7cecef2f554399952977e9728ae
+      internalID: -8062953842769262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_13
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ef6f99609c69440905088ddac8174e
+      internalID: -7781119122108992439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3745a073bb0820f4db27880e67a2d888
+      internalID: -1373977675295599738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f42b97aad0f24d9452c7f1b6f0569
+      internalID: -7835227478548515788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_16
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b675ff663b1e475489f47a58819f9695
+      internalID: 6062347309636290146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82209c1888e8b734e864d6444f9cf10a
+      internalID: -2075586157049344358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_18
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6e915954cf52c46879ac51fabbcd8c
+      internalID: 5270523683695298917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_19
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863ae19ccf75f424290ac0dc34b704e6
+      internalID: 22606318788118547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_20
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a55c3287e420941ad5b3b3b0251f8c
+      internalID: -3571550949580707066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ab6ac0bc963f46862e5e6b67309c6
+      internalID: 4190096846447742470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_22
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63688dad543ada740895f8d1a9aad934
+      internalID: -7359384859219912648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_23
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ad0bad4b78bc4e92e17de179e3da8
+      internalID: 4503412716258776479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_24
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718f7fce9bdaf9b43be7e08603832209
+      internalID: -7240999680615521403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_25
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f821146bd43e0429229a9f995010ab
+      internalID: -1937040290151010347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_26
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c46074bbc104549809a85ec46c6fd6
+      internalID: 3754822315469825184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_27
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 3000
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01b476dbc5ff9948855b0d5b55e7b41
+      internalID: 5245626195388058466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d050681ac4e14090dc011afcc1165
+      internalID: 8836718899491234333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f315f86c4b573e43a9ee1a44f56c685
+      internalID: 174857070227278328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e136ccb75b833b249b3c03af3493cf12
+      internalID: -4189274018424043771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_31
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992be297dbaf029469741290825307b1
+      internalID: 2952636938487463641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_32
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5136443b4d2523e45b07d10d1692e091
+      internalID: -3342762243350377847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_33
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9246141bd4f53e944a862526342ec1b3
+      internalID: 4949493902652244743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_34
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2400
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a795e80a4b64049a362d93a7f33a01
+      internalID: -6140310462047997336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec299a639c84a384f8e07389595141a1
+      internalID: 2753949519706566334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_36
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e6874b5ce3e1640a345db8dba8d6a6
+      internalID: 4569798256642974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_37
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da819ebc9c2ee14dbc446338f22e1d0
+      internalID: 2442402338517290459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_38
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604ab2aec20e3b44fbd6c2063a1e8bc1
+      internalID: -4417998549868354101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_39
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0175873ac4874fa218ede390b0899
+      internalID: 5323070111743236225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_40
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2b4aacd06c9584f8cc46df07e55b0d
+      internalID: -1268692395238895575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_41
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1800
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14f25c95685b0e49a41f399b7c72778
+      internalID: -2285427216593708142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b74f868fa38eb4992066f79f37999f
+      internalID: 4860262184752371437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_43
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dcef2fdb185aa4dbfd1d5bce1d51f7
+      internalID: 1165306684339365234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_44
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a27014e07f1cc4698f25fc9dc575a3
+      internalID: -5516374776609135733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_45
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a07b37f3ccf94f96519141901e73f
+      internalID: -3308097916287449022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_46
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fa10418b7dae1459ec4da8fe17bf8a
+      internalID: -2474621513617394818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_47
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b607865605c7943adc301a74c4311a
+      internalID: -6921695221429210589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_48
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1200
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5764722c3ae24b9cb969290c049fa
+      internalID: -2965396681373092387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d439434ad70bc864cae0e5093b718fec
+      internalID: 72588515611437220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_50
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c730c068c0491b444b8a324b7359497f
+      internalID: 352511373567435274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_51
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a8c98c2a6fc146b5065462885ea3c
+      internalID: -5287017341039996561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_52
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5aaee5e47ce9c4ab72096d33856d8f
+      internalID: -4190798395495133189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_53
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24e7f7e9ce73b4886d16b9a197486a
+      internalID: -4472059600029461737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_54
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6328929e847c44dba4e331a074cadc
+      internalID: -4191205705995129882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_55
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 600
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cd0f2cf6526eb4aba8fa8c13adda5b
+      internalID: -6237539154582158354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2dcd6025c532a446819eb41676200c3
+      internalID: -1712875219121436294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_57
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f0a522c0b1910498efebf07acc8d4e
+      internalID: -7319463729363006183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_58
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71047947f0a5e4ca34d1443fe30368
+      internalID: 8294964824116790975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_59
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a423871a1d9e449e45a78e2590f65
+      internalID: 6134761730192256065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_60
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a0842d4aaeed4db393aa9519bcbff
+      internalID: 4852192307754343245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_61
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcc1edce75d68f488c72e7d25897fdc
+      internalID: 4131639127195006272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe padani smycka smaller_#[700,600]_62
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 700
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d4fb878474b649b0504c5751f5b29
+      internalID: 7737358339185029425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

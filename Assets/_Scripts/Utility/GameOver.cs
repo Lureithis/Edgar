@@ -12,11 +12,14 @@ public class GameOver : MonoBehaviour
     [SerializeField] AnimationClip deathAnim;
     private Animator animator;
 
+    public bool playAnim;
+
     private void Start()
     {
         gameOverScreen.SetActive( false);
         animator = player.GetComponent<Animator>();
         isPlayerDead = false;
+        playAnim = false;
     }
 
     public void EndGame()
@@ -30,7 +33,15 @@ public class GameOver : MonoBehaviour
     {
         deathAnim.wrapMode = WrapMode.Once;
         animator.Play(deathAnim.name);
-        yield return new WaitForSecondsRealtime(deathAnim.length / 2f);
+        if(playAnim == false)
+        {
+            yield return new WaitForSecondsRealtime(deathAnim.length / 2f);
+        }
+        else
+        {
+            yield return new WaitForSecondsRealtime(0.5f);
+        }
+        animator.Play("Idle");
         animator.enabled = false;
         gameOverScreen.SetActive(true);
     }
