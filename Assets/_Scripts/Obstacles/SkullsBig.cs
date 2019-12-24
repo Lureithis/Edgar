@@ -24,7 +24,7 @@ public class SkullsBig : MonoBehaviour
             if(insanitybarScript.isInHallucination == true && isTransformed == false)
             {
                 isTransformed = true;
-                transform.localScale = new Vector2(transform.localScale.x - 5, transform.localScale.y - 5);
+                transform.localScale = new Vector2(transform.localScale.x - 1, transform.localScale.y - 1);
             }
             else if (insanitybarScript.isInHallucination == false)
             {

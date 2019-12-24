@@ -6,11 +6,23 @@ public class Pit : Obstacle
 {
     [SerializeField] GameObject manager;
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    [SerializeField] GameObject Insanity;
+    private InsanityBar bar;
+
+    private void Start()
     {
-        if(collision.tag == "Player")
+        bar = Insanity.GetComponent<InsanityBar>();
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Player")
         {
-            manager.GetComponent<GameOver>().EndGame();
+            if(bar.isInHallucination == false)
+            {
+                manager.GetComponent<GameOver>().EndGame();
+            }
+            
         }
     }
 

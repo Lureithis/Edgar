@@ -45,10 +45,10 @@ public class InsanityBar : MonoBehaviour
         {
             insanityBar.fillAmount -= (drainSpeed * Time.deltaTime);
         }
-        else
+        /*else
         {
             insanityBar.fillAmount += (drainSpeed * Time.deltaTime);
-        }
+        }*/
 
         if (insanityBar.fillAmount <= 1 && insanityBar.fillAmount >= 0.66)
         {

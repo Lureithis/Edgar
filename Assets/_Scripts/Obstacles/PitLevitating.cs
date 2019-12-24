@@ -106,6 +106,17 @@ public class PitLevitating : Obstacle
                 movementInWater = true;
                 RightFacing = controllerChar.isFacingRight;
             }
+            else
+            {
+                if(manager.GetComponent<GameOver>().isPlayerDead == false)
+                {
+                    playerRB.gravityScale = 1f;
+                    animator.Play("Poe_walking");
+                    player.GetComponent<PlayerMovement>().enabled = true;
+                    player.GetComponent<CharacterController2D>().enabled = true;
+                }
+                
+            }
 
         }
     }

@@ -12,10 +12,12 @@ public class ButtonsGameOver : MonoBehaviour
 
     private PlayerStats stats;
     [SerializeField] GameObject manager;
+    private InsanityMode mode;
 
     private void Start()
     {
         stats = manager.GetComponent<PlayerStats>();
+        mode = manager.GetComponent<InsanityMode>();
     }
 
 
@@ -25,14 +27,16 @@ public class ButtonsGameOver : MonoBehaviour
         player.GetComponent<PlayerMovement>().enabled = true;
         manager.GetComponent<GameOver>().isPlayerDead = false;
         player.GetComponent<Animator>().enabled = true;
-        if(insanityBar.GetComponent<InsanityBar>().isInHallucination == true)
+        mode.InsanityModeDeactivated();
+        if (insanityBar.GetComponent<InsanityBar>().isInHallucination == true)
         {
-            insanityBar.GetComponent<InsanityBar>().isInHallucinationChange();
+            insanityBar.GetComponent<InsanityBar>().isInHallucination = false ;
         }
         fillAmountBar.fillAmount = stats.insanityAmount;
         player.transform.position = stats.locationSave;
         player.GetComponent<Collider2D>().enabled = true;
         
+
     }
 
     public void QuitButton()

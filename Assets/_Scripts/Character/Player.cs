@@ -6,8 +6,7 @@ public class Player : MonoBehaviour
 {
     [SerializeField] GameObject gameManager;
     [SerializeField] GameObject InsanityBar;
-
-    private bool isInHallucination;
+    
     private InsanityMode insanitymode;
     private InsanityBar insanitybar;
 
@@ -25,15 +24,13 @@ public class Player : MonoBehaviour
 
     private void ChangeHallucination()
     {
-        if (Input.GetKeyDown(KeyCode.Q) && isInHallucination == false)
+        if (Input.GetKeyDown(KeyCode.Q) && insanitybar.isInHallucination == false)
         {
-            isInHallucination = true;
             insanitymode.InsanityModeActivated();
             insanitybar.isInHallucinationChange();
         }
-        else if (Input.GetKeyDown(KeyCode.Q) && isInHallucination == true)
+        else if (Input.GetKeyDown(KeyCode.Q) && insanitybar.isInHallucination == true)
         {
-            isInHallucination = false;
             insanitymode.InsanityModeDeactivated();
             insanitybar.isInHallucinationChange();
         }

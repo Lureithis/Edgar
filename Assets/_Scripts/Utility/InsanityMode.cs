@@ -6,10 +6,10 @@ using UnityEngine.Video;
 
 public class InsanityMode : MonoBehaviour
 {
-    [SerializeField] GameObject normalRoom;
-    [SerializeField] GameObject insanityRoom01;
-    [SerializeField] GameObject insanityRoom02;
-    [SerializeField] GameObject insanityRoom03;
+    public GameObject normalRoom;
+    public GameObject insanityRoom01;
+    public GameObject insanityRoom02;
+    public GameObject insanityRoom03;
     [SerializeField] GameObject pendulum;
     [SerializeField] GameObject insanityBar;
     [SerializeField] GameObject reaper;
