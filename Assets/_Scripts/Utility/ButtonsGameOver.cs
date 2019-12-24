@@ -9,6 +9,7 @@ public class ButtonsGameOver : MonoBehaviour
     [SerializeField] Player player;
     [SerializeField] Image fillAmountBar;
     [SerializeField] GameObject insanityBar;
+    [SerializeField] GameObject restartPos;
 
     private PlayerStats stats;
     [SerializeField] GameObject manager;
@@ -35,8 +36,22 @@ public class ButtonsGameOver : MonoBehaviour
         fillAmountBar.fillAmount = stats.insanityAmount;
         player.transform.position = stats.locationSave;
         player.GetComponent<Collider2D>().enabled = true;
-        
+    }
 
+    public void RestartGame()
+    {
+        GameOverScreen.SetActive(false);
+        player.GetComponent<PlayerMovement>().enabled = true;
+        manager.GetComponent<GameOver>().isPlayerDead = false;
+        player.GetComponent<Animator>().enabled = true;
+        mode.InsanityModeDeactivated();
+        if (insanityBar.GetComponent<InsanityBar>().isInHallucination == true)
+        {
+            insanityBar.GetComponent<InsanityBar>().isInHallucination = false;
+        }
+        fillAmountBar.fillAmount = 1;
+        player.transform.position = restartPos.transform.position;
+        player.GetComponent<Collider2D>().enabled = true;
     }
 
     public void QuitButton()

@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: fbc5947f201ac9e4dab3e0937a9d3104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3744528734112391392
+    second: poe postavani smaller_#[400,600]_0
+  - first:
+      213: -8581539110302165685
+    second: poe postavani smaller_#[400,600]_1
+  - first:
+      213: 2222410705194410454
+    second: poe postavani smaller_#[400,600]_2
+  - first:
+      213: 7989318972748230803
+    second: poe postavani smaller_#[400,600]_3
+  - first:
+      213: -2763640963177995487
+    second: poe postavani smaller_#[400,600]_4
+  - first:
+      213: -7867593984799917400
+    second: poe postavani smaller_#[400,600]_5
+  - first:
+      213: 2174599404945874024
+    second: poe postavani smaller_#[400,600]_6
+  - first:
+      213: -8269204111164982775
+    second: poe postavani smaller_#[400,600]_7
+  - first:
+      213: 2389345762814097281
+    second: poe postavani smaller_#[400,600]_8
+  - first:
+      213: -7506044556984194709
+    second: poe postavani smaller_#[400,600]_9
+  - first:
+      213: -2796748266067061776
+    second: poe postavani smaller_#[400,600]_10
+  - first:
+      213: 260040290849806849
+    second: poe postavani smaller_#[400,600]_11
+  - first:
+      213: 8265675294134901088
+    second: poe postavani smaller_#[400,600]_12
+  - first:
+      213: -6395148488238076731
+    second: poe postavani smaller_#[400,600]_13
+  - first:
+      213: -1635165969387924951
+    second: poe postavani smaller_#[400,600]_14
+  - first:
+      213: -6936903401538524837
+    second: poe postavani smaller_#[400,600]_15
+  - first:
+      213: 8676392809935036581
+    second: poe postavani smaller_#[400,600]_16
+  - first:
+      213: -4908613887389047448
+    second: poe postavani smaller_#[400,600]_17
+  - first:
+      213: -2775307156183829072
+    second: poe postavani smaller_#[400,600]_18
+  - first:
+      213: -7406602558767625138
+    second: poe postavani smaller_#[400,600]_19
+  - first:
+      213: -6527420050503630536
+    second: poe postavani smaller_#[400,600]_20
+  - first:
+      213: -388897825053069302
+    second: poe postavani smaller_#[400,600]_21
+  - first:
+      213: 5841566453230060591
+    second: poe postavani smaller_#[400,600]_22
+  - first:
+      213: 3621725686583346150
+    second: poe postavani smaller_#[400,600]_23
+  - first:
+      213: 5486630000151843508
+    second: poe postavani smaller_#[400,600]_24
+  - first:
+      213: 876868156410197250
+    second: poe postavani smaller_#[400,600]_25
+  - first:
+      213: 4593046982820154243
+    second: poe postavani smaller_#[400,600]_26
+  - first:
+      213: 3450832240784153616
+    second: poe postavani smaller_#[400,600]_27
+  - first:
+      213: 2341920004739971445
+    second: poe postavani smaller_#[400,600]_28
+  - first:
+      213: 6515449649033032739
+    second: poe postavani smaller_#[400,600]_29
+  - first:
+      213: 7570147389258859800
+    second: poe postavani smaller_#[400,600]_30
+  - first:
+      213: -6906553332397314464
+    second: poe postavani smaller_#[400,600]_31
+  - first:
+      213: 1275190434210237492
+    second: poe postavani smaller_#[400,600]_32
+  - first:
+      213: -2678651145328041934
+    second: poe postavani smaller_#[400,600]_33
+  - first:
+      213: 4014322489171845729
+    second: poe postavani smaller_#[400,600]_34
+  - first:
+      213: 6444325828740356314
+    second: poe postavani smaller_#[400,600]_35
+  - first:
+      213: 6072916887704875395
+    second: poe postavani smaller_#[400,600]_36
+  - first:
+      213: -4522351586150386877
+    second: poe postavani smaller_#[400,600]_37
+  - first:
+      213: 2944285300568893994
+    second: poe postavani smaller_#[400,600]_38
+  - first:
+      213: 3700765311927454006
+    second: poe postavani smaller_#[400,600]_39
+  - first:
+      213: -8009949897711451428
+    second: poe postavani smaller_#[400,600]_40
+  - first:
+      213: 2908417324985082144
+    second: poe postavani smaller_#[400,600]_41
+  - first:
+      213: 3006007275169489629
+    second: poe postavani smaller_#[400,600]_42
+  - first:
+      213: -4677272658108759297
+    second: poe postavani smaller_#[400,600]_43
+  - first:
+      213: 4754788826434836586
+    second: poe postavani smaller_#[400,600]_44
+  - first:
+      213: 3005514929763869488
+    second: poe postavani smaller_#[400,600]_45
+  - first:
+      213: -7557675747540383169
+    second: poe postavani smaller_#[400,600]_46
+  - first:
+      213: 2078534909692973737
+    second: poe postavani smaller_#[400,600]_47
+  - first:
+      213: -2560092493622577449
+    second: poe postavani smaller_#[400,600]_48
+  - first:
+      213: 2529137874903859502
+    second: poe postavani smaller_#[400,600]_49
+  - first:
+      213: 5998925378391520420
+    second: poe postavani smaller_#[400,600]_50
+  - first:
+      213: 7939211983593016756
+    second: poe postavani smaller_#[400,600]_51
+  - first:
+      213: 6529977373319758178
+    second: poe postavani smaller_#[400,600]_52
+  - first:
+      213: 7854889980175372701
+    second: poe postavani smaller_#[400,600]_53
+  - first:
+      213: 2715683268484917581
+    second: poe postavani smaller_#[400,600]_54
+  - first:
+      213: 5573913670378370824
+    second: poe postavani smaller_#[400,600]_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5427f90ee60e2d4a85d72b10e6282df
+      internalID: 3744528734112391392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad2723c2bcec4459c433e1acdc1a74
+      internalID: -8581539110302165685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3892d241081dd6041a88b4895911bc2d
+      internalID: 2222410705194410454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4a4eabc0e7f949a8812d0147b9391
+      internalID: 7989318972748230803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727725813c0a32d4d8ca2ac022bd8675
+      internalID: -2763640963177995487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68703c48e287dbc47ad9e0b9cefc4f26
+      internalID: -7867593984799917400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5295b7b68e022334d8cbf50cd5e3081f
+      internalID: 2174599404945874024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606773cea41c30e49bf882be02364352
+      internalID: -8269204111164982775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8733f4ebc66c3684e91793729a0ae934
+      internalID: 2389345762814097281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b8a522f381024459820237e3a1318a
+      internalID: -7506044556984194709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_10
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa778059be1989b49b2fd59d3817da02
+      internalID: -2796748266067061776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_11
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a9c84b538b164db64a6d4e8e82b0e
+      internalID: 260040290849806849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_12
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d33f54dab13544d954c875c7770834
+      internalID: 8265675294134901088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128f1d2504b02864fa380191a2ad4831
+      internalID: -6395148488238076731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b830a6f4f876245af5f77b1f4c9806
+      internalID: -1635165969387924951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_15
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca471a5f57c99bb458452a6c3ad309af
+      internalID: -6936903401538524837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20afca520388df48958637ac2ab8e15
+      internalID: 8676392809935036581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f5f48716ed2984d8410366a30f5bc6
+      internalID: -4908613887389047448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff773e20056dea4e977af1a3eaa69c6
+      internalID: -2775307156183829072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6aa3a96772a8c4babff8e9438fd2d2
+      internalID: -7406602558767625138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_20
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3000
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47448d66184c0b242983a999f5acbd07
+      internalID: -6527420050503630536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa43dcda560c1e74195e19cf4a88ccc6
+      internalID: -388897825053069302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e242ee6f74e3cac46a3540f5ad41b990
+      internalID: 5841566453230060591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_23
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09548866cb0083b4692a69a205371770
+      internalID: 3621725686583346150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_24
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1570c026bd7c948ab9626cdd5b9592
+      internalID: 5486630000151843508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d234dd8040a47ac4e8451056e0e2ceda
+      internalID: 876868156410197250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e735795262c7409244db02b6f5c27
+      internalID: 4593046982820154243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f53f60d2e364aa478eee619b3e44c04
+      internalID: 3450832240784153616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c34849e8614c540a3dcd6846db9af6
+      internalID: 2341920004739971445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d4790b3076b2c4fb9f8455dd13299d
+      internalID: 6515449649033032739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6425096b65ff5849bbf12e92b75645f
+      internalID: 7570147389258859800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d8030f42dab4459d5c92699db1813
+      internalID: -6906553332397314464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0a4b5bceb2e2141822d36295709ef3
+      internalID: 1275190434210237492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_33
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6fd1742bb2624084af00911aaa2d5
+      internalID: -2678651145328041934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_34
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b06f80126e870044bc0b55538770ec7
+      internalID: 4014322489171845729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f315015d842fa45a44f92435a0ee8e
+      internalID: 6444325828740356314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c476d5187f0291a43b65645c10f7a891
+      internalID: 6072916887704875395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05568a0243ff94c4fbb8c1e0fa66a40b
+      internalID: -4522351586150386877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef17a8b4203144b86d2d2e4a544f92
+      internalID: 2944285300568893994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_39
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a0265722437a5499873413982e5b91
+      internalID: 3700765311927454006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b95d14852f6a664aba22614a618cb48
+      internalID: -8009949897711451428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_41
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5bd58d845f1b34e96547fab6793dae
+      internalID: 2908417324985082144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21faed11d439344fbda3e875ddad3d6
+      internalID: 3006007275169489629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293cb0e85cde9e247b32326ced467fdf
+      internalID: -4677272658108759297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_44
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d62a22f1c0804c96c9477d1c0eb3b
+      internalID: 4754788826434836586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_45
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d0611d6b53a1242a5b1e99887a30da
+      internalID: 3005514929763869488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3200fa22cf4e5a458ee28280b4d28f9
+      internalID: -7557675747540383169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_47
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490bbf6907ce3294f970e9679bc24d8d
+      internalID: 2078534909692973737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_48
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 600
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e966458d2f11c4fb930265071a87c5
+      internalID: -2560092493622577449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796f546b0bcf5f84887bb39456b3807f
+      internalID: 2529137874903859502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64a8011206fce14d9f41ce38575b6a3
+      internalID: 5998925378391520420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_51
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e514088d97a0e4698d111d2ab2f96c
+      internalID: 7939211983593016756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_52
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff7140939a6514d896c0f72213baa9
+      internalID: 6529977373319758178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_53
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cf0aacfa292894eaa85cc0f5f4470e
+      internalID: 7854889980175372701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_54
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6211496570dc43d4ab1fa5805517084f
+      internalID: 2715683268484917581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: poe postavani smaller_#[400,600]_55
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 400
+        height: 600
+      alignment: 9
+      pivot: {x: 0.43, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04569a3e5f45ef94eaf9addb9fe5b2f0
+      internalID: 5573913670378370824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

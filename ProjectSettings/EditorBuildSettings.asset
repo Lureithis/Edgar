@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/_Scenes/Level01.unity
     guid: d69f120c82164f440a0e86764dd321b5
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Scenes/Traps_Preview.unity
     guid: 8194f5ce620b27e4785ecea534884a0a
+  - enabled: 1
+    path: Assets/_Scenes/FINAL.unity
+    guid: c278fb3185c5cf8448a53daf9570e262
   m_configObjects: {}

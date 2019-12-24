@@ -1,7 +1,241 @@
 fileFormatVersion: 2
 guid: 918ff62d89a1f804c82da74aa542a92c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3670311449524886324
+    second: bat 2 mensi_#[730,430]_0
+  - first:
+      213: -5942839627085159740
+    second: bat 2 mensi_#[730,430]_1
+  - first:
+      213: 5111227932226989017
+    second: bat 2 mensi_#[730,430]_2
+  - first:
+      213: -8435657341319162042
+    second: bat 2 mensi_#[730,430]_3
+  - first:
+      213: 620398430706635563
+    second: bat 2 mensi_#[730,430]_4
+  - first:
+      213: -4512913248738546554
+    second: bat 2 mensi_#[730,430]_5
+  - first:
+      213: 4812797961353380972
+    second: bat 2 mensi_#[730,430]_6
+  - first:
+      213: -1303406541846199593
+    second: bat 2 mensi_#[730,430]_7
+  - first:
+      213: -3282022301845693027
+    second: bat 2 mensi_#[730,430]_8
+  - first:
+      213: -4484376256259869806
+    second: bat 2 mensi_#[730,430]_9
+  - first:
+      213: -9025763721784742654
+    second: bat 2 mensi_#[730,430]_10
+  - first:
+      213: -4318073391011118959
+    second: bat 2 mensi_#[730,430]_11
+  - first:
+      213: -6532591204473896241
+    second: bat 2 mensi_#[730,430]_12
+  - first:
+      213: -6267434269494323610
+    second: bat 2 mensi_#[730,430]_13
+  - first:
+      213: 189586861419975374
+    second: bat 2 mensi_#[730,430]_14
+  - first:
+      213: -8327150172267641249
+    second: bat 2 mensi_#[730,430]_15
+  - first:
+      213: -8428230146348825115
+    second: bat 2 mensi_#[730,430]_16
+  - first:
+      213: 4579896197040143396
+    second: bat 2 mensi_#[730,430]_17
+  - first:
+      213: -2260708718189425592
+    second: bat 2 mensi_#[730,430]_18
+  - first:
+      213: 1417466889810967324
+    second: bat 2 mensi_#[730,430]_19
+  - first:
+      213: 3021053847806759548
+    second: bat 2 mensi_#[730,430]_20
+  - first:
+      213: 4157918159782779186
+    second: bat 2 mensi_#[730,430]_21
+  - first:
+      213: 4807554772328954717
+    second: bat 2 mensi_#[730,430]_22
+  - first:
+      213: 7490799304156670970
+    second: bat 2 mensi_#[730,430]_23
+  - first:
+      213: 5382811142555246678
+    second: bat 2 mensi_#[730,430]_24
+  - first:
+      213: -6912747799184974033
+    second: bat 2 mensi_#[730,430]_25
+  - first:
+      213: -1722797493257114540
+    second: bat 2 mensi_#[730,430]_26
+  - first:
+      213: -6318503676432622988
+    second: bat 2 mensi_#[730,430]_27
+  - first:
+      213: 645036628405336958
+    second: bat 2 mensi_#[730,430]_28
+  - first:
+      213: 7027908988394640301
+    second: bat 2 mensi_#[730,430]_29
+  - first:
+      213: 7709103255465734423
+    second: bat 2 mensi_#[730,430]_30
+  - first:
+      213: 3167111350642295513
+    second: bat 2 mensi_#[730,430]_31
+  - first:
+      213: 1130996633101557899
+    second: bat 2 mensi_#[730,430]_32
+  - first:
+      213: 3233735150463803280
+    second: bat 2 mensi_#[730,430]_33
+  - first:
+      213: -5700173095659880303
+    second: bat 2 mensi_#[730,430]_34
+  - first:
+      213: -7917295787664286555
+    second: bat 2 mensi_#[730,430]_35
+  - first:
+      213: -3478784333483579110
+    second: bat 2 mensi_#[730,430]_36
+  - first:
+      213: 8496868656840737114
+    second: bat 2 mensi_#[730,430]_37
+  - first:
+      213: 894798205747333569
+    second: bat 2 mensi_#[730,430]_38
+  - first:
+      213: 2668957220713236246
+    second: bat 2 mensi_#[730,430]_39
+  - first:
+      213: -7483642292297620948
+    second: bat 2 mensi_#[730,430]_40
+  - first:
+      213: -8310483787200251603
+    second: bat 2 mensi_#[730,430]_41
+  - first:
+      213: -5322397103271223317
+    second: bat 2 mensi_#[730,430]_42
+  - first:
+      213: -2776414614840358199
+    second: bat 2 mensi_#[730,430]_43
+  - first:
+      213: -6092897872117291547
+    second: bat 2 mensi_#[730,430]_44
+  - first:
+      213: -6437151451844866693
+    second: bat 2 mensi_#[730,430]_45
+  - first:
+      213: -3560296035567061268
+    second: bat 2 mensi_#[730,430]_46
+  - first:
+      213: 9088480156416799763
+    second: bat 2 mensi_#[730,430]_47
+  - first:
+      213: 206519834297283207
+    second: bat 2 mensi_#[730,430]_48
+  - first:
+      213: -8944513435026468435
+    second: bat 2 mensi_#[730,430]_49
+  - first:
+      213: 7433214724338601181
+    second: bat 2 mensi_#[730,430]_50
+  - first:
+      213: 3701996037592968928
+    second: bat 2 mensi_#[730,430]_51
+  - first:
+      213: -7876394029328043798
+    second: bat 2 mensi_#[730,430]_52
+  - first:
+      213: 5280440779663515947
+    second: bat 2 mensi_#[730,430]_53
+  - first:
+      213: -6794638636581423949
+    second: bat 2 mensi_#[730,430]_54
+  - first:
+      213: 2398477906763378559
+    second: bat 2 mensi_#[730,430]_55
+  - first:
+      213: 4784472628846864500
+    second: bat 2 mensi_#[730,430]_56
+  - first:
+      213: 8007643538563286467
+    second: bat 2 mensi_#[730,430]_57
+  - first:
+      213: -1728480629460397836
+    second: bat 2 mensi_#[730,430]_58
+  - first:
+      213: 3773273434385958604
+    second: bat 2 mensi_#[730,430]_59
+  - first:
+      213: -2663559495005166999
+    second: bat 2 mensi_#[730,430]_60
+  - first:
+      213: -2690601501283314311
+    second: bat 2 mensi_#[730,430]_61
+  - first:
+      213: -2006462692016198473
+    second: bat 2 mensi_#[730,430]_62
+  - first:
+      213: -3264518070342259633
+    second: bat 2 mensi_#[730,430]_63
+  - first:
+      213: 980852946212097906
+    second: bat 2 mensi_#[730,430]_64
+  - first:
+      213: -4058308059702569606
+    second: bat 2 mensi_#[730,430]_65
+  - first:
+      213: 5366051825263699806
+    second: bat 2 mensi_#[730,430]_66
+  - first:
+      213: 61361736964785003
+    second: bat 2 mensi_#[730,430]_67
+  - first:
+      213: 1649717687112255137
+    second: bat 2 mensi_#[730,430]_68
+  - first:
+      213: 627725033064082854
+    second: bat 2 mensi_#[730,430]_69
+  - first:
+      213: -6741983152017777058
+    second: bat 2 mensi_#[730,430]_70
+  - first:
+      213: 8545199055640439533
+    second: bat 2 mensi_#[730,430]_71
+  - first:
+      213: -7910038246419972373
+    second: bat 2 mensi_#[730,430]_72
+  - first:
+      213: 3066490813386800756
+    second: bat 2 mensi_#[730,430]_73
+  - first:
+      213: 176847542940475139
+    second: bat 2 mensi_#[730,430]_74
+  - first:
+      213: -5725937302890365856
+    second: bat 2 mensi_#[730,430]_75
+  - first:
+      213: 6862185624436802980
+    second: bat 2 mensi_#[730,430]_76
+  - first:
+      213: 2484407456994755737
+    second: bat 2 mensi_#[730,430]_77
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -84,7 +318,1645 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9d736380e89df4a9c35b5ee45b31d7
+      internalID: -3670311449524886324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_1
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8ed85b1ec91f4b860eeb16b778b5b
+      internalID: -5942839627085159740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c7e4bd6c9787438b7140e033bea49
+      internalID: 5111227932226989017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_3
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc627aee801d9e24588b9505fae8c8ab
+      internalID: -8435657341319162042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_4
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2885826e076fa48b2eab43d9707d7c
+      internalID: 620398430706635563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_5
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26f67ee6f5d1d45848055330442499
+      internalID: -4512913248738546554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_6
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28260a305c8fc7449c2cfa4cdad051f
+      internalID: 4812797961353380972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_7
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3870
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c061be491907ab4cb03dbb5eed3985b
+      internalID: -1303406541846199593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833d9abff1f9aa41bce3f8fed31a477
+      internalID: -3282022301845693027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_9
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b306fe337e78fe84a9d3b3c487d74637
+      internalID: -4484376256259869806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_10
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07a89d3faa01754f8c2cfbdcb276707
+      internalID: -9025763721784742654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_11
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283f9c29e949c3e4f897eb06beea96d5
+      internalID: -4318073391011118959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_12
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbabd4eb488f7e4eb581c83c904bd13
+      internalID: -6532591204473896241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_13
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b251485ffe82740a57abbd9caae18f
+      internalID: -6267434269494323610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_14
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494e78ab73f17c648a80a38238907112
+      internalID: 189586861419975374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_15
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3440
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c23d79259e43d4c9ec7e16598c4b23
+      internalID: -8327150172267641249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed23d701a8bd74cb65cf8177691496
+      internalID: -8428230146348825115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c1852a5f411aa4aa052567ad476add
+      internalID: 4579896197040143396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_18
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b25fc1fdbedaf44d9ca93d74b2cb2d6
+      internalID: -2260708718189425592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_19
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9483710988e2654408736664ae584c77
+      internalID: 1417466889810967324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_20
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9289ef385e12bff4d876623c6aecc0b1
+      internalID: 3021053847806759548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_21
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50e33abf09a60247bd084c6622afd02
+      internalID: 4157918159782779186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_22
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d3759d1f8e4fa429093e45126f390e
+      internalID: 4807554772328954717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_23
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 3010
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717cab35b4080a3439bdec3235e5e04f
+      internalID: 7490799304156670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc4e5568ee25814f98c5469a6feae3c
+      internalID: 5382811142555246678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_25
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bdf704fbfb43e479c6a835aed911a0
+      internalID: -6912747799184974033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_26
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9f7a84ff753c74fa9766ac8728799f
+      internalID: -1722797493257114540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_27
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1d96fdc0c2de04198c275dd83d7181
+      internalID: -6318503676432622988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_28
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ed856083ff5b43bf900a139700db8
+      internalID: 645036628405336958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_29
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9813bd9a7cdea34fb8a62f78adc2216
+      internalID: 7027908988394640301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_30
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e03fb03c43ad46b29edb01f47e3d8
+      internalID: 7709103255465734423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_31
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 2580
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11708d6bbe97a542a318a9cc7bc1389
+      internalID: 3167111350642295513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97b908483a2b74f8d193544ae80db0
+      internalID: 1130996633101557899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed77066415421847aec33013ad8ae91
+      internalID: 3233735150463803280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_34
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9dda089241af847a9d587b88cdd5a2
+      internalID: -5700173095659880303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_35
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba26b6ac26ce094f9acce28cc8fa812
+      internalID: -7917295787664286555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_36
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b5640ddd0ae11488880289a48afc5b
+      internalID: -3478784333483579110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_37
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80683ae70c85613499213f6b11f737a9
+      internalID: 8496868656840737114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_38
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408c84a1a4572640b2cabda9884bf46
+      internalID: 894798205747333569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_39
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 2150
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c322ac22b6bd204c96890d8a0ad1bcc
+      internalID: 2668957220713236246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a2df13746fb9c41a8f58327082af6a
+      internalID: -7483642292297620948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a119d08efc8319f44b09eeaa7f9d3e6e
+      internalID: -8310483787200251603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_42
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3fd78639e572946838ed8b92a71121
+      internalID: -5322397103271223317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_43
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09511b58dbeca6246ba44eff2fc196ac
+      internalID: -2776414614840358199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_44
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880b26fc971f824f849395e8de29ba9
+      internalID: -6092897872117291547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_45
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d81074cfbffaf24784a397d46a5557d
+      internalID: -6437151451844866693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_46
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db8dbbe2253c544b8482c9de345039
+      internalID: -3560296035567061268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_47
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 1720
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae30bd9a1d7f3c44a45d9dcbcde522b
+      internalID: 9088480156416799763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16a2be1b72d2c47a912bed10235279
+      internalID: 206519834297283207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_49
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b835cb6f05294499508d43dd73397f
+      internalID: -8944513435026468435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_50
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ddeefab874b3c42bb8616392e92eb1
+      internalID: 7433214724338601181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_51
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc9d24569f2a644aedc81696497684
+      internalID: 3701996037592968928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_52
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70802d6d6ddb0748a2b7eb9edfc9905
+      internalID: -7876394029328043798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_53
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661c1111370a424f97f801aebda84b5
+      internalID: 5280440779663515947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_54
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37159572aa6656548a2feb158b694a24
+      internalID: -6794638636581423949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_55
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 1290
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce36250981ec2f409d7065a979671a1
+      internalID: 2398477906763378559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28037fdcc783002438af61da08c13fd5
+      internalID: 4784472628846864500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_57
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88632ca9ffb2e634699af4e5050c74f5
+      internalID: 8007643538563286467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_58
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46533385fbe3f44cbfeae2451fddfb7
+      internalID: -1728480629460397836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_59
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba584986793fccf40a985e1980f67401
+      internalID: 3773273434385958604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_60
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c198a9d7e5a1944828fcdc6698ee4f
+      internalID: -2663559495005166999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_61
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11905b321f4a4824d91cc794ad93f72d
+      internalID: -2690601501283314311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_62
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a21c0d4bbfe3e4a8b8abf9affe9cb8
+      internalID: -2006462692016198473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_63
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 860
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc904162c928e9d478e2b80381078e8b
+      internalID: -3264518070342259633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bee545f6971943800134b0e482d69
+      internalID: 980852946212097906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_65
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19fe54a01bcf9744b7f018c7480d0c2
+      internalID: -4058308059702569606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_66
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3730b0885d5164e8703b7872bfa2e5
+      internalID: 5366051825263699806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_67
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ab296e9fc04f9418e254bc22df47e8
+      internalID: 61361736964785003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_68
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec89cbc830a37042ac778b151d95a2d
+      internalID: 1649717687112255137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_69
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092136027fc294e4eb64bb63e7289423
+      internalID: 627725033064082854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_70
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2298785d14bbfcf4abd05d22fff000d3
+      internalID: -6741983152017777058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_71
+      rect:
+        serializedVersion: 2
+        x: 5110
+        y: 430
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9915b6e293af4043bee62020ef0b672
+      internalID: 8545199055640439533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f7727d2b87c254ba064419f1463b29
+      internalID: -7910038246419972373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_73
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a574f5cf319be4e9895a1d0c4e34a2
+      internalID: 3066490813386800756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_74
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aaaab979f86ce4ab1260f13f3c08c8
+      internalID: 176847542940475139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_75
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b2d0c3c280b549b8a564d652b5199
+      internalID: -5725937302890365856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_76
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d496842073600438601b5e135dd146
+      internalID: 6862185624436802980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bat 2 mensi_#[730,430]_77
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 0
+        width: 730
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bece2bb68db064d8d1ba580cd39734
+      internalID: 2484407456994755737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

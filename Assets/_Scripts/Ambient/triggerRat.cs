@@ -28,9 +28,10 @@ public class triggerRat : MonoBehaviour
         {
             if(firstTime == true)
             {
+                
                 Rat.transform.position = startVector;
                 firstTime = false;
-                StartCoroutine(DestroyRat());
+               // StartCoroutine(DestroyRat());
             }
             
             RatScript.Run(endVector);
