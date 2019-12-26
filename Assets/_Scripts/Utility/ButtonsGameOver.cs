@@ -14,6 +14,7 @@ public class ButtonsGameOver : MonoBehaviour
     private PlayerStats stats;
     [SerializeField] GameObject manager;
     private InsanityMode mode;
+    
 
     private void Start()
     {
@@ -28,6 +29,8 @@ public class ButtonsGameOver : MonoBehaviour
         player.GetComponent<PlayerMovement>().enabled = true;
         manager.GetComponent<GameOver>().isPlayerDead = false;
         player.GetComponent<Animator>().enabled = true;
+        insanityBar.GetComponent<InsanityBar>().enabled = true;
+        player.GetComponent<Player>().enabled = true;
         mode.InsanityModeDeactivated();
         if (insanityBar.GetComponent<InsanityBar>().isInHallucination == true)
         {
@@ -44,6 +47,8 @@ public class ButtonsGameOver : MonoBehaviour
         player.GetComponent<PlayerMovement>().enabled = true;
         manager.GetComponent<GameOver>().isPlayerDead = false;
         player.GetComponent<Animator>().enabled = true;
+        insanityBar.GetComponent<InsanityBar>().enabled = true;
+        player.GetComponent<Player>().enabled = true;
         mode.InsanityModeDeactivated();
         if (insanityBar.GetComponent<InsanityBar>().isInHallucination == true)
         {

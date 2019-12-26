@@ -12,6 +12,7 @@ public class GameOver : MonoBehaviour
     [SerializeField] AnimationClip deathAnim;
     private Animator animator;
 
+   
     public bool playAnim;
 
     private void Start()
@@ -26,6 +27,7 @@ public class GameOver : MonoBehaviour
     {
         isPlayerDead = true;
         StartCoroutine(playDeathAnim());
+        player.GetComponent<Player>().enabled = false;
         player.GetComponent<PlayerMovement>().enabled = false;
     }
 

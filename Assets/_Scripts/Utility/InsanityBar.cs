@@ -12,7 +12,6 @@ public class InsanityBar : MonoBehaviour
     [SerializeField] GameOver gameManager;
     [SerializeField] float drainSpeed = 1;
 
-    
     private GameOver gameOverScreen;
 
     // Start is called before the first frame update
@@ -30,8 +29,11 @@ public class InsanityBar : MonoBehaviour
         {
             gameOverScreen.EndGame();
         }
-
-        UpdateInsanityBar();
+        if(gameOverScreen.isPlayerDead == false)
+        {
+            UpdateInsanityBar();
+        }
+        
     }
 
     public void isInHallucinationChange()

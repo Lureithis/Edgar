@@ -12,6 +12,7 @@ public class Player : MonoBehaviour
 
     private void Start()
     {
+ 
         insanitymode = gameManager.GetComponent<InsanityMode>();
         insanitybar = InsanityBar.GetComponent<InsanityBar>();
     }

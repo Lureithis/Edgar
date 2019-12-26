@@ -10,9 +10,9 @@ GameObject:
   m_Component:
   - component: {fileID: 5890309392524454084}
   - component: {fileID: 1821343996121711442}
-  - component: {fileID: -3406015038602006498}
   - component: {fileID: -5120341521364833331}
   - component: {fileID: 7853073397439378661}
+  - component: {fileID: 1065913107333430472}
   m_Layer: 0
   m_Name: BigSkull
   m_TagString: Untagged
@@ -72,7 +72,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: b34a9c9997b6fd04394960050d0ab53a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 93a2d179bc0d03444b64d9bee878a7af, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -83,22 +83,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!58 &-3406015038602006498
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7384253412792004603}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -0.06, y: 0.12}
-  serializedVersion: 2
-  m_Radius: 0.57
 --- !u!50 &-5120341521364833331
 Rigidbody2D:
   serializedVersion: 4
@@ -134,3 +118,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameManager: {fileID: 0}
   destroyTime: 30
+--- !u!58 &1065913107333430472
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7384253412792004603}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.13, y: 0}
+  serializedVersion: 2
+  m_Radius: 0.46

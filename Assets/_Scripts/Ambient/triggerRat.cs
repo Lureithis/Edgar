@@ -17,6 +17,7 @@ public class triggerRat : MonoBehaviour
 
     void Start()
     {
+        firstTime = true;
         endVector = end.transform.position;
         startVector = start.transform.position;
         RatScript = Rat.GetComponent<RatTriggerMovement>();
@@ -40,17 +41,17 @@ public class triggerRat : MonoBehaviour
 
     IEnumerator DestroyRat()
     {
-        yield return new WaitForSecondsRealtime(10f);
+        yield return new WaitForSecondsRealtime(60f);
         //Destroy(gameObject);
         Destroy(Rat);
         this.enabled = false;
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(Triggered == false)
+    {        
+        if(collision.tag == "Player")
         {
-            if (collision.tag == "Player")
+            if (Triggered == false)
             {
                 Triggered = true;
             }

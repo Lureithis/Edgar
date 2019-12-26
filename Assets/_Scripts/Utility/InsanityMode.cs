@@ -14,6 +14,7 @@ public class InsanityMode : MonoBehaviour
     [SerializeField] GameObject insanityBar;
     [SerializeField] GameObject reaper;
     [SerializeField] GameObject player;
+    [SerializeField] AnimationClip hallucinationAnim;
 
     private InsanityBar insanityBarScript;
     private Renderer pendulumRend;
@@ -92,4 +93,5 @@ public class InsanityMode : MonoBehaviour
         insanityRoom03.SetActive(false);
         pendulumRend.enabled = false;
     }
+    
 }

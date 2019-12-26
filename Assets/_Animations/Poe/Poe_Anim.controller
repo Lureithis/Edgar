@@ -87,7 +87,7 @@ AnimatorStateMachine:
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 370, y: -100, z: 0}
-  m_EntryPosition: {x: 200, y: 130, z: 0}
+  m_EntryPosition: {x: 80, y: 130, z: 0}
   m_ExitPosition: {x: 260, y: 30, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 5728723629952069226}
@@ -140,7 +140,7 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
-  - m_Name: Swimming
+  - m_Name: isLevitating
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -153,6 +153,12 @@ AnimatorController:
     m_DefaultBool: 0
     m_Controller: {fileID: 0}
   - m_Name: isFalling
+    m_Type: 9
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 0}
+  - m_Name: firstFall
     m_Type: 9
     m_DefaultFloat: 0
     m_DefaultInt: 0
@@ -205,7 +211,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Poe_swimming
+  m_Name: Poe_levitating
   m_Speed: 3
   m_CycleOffset: 0
   m_Transitions: []
@@ -233,7 +239,7 @@ AnimatorStateTransition:
   m_Name: 
   m_Conditions:
   - m_ConditionMode: 1
-    m_ConditionEvent: Swimming
+    m_ConditionEvent: isLevitating
     m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: 557697702132664231}
@@ -322,7 +328,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: f2bc347964d287945b72a8672f6f23c6, type: 2}
+  m_Motion: {fileID: 7400000, guid: 5dc02252a4ce6f148bb6ef4e60ff8e1f, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -374,7 +380,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6aa1e264d37c36f4fba0dc123f066895, type: 2}
+  m_Motion: {fileID: 7400000, guid: f94a3e24f38ada842b6859078f23cd30, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
