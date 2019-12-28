@@ -24,7 +24,7 @@ public class SkullsSmall : MonoBehaviour
             if(insanitybarScript.isInHallucination == true && isTransformed == false)
             {
                 isTransformed = true;
-                transform.localScale = new Vector2(transform.localScale.x + 1, transform.localScale.y + 1);
+                transform.localScale = new Vector2(transform.localScale.x + 2, transform.localScale.y + 2);
             }
             else if (insanitybarScript.isInHallucination == false)
             {
@@ -44,7 +44,12 @@ public class SkullsSmall : MonoBehaviour
         }
         else if (collision.collider.tag == "Player")
         {
-            gameManager.GetComponent<GameOver>().EndGame();
+            if (gameManager.GetComponent<GameOver>().isPlayerDead == false)
+            {
+                gameManager.GetComponent<GameOver>().EndGame();
+                collision.transform.GetComponent<Collider2D>().enabled = false;
+            }
+                
         }
     }
 

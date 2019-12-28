@@ -25,7 +25,12 @@ public class StoneGameObject : MonoBehaviour
         }
         else if (collision.collider.tag == "Player")
         {
-            gameManager.GetComponent<GameOver>().EndGame();
+            //gameManager.GetComponent<GameOver>().isPlayerDead = true;
+            if(gameManager.GetComponent<GameOver>().isPlayerDead == false)
+            {
+                gameManager.GetComponent<GameOver>().EndGame();
+            }
+                
         }
     }
 

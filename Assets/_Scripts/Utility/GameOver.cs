@@ -25,10 +25,13 @@ public class GameOver : MonoBehaviour
 
     public void EndGame()
     {
-        isPlayerDead = true;
-        StartCoroutine(playDeathAnim());
-        player.GetComponent<Player>().enabled = false;
-        player.GetComponent<PlayerMovement>().enabled = false;
+        if(isPlayerDead == false)
+        {
+            isPlayerDead = true;
+            StartCoroutine(playDeathAnim());
+            player.GetComponent<Player>().enabled = false;
+            player.GetComponent<PlayerMovement>().enabled = false;
+        }
     }
 
     private IEnumerator playDeathAnim()

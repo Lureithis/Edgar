@@ -44,8 +44,12 @@ public class SkullsBig : MonoBehaviour
         }
         else if (collision.collider.tag == "Player")
         {
-            gameManager.GetComponent<GameOver>().EndGame();
-            collision.transform.GetComponent<Collider2D>().enabled = false;
+            if (gameManager.GetComponent<GameOver>().isPlayerDead == false)
+            {
+                gameManager.GetComponent<GameOver>().EndGame();
+                collision.transform.GetComponent<Collider2D>().enabled = false;
+            }
+                
         }
     }
 
