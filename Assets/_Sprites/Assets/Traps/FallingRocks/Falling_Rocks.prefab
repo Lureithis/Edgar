@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 6219326680234658895}
   - component: {fileID: 4879361568003933581}
   - component: {fileID: 9091120883461446887}
+  - component: {fileID: 4204213767147225841}
   m_Layer: 0
   m_Name: Falling_Rocks
   m_TagString: Stone
@@ -133,3 +134,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameManager: {fileID: 0}
+--- !u!95 &4204213767147225841
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6519863410193695164}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 367002960b644cf4cb0ef1a17eec35c5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
