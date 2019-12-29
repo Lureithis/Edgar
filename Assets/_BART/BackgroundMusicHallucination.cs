@@ -51,17 +51,19 @@ public class BackgroundMusicHallucination : MonoBehaviour
     private void PlayHallucinationMusic01()
     {
         isPlaying1 = true;
-        Debug.Log("Here01");
+
+
     }
     private void PlayHallucinationMusic02()
     {
         isPlaying2 = true;
         
-        Debug.Log("Here02");
+
     }
     private void PlayHallucinationMusic03()
     {
         isPlaying3 = true;
-        Debug.Log("Here03");
+
+        
     }
 }
