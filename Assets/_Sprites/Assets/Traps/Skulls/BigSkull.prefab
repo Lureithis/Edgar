@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: -5120341521364833331}
   - component: {fileID: 7853073397439378661}
   - component: {fileID: 1065913107333430472}
+  - component: {fileID: 6929345647622269787}
   m_Layer: 0
   m_Name: BigSkull
   m_TagString: Untagged
@@ -134,3 +135,22 @@ CircleCollider2D:
   m_Offset: {x: 0.13, y: 0}
   serializedVersion: 2
   m_Radius: 0.64
+--- !u!95 &6929345647622269787
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7384253412792004603}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: dedb93e4367e3734793153b771dddfe5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

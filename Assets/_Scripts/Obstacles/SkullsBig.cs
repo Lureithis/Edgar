@@ -44,6 +44,7 @@ public class SkullsBig : MonoBehaviour
         }
         else if (collision.collider.tag == "Player")
         {
+            GetComponent<Animator>().SetTrigger("HitPoe");
             if (gameManager.GetComponent<GameOver>().isPlayerDead == false)
             {
                 gameManager.GetComponent<GameOver>().EndGame();

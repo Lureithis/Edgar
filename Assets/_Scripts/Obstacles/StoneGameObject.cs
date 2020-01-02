@@ -33,6 +33,10 @@ public class StoneGameObject : MonoBehaviour
             }
                 
         }
+        else if(collision.collider.tag == "Ceiling")
+        {
+            Physics2D.IgnoreCollision(this.GetComponent<Collider2D>(), collision.transform.GetComponent<Collider2D>());
+        }
     }
 
     IEnumerator DestroyingStones()
